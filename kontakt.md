@@ -64,7 +64,7 @@ wenn Sie [uns dabei helfen](/CONTRIBUTING/), die Website besser zu machen.
 
 Die Fachschaft Informatik ist Teil der Universität Tübingen, welche durch den
 Rektor vertreten wird. Siehe
-[Impressum](http://www.uni-tuebingen.de/impressum.html|Impressum der Universität Tübingen).
+[Impressum](http://www.uni-tuebingen.de/impressum.html).
 
 Diese Webseite ist der offizielle Internetauftritt der Fachschaft Informatik an
 der Universität Tübingen. Bei Fragen kontaktieren Sie unser

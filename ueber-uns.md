@@ -15,9 +15,9 @@ Momentan sind ca. 20 Leute aktiv und auch ein paar passiv beteiligt. Dabei sollt
 
 Die Fachschaft versucht zum Einen die Interessen der Studierenden gegenüber Fakultät und Universität zu vertreten, zum Anderen das (Service-) Angebot der Fakultät zu erweitern. Darunter verstehen wir u.a.
 
-* [Erstsemester](/erstsemester/)-Betreuung
-* Ansprechpartner bei [studiumsrelevanten Angelegenheiten](/studium/)
-* [Studentische Vertretung in Gremien]([/gremien/) (Fakultätsrat, Studienkommission, AStA, Senat, Prüfungsausschuss)
+* [Erstsemester](/infos/studienanfaenger/)-Betreuung
+* Ansprechpartner bei [studiumsrelevanten Angelegenheiten](/infos/studierende/)
+* Studentische Vertretung in Gremien (Fakultätsrat, Studienkommission, AStA, Senat, Prüfungsausschuss)
 * gebündelter/intensiver Kontakt zu den Professoren
 * Organisation von Clubhausfest und Sommerfest
 * Verbesserung Freizeitmöglichkeiten auf dem Sand
