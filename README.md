@@ -9,7 +9,7 @@ Zukünftige Website der Fachschaft Informatik Tübingen.
 
 ### Installation
 
-Um diese Seite nutzen zu können, musst du [ruby](https://www.ruby-lang.org/de/) und [jekyll](https://jekyllrb.com/) installiert haben. Danach kannst du eine lokale Version der Website folgender Maßen installieren:
+Um diese Seite nutzen zu können, musst du [Ruby](https://www.ruby-lang.org/de/) und [Jekyll](https://jekyllrb.com/) installiert haben. Danach kannst du eine lokale Version der Website folgender Maßen installieren:
 
 ```
 git clone https://github.com/fsi-tue/fsi-tue.github.io.git
@@ -17,7 +17,7 @@ cd fsi-tue.github.io
 bundle install
 ```
 
-Und an schließend kannst du deine lokale Version starten:
+Und anschließend kannst du deine lokale Version starten:
 
 ```
 bundle exec jekyll serve
@@ -27,4 +27,4 @@ Dies startet einen lokalen Webserver, der unter http://127.0.0.1:4000/ erreichba
 
 
 ### Acknowledgements
-Our Website currently uses the jekyll theme [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) by [Dean Attali](https://deanattali.com).
+Our Website currently uses the Jekyll theme [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) by [Dean Attali](https://deanattali.com).

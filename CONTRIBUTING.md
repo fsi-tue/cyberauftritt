@@ -11,7 +11,7 @@ zustimmen musst. Da wir das Jekyll theme [Beautiful Jekyll](https://github.com/d
 ### So kannst du uns helfen
 
 Falls du mit Git noch nicht vertraut bist, kannst du gerne ein Issue in unserem
-[Issue Tracker System](https://github.com/fsi-tue/fsi.github.io/issues) öffnen. Dazu
+[Issue Tracking System](https://github.com/fsi-tue/fsi.github.io/issues) öffnen. Dazu
 musst nur nur auf "New issue" klicken. In dem nun geöffneten Fenster, kannst du
 ähnlich wie in einer E-Mail Betreff und Nachricht eintragen.
 
