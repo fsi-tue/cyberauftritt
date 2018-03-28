@@ -4,7 +4,7 @@ Wir freuen uns, dass du dir überlegst, dich an diesem Repository zu beteiligen.
 Zunächst solltest du wissen, dass du, wenn du zu diesem Repository beitragen
 möchtest, unseren
 [Lizenzbestimmungen](/LICENSE.txt)
-zustimmen musst. Da wir das Jekyll theme [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) von [Dean Attali](http://deanattali.com) verwenden, welches unter der [MIT Lizenz](https://opensource.org/licenses/MIT) lizensiert ist, sind alle Änderungen am Design und der Websiten Struktur ebenfalls unter der [MIT Lizenz](https://opensource.org/licenses/MIT) lizensiert. Alle Textbeiträge (in den .md Markdown Dateien) sind unter der
+zustimmen musst. Da wir das Jekyll theme [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) von [Dean Attali](https://deanattali.com) verwenden, welches unter der [MIT Lizenz](https://opensource.org/licenses/MIT) lizensiert ist, sind alle Änderungen am Design und der Websiten Struktur ebenfalls unter der [MIT Lizenz](https://opensource.org/licenses/MIT) lizensiert. Alle Textbeiträge (in den .md Markdown Dateien) sind unter der
 [CC BY 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/) lizensiert, was bedeutet, dass du den Inhalt beliebig teilen und verändern kannst unter der Bedingung, dass du entsprechend vermerkst, dass der Inhalt ursprünglich von uns, der [Fachschaft Informatik Tübingen](https://www.fsi.uni-tuebingen.de/) erstellt worden ist.
 
 
@@ -37,7 +37,7 @@ Falls du bereits mit Git vertraut bist, befolge die folgenden Schritte:
    ```
    bundle exec jekyll serve
    ```
-5. Mache deine Änderungen lokal, diese stehen dir nun (mit Außnahme der `_config.yml`) direkt unter http://127.0.0.1:4000/ zur Verfügung.
+5. Mache deine Änderungen lokal, diese stehen dir nun (mit Außnahme der `_config.yml`) direkt unter https://127.0.0.1:4000/ zur Verfügung.
 6. Committe deine Änderungen und push sie auf deinen Fork.
 7. Teste deine Änderungen lokal (siehe unten).
 8. Erstelle einen neuen Pull Request für deine Änderungen.
