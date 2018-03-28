@@ -57,7 +57,7 @@ university at all!
 # Broken Links und Probleme mit der Webseite
 Es ist schwer, ein solches Informationsangebot 100-%-ig zu warten.
 Sollten Sie Fehler oder einen toten Link gefunden haben, freuen wir uns sehr,
-wenn Sie [uns dabei helfen](https://github.com/fsi-tue/fsi-tue.github.io/blob/master/CONTRIBUTING.md), die Website besser zu machen.
+wenn Sie [uns dabei helfen](/CONTRIBUTING.md), die Website besser zu machen.
 
 
 # Impressum
