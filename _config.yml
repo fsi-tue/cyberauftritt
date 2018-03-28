@@ -176,7 +176,6 @@ exclude:
   - Dockerfile
   - Gemfile
   - Gemfile.lock
-  - LICENSE
   - README.md
   - Vagrantfile
   - vendor
