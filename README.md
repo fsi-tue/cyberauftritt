@@ -2,7 +2,7 @@
 
 [![Build Status](https://api.travis-ci.org/fsi-tue/cyberauftritt.svg?branch=master)](https://travis-ci.org/fsi-tue/cyberauftritt)
 [![License](https://img.shields.io/github/license/fsi-tue/cyberauftritt.svg)](https://github.com/fsi-tue/cyberauftritt/blob/master/LICENSE.txt)
-[![Depfu](https://badges.depfu.com/badges/f0364df208541d4fbae91bef9446037b/overview.svg)](https://depfu.com/github/fsi-tue/cyberauftritt)
+[![Depfu](https://img.shields.io/depfu/fsi-tue/cyberauftritt.svg)](https://depfu.com/github/fsi-tue/cyberauftritt)
 
 Zukünftige Website der Fachschaft Informatik Tübingen.
 
