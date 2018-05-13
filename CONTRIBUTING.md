@@ -11,7 +11,7 @@ zustimmen musst. Da wir das Jekyll theme [Beautiful Jekyll](https://github.com/d
 ### So kannst du uns helfen
 
 Falls du mit Git noch nicht vertraut bist, kannst du gerne ein Issue in unserem
-[Issue Tracking System](https://github.com/fsi-tue/fsi-tue.github.io/issues) öffnen. Dazu
+[Issue Tracking System](https://github.com/fsi-tue/cyberauftritt/issues) öffnen. Dazu
 musst nur nur auf "New issue" klicken. In dem nun geöffneten Fenster, kannst du
 ähnlich wie in einer E-Mail Betreff und Nachricht eintragen.
 
@@ -23,14 +23,14 @@ eine E-Mail.
 Falls du bereits mit Git vertraut bist, befolge die folgenden Schritte:
 
 1. Forke dieses Repository! Im folgenden gehen wir davon aus, dass du das
-   Repository erfolgreich nach https://github.com/yourname/fsi.github.io geforkt hast.
+   Repository erfolgreich nach https://github.com/yourname/cyberauftritt geforkt hast.
 2. Hol dir eine lokale Kopie deines Forks auf deinen Rechner mit:
    ```
-   git clone git@github.com:yourname/fsi.github.io.git
+   git clone git@github.com:yourname/cyberauftritt.git
    ```
 3. Installiere alle notwendingen Abhängigkeiten mit:
    ```
-   cd fsi-tue.github.io
+   cd cyberauftritt
    bundle install
    ```
 4. Starte einen lokalen Server mit:
@@ -58,6 +58,6 @@ bundle exec htmlproofer ./_site
 #### Continous Integration
 
 Um kontinuierlich zu überprüfen, dass alle Verlinkungen zumindest existieren, nutzten wir [Travis](https://travis-ci.org/). Travis ist ein Online Dienst, der die oben genannten Befehle nach jedem push und für jeden Pull Request durchführt. Dies gibt uns die Sicherheit, dass Änderungen nichts kaputt machen. Die aktuelle Konfiguration findest du
-[hier](https://github.com/fsi-tue/fsi-tue.github.io/blob/master/.travis.yml) und eine Übersicht der letzten Builds [hier](https://travis-ci.org/fsi-tue/fsi-tue.github.io/).
+[hier](https://github.com/fsi-tue/cyberauftritt/blob/master/.travis.yml) und eine Übersicht der letzten Builds [hier](https://travis-ci.org/fsi-tue/cyberauftritt/).
 
 Falls du das Repository geforkt hast, macht es unter Umständen Sinn, Travis auch für dein Repository zu aktivieren.
