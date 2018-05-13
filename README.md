@@ -1,8 +1,8 @@
 # Website der Fachschaft Informatik Tübingen
 
-[![Build Status](https://travis-ci.org/fsi-tue/fsi-tue.github.io.svg?branch=master)](https://travis-ci.org/fsi-tue/fsi-tue.github.io)
-[![license](https://img.shields.io/github/license/fsi-tue/fsi-tue.github.io.svg)](https://github.com/fsi-tue/fsi-tue.github.io/blob/master/LICENSE.txt)
-[![Depfu](https://badges.depfu.com/badges/f0364df208541d4fbae91bef9446037b/overview.svg)](https://depfu.com/github/fsi-tue/fsi-tue.github.io)
+[![Build Status](https://api.travis-ci.org/fsi-tue/cyberauftritt.svg?branch=master)](https://travis-ci.org/fsi-tue/cyberauftritt)
+[![License](https://img.shields.io/github/license/fsi-tue/cyberauftritt.svg)](https://github.com/fsi-tue/cyberauftritt/blob/master/LICENSE.txt)
+[![Depfu](https://badges.depfu.com/badges/f0364df208541d4fbae91bef9446037b/overview.svg)](https://depfu.com/github/fsi-tue/cyberauftritt)
 
 Zukünftige Website der Fachschaft Informatik Tübingen.
 
@@ -12,8 +12,8 @@ Zukünftige Website der Fachschaft Informatik Tübingen.
 Um diese Seite nutzen zu können, musst du [Ruby](https://www.ruby-lang.org/de/) und [Jekyll](https://jekyllrb.com/) installiert haben. Danach kannst du eine lokale Version der Website folgender Maßen installieren:
 
 ```
-git clone https://github.com/fsi-tue/fsi-tue.github.io.git
-cd fsi-tue.github.io
+git clone https://github.com/fsi-tue/cyberauftritt.git
+cd cyberauftritt
 bundle install
 ```
 
