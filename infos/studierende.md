@@ -32,7 +32,7 @@ Die wichtigsten Mailinglisten sind:
 Die Anmeldung zu den Mailinglisten könnt ihr bequem über das [Web-Frontend](https://www.fsi.uni-tuebingen.de/mailman/listinfo) erledigen. Klickt dazu auf den Namen der Mailingliste und tragt eure Daten in der Rubrik "Subscribing to..." ein.
 
 # Stammtisch
-Unter der Woche treffen sich eine Teilmenge der Fachschaftsmitglieder jeden Montag ab 20:00 im [Bierkeller](https://bierkeller-tuebingen.de). Hierzu sind natürlich auch Studierende aller unserer Studiengänge herzlich willkommen!
+Unter der Woche treffen sich eine Teilmenge der Fachschaftsmitglieder jeden Montag ab 20:00 im [Bierkeller](http://bierkeller-tuebingen.de). Hierzu sind natürlich auch Studierende aller unserer Studiengänge herzlich willkommen!
 
 # Studienberatung
 Pro Studiengang bieten wir euch eine dedizierte studentische Studienberatung an, die sich mit allen Belangen des entsprechenden Studiengangs auskennt. Vom Studienverlaufsplan bis hin zur Anrechnung bestimmter Veranstaltungen können euch unsere Studienberater weiterhelfen. Die Studienberatung wird aktuell durch folgende Personen durchgeführt:
