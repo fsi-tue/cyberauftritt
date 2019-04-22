@@ -11,25 +11,23 @@ Informationen fuer [Studieninteressierte](/infos/studieninteressierte/),
 [Unternehmen](/infos/unternehmen/) zu lesen.
 
 # Adresse
-Universität Tübingen  
-Fachschaft Informatik  
-Sand 14  
-72076 Tübingen  
-48.534°N 9.071°E  
+Universität Tübingen
+Fachschaft Informatik
+Sand 14
+72076 Tübingen
+48.534°N 9.071°E
 
 <link rel="stylesheet" href="https://openlayers.org/en/v4.6.5/css/ol.css" type="text/css">
 <script src="js/ol.js" type="text/javascript"></script>
 <div id="map" class="map"></div>
 <script src="js/map.js" type="text/javascript"></script>
 
-Telefon: +49 7071 29-70413  
+Telefon: +49 7071 29-70413
 Telefonisch sind wir nur schlecht zu erreichen. Versuchen Sie es am besten dann,
-wenn gerade eine Fachschaftssitzung stattfindet.  
+wenn gerade eine Fachschaftssitzung stattfindet.
 
 E-mail: [fsi@fsi.uni-tuebingen.de](mailto:fsi@fsi.uni-tuebingen.de) \\
-Bitte beachten Sie hierbei unsere
- [Kontaktrichtlinien](/kontakt/#Kontaktrichtlinien)!
-
+Bitte beachten Sie hierbei unsere Kontaktrichtlinien!
 
 # Kontaktrichtlinien
 
