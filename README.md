@@ -9,12 +9,24 @@ Zukünftige Website der Fachschaft Informatik Tübingen.
 
 ### Installation
 
-Um diese Seite nutzen zu können, musst du [Ruby](https://www.ruby-lang.org/de/) und [Jekyll](https://jekyllrb.com/) installiert haben. Danach kannst du eine lokale Version der Website folgender Maßen installieren:
+Um diese Seite nutzen zu können, musst du [Ruby](https://www.ruby-lang.org/de/) und [Jekyll](https://jekyllrb.com/) installiert haben.
+
+Ubuntu/Debian:
+```
+sudo apt install ruby ruby-dev jekyll
+```
+
+Fedora/RHEL:
+```
+sudo dnf istall ruby ruby-devel jekyll
+```
+
+Danach kannst du eine lokale Version der Website folgendermaßen installieren:
 
 ```
 git clone https://github.com/fsi-tue/cyberauftritt.git
 cd cyberauftritt
-bundle install
+bundle install --path ~/.vendor/bundle
 ```
 
 Und anschließend kannst du deine lokale Version starten:
