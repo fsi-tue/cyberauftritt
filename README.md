@@ -18,7 +18,7 @@ sudo apt install ruby ruby-dev jekyll
 
 Fedora/RHEL:
 ```
-sudo dnf istall ruby ruby-devel jekyll
+sudo dnf install ruby ruby-devel jekyll
 ```
 
 Danach kannst du eine lokale Version der Website folgendermaßen installieren:
