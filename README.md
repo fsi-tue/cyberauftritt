@@ -37,6 +37,13 @@ bundle exec jekyll serve
 
 Dies startet einen lokalen Webserver, der unter http://127.0.0.1:4000/ erreichbar ist.
 
+### Docker
+
+```
+docker build -t fsinf/cyberauftritt:latest .
+mkdir _site/
+docker run --volume="$PWD:/srv/jekyll" fsinf/cyberauftritt:latest
+```
 
 ### Acknowledgements
 
