@@ -19,7 +19,7 @@ laenger andauerende Freundschaften sind hier enstanden.
 ### Die Erstiwoche(n)
 Neben dem Vorkurs organisieren wir jedes Semester eine Reihe an Veranstaltungen,
 bei denen ihr euch gegenseitig und uns als Fachschaft kennen lernen koennt. Eine
-Liste der Veranstaltungen findet ihr [hier]()
+Liste der Veranstaltungen findet ihr [hier](https://cloud.fsi.uni-tuebingen.de/index.php/apps/calendar/p/e8wPTX4TBpCNpb7W/FSI)
 
 ### Das Erstiheft
 Die wichtigsten Informationen, die ihr braucht, um den Tuebinger
@@ -36,3 +36,7 @@ zum herunterladen.
 
 Mit Ausnahme des Mathematik-Vorkurses richten sich die alle
 Erstsemesterveranstaltungen auch an Master-Studierenden.
+
+# FAQs
+
+Unsere FAQs für studienanfänger findet ihr [hier](infos/anfi-faq)
