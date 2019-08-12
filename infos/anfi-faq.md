@@ -9,7 +9,7 @@ genau solche Fragen Ansprechpartner ist. Was aber nicht heißen muss,
 dass wir alles wissen bzw. dass wir auch immer alles korrekt wissen.
 Generell gilt daher immer, sich von offizieller Seite absichern, also in
 Vorlesungsverzeichnissen, Studienordnungen, auf Schwarzen Brettern, ...
-nachzuschauen und bei den
+nachzuschaün und bei den
 [Studienberatern](http://www.wsi.uni-tuebingen.de/studium/ansprechpartner/studienberatung.html)
 nachfragen. Wer Fragen hat, die hier nicht beantwortet werden, darf sie
 uns gerne stellen: Kontaktmöglichkeiten stehen auf unserer
@@ -31,7 +31,7 @@ Prüfungsanmeldung](infos/pruefungen)
 ### Anfangen zum Sommersemester
 
   - Mir ist es erst möglich, im SS mit dem Studium zu beginnen.
-  - Welche Konsequenzen hätte das für mich?
+  - Welche Konseqünzen hätte das für mich?
   - Wird dann z.B. der Mathe-Vorkurs nicht mehr angeboten oder ist der
     Einstieg dann wesentlich schwieriger?
 
@@ -39,10 +39,10 @@ Die Vorlesungsstoffe sind 2-semestrig aufgebaut, d. h. die meisten
 Vorlesungen werden nur jährlich angeboten.  
 Der Einstieg ist sicherlich schwieriger aber nicht unmöglich. Ein
 Mathevorkurs wird nun auch im Sommer angeboten und ist speziell auf die
-Neueinsteiger zugeschnitten. Auch wird es zusätzliche Tutorien geben in
+Neüinsteiger zugeschnitten. Auch wird es zusätzliche Tutorien geben in
 denen der benötigte Stoff aus Mathe I und Info I wiederholt wird, sodass
 ihr nicht völlig alleine dasteht.  
-Trotzdem solltet ihr damit rechnen, dass ihr eventuell ein siebtes
+Trotzdem solltet ihr damit rechnen, dass ihr eventüll ein siebtes
 Semester benötigt, denn der Studiengang wurde für den Beginn im
 Wintersemester konzipiert und lässt sich nur schwer anpassen.
 
@@ -71,17 +71,7 @@ Es gibt für dich als Informatikstudenten viele Wege ins Internet: 1.
 Poolräume des ZDV (Morgenstelle, Sand, Wilhelmstraße). 3. Per WLAN über
 das ZDV (Morgenstelle, Sand, fast überall) 4. Von zuhause. Die meisten
 Wohnheime sind inzwischen per Standleitung an das Uninetz angeschlossen,
-ansonsten bleibt Dir nur der Zugang per Modem, ISDN oder DSL. Es gibt
-aber vom ZDV aus [eine
-Liste](http://www.zdv.uni-tuebingen.de/dienstleistungen/netzzugang.html)
-
-  - Brauche ich eine E-Mail-Adresse?
-  - Woher bekomme ich die?
-
-In der Informatik werdet ihr auf jeden Fall eine E-Mail-Adresse
-brauchen. Du bekommst bei der Einschreibung eine studentische
-E-Mail-Adresse in der Form vorname.nachname@student.uni-tuebingen.de vom
-ZDV.
+ansonsten bleibt dir nur der Zugang per Modem, ISDN oder DSL. 
 
 ### Mathevorkurs
 
@@ -93,14 +83,14 @@ Der Mathe-Vorkurs wird veranstaltet, damit ihr mit eurem
 Schul-Mathewissen in der normalen Mathe-Vorlesung weniger Probleme habt.
 Er ist nicht zwingend erforderlich, aber sehr nützlich, wenn man sich
 mit Mathe sowieso etwas schwer tut. Er fängt 2,5 Wochen vor dem Semester
-an und dauert zwei Wochen. Eine Anmeldung ist hierfür nicht
+an und daürt zwei Wochen. Eine Anmeldung ist hierfür nicht
 erforderlich, nähere Informationen entnehmt ihr am besten dem
 [Anfängerbrief]().  
 Hauptziel des Kurses ist eigentlich, dass man anfängt, soziale Kontakte
 zu gründen, aber das gibt natürlich niemand zu ;-)  
 Grundsätzlich ist ein solides Mathevorwissen zwar wichtig, noch
 wichtiger allerdings ist der Spaß daran, sich mathematische Probleme
-anzueignen.
+anzüignen.
 
 ### Wohnen
 
@@ -122,7 +112,7 @@ natürlich die Schwarzen Bretter in den Mensen, und auch die
 "Studentische Zimmervermittlung" in der Mensa Wilhelmstraße ist sehr
 hilfreich bei der Zimmersuche. Eine private Zimmervermittlung findet
 sich auch auf der Wilhelmstraße in dem kleinen Häuschen gegenüber der
-Haltestelle Lustnauer Tor.  
+Haltestelle Lustnaür Tor.  
 Übrigens: Das erste was man machen sollte, ist eine offlineversion eines
 Stadtplans zu kaufen. Old style paper version.
 
@@ -136,21 +126,16 @@ und die Internet-Standleitung. Negativ der Lärm und die Verschmutzung
 ... Viele wollen da am liebsten für immer wohnen, andere nie im Leben
 einziehen - entscheide selbst.
 
-Die Preise liegen z.B. fuer ein Zimmer in einer 6er WG (Fichtenweg
-29/31) bei: \> 195 EUR warm unmöbliert, \> 210 EUR warm möbliert.Es
-existieren aber auch Zimmer mit eigenem Bad und voller Möblierung für
-derzeit (August 2009) 250 EUR. Die Anmeldung fuer einen Wartelistenplatz
-beim Studentenwerk sollte bis zum 15.7. für das WS stattfinden. Weitere
-Infos unter <http://www.uni-tuebingen.de/uni/qvr/05/05-06.html> (hier
-findest Du auch eine Liste der Lage der Haeuser, uvm.). Derzeit sind
-allerdings Wohnheimsplätze relativ problemlos zu bekommen, sofern man
+Preise und Ausstattungen findet ihr [hier](https://www.my-stuwe.de/wohnen/wohnheime-tuebingen). Die Anmeldung für einen Wartelistenplatz
+beim Studentenwerk sollte bis zum 15.7. für das WS stattfinden. Derzeit sind
+ Wohnheimsplätze relativ problemlos zu bekommen, sofern man
 sich rechtzeitig anmeldet.
 
-Was das fuer Leute sind, die in den Wohnheimen wohnen, musst Du schon
-selbst rausfinden, eine Pauschalantwort gibt es nicht, da die Haeuser
-ueber ganz Tuebingen verstreut sind, und die Mischung der Leute stark
-schwankt. Einfach mal an eine Tuer klopfen. Ich denke, dass dir die
-meisten Studis, die dort wohnen, genaueres sagen koennen, wie es in
+Was das für Leute sind, die in den Wohnheimen wohnen, musst Du schon
+selbst rausfinden, eine Pauschalantwort gibt es nicht, da die Häuser
+über ganz Tübingen verstreut sind, und die Mischung der Leute stark
+schwankt. Einfach mal an eine Tür klopfen. Ich denke, dass dir die
+meisten Studis, die dort wohnen, genaeres sagen koennen, wie es in
 ihrem Wohnheim aussieht.
 
   - Gibt es sonst noch Möglichkeiten?
@@ -158,30 +143,30 @@ ihrem Wohnheim aussieht.
 Was auch noch in Frage kommt, falls du nichts findest:  
 Verbindungen:
 [Hier](https://de.wikipedia.org/wiki/Liste_der_Studentenverbindungen_in_Tübingen)
-gibt es eine leider nicht vollstaendige Liste der Verbindungen in
-Tuebingen.  
+gibt es eine leider nicht vollständige Liste der Verbindungen in
+Tübingen.  
 Als ich hier angefangen habe, habe ich mich auch mal in diese Richtung
-umgesehen, und vor 3 Jahren hast Du fuer wenig Geld ein gutes Zimmer in
+umgesehen, und vor 3 Jahren hast Du für wenig Geld ein gutes Zimmer in
 einer Verbindung bekommen. Du konntest bei manchen Verbindungen ein
 halbes Jahr probewohnen, und musstest nicht gleich eintreten. Ich denke,
-es ist auf jeden Fall eine Ueberlegung wert, falls Du eine
+es ist auf jeden Fall eine überlegung wert, falls Du eine
 Mitgliedschaft in einer Verbindung, und ein Semsterprogramm (viel
 Alkohol involviert) nicht scheust. Die Sache ist aber die: Fast alle
-Verbindungen sind ausschliesslich fuer Maenner zugaenglich. Frauen
+Verbindungen sind ausschliesslich für Männer zugänglich. Fraün
 koennen zwar in das Haus, aber nicht darin wohnen. Die einzige
 Studentinnenverbindung, die ich kenne, hat leider kein Haus. Allerdings
 gibt es jetzt beispielsweise auch Verbindungswohnheime die mangels
 zulauf auch weibliche Bewerber zulassen:
 [Rechberghaus](http://www.rechberghaus.de) Falls Du Dich sowieso mal auf
-dem Oesterberg aufhaeltst, dann klopf einfach mal an eine Tuer, die
-Leute erklaeren Dir die Wohnkonditionen eigentlich immer ziemlich
+dem Oesterberg aufhältst, dann klopf einfach mal an eine Tür, die
+Leute erklären Dir die Wohnkonditionen eigentlich immer ziemlich
 genau.  
 Weitere Moeglichkeit: Ein christliches Wohnheim, davon gibt es zwei,
 einmal das [Wilhelmstift](http://wilhelmsstift.de/gaeste/) und das
 [Evangelisches Stift](http://www.evstift.de/index.php?id=19#c84)  
 Hier habe ich leider keine Zahlen, was das kostet, ich weiss nur, dass
-das Wilhelmstift ein reines Maennerwohnheim, und das Ev. Stift gemischt
-ist. Beide sind uebrigens mitten in der Altstadt.
+das Wilhelmstift ein reines Männerwohnheim, und das Ev. Stift gemischt
+ist. Beide sind übrigens mitten in der Altstadt.
 
   - Habt ihr vielleicht Informationen über Zimmer, Wohnungen, WGs oder
     ähnlichem?
@@ -191,15 +176,14 @@ Wohnungssuchende und auch für einen von uns ist das kein Kinderspiel.
 Die beste Möglichkeit ist, ein paar Tage nach Tübingen zu kommen, sich
 in der JuHe einzumieten und zu suchen. Es findet sich in der Regel immer
 eine Möglichkeit irgendwo unterzukommen - ob das dann natürlich auf
-Dauer die Wahl ist, lässt sich schwer sagen.
+Daür die Wahl ist, lässt sich schwer sagen.
 
-### Vorbeischauen...
+### Vorbeischaün...
 
   - Gibt es demnächst mal so etwas wie einen "Tag der offenen Tür"?
 
 Einen "Tag der offenen Tür" wie früher gibt es nicht mehr, allerdings
-bieten wir euch am Nachmittag des
-[Anfifrühstücks](/erstsemester/veranstaltungen/) eine Führung auf dem
+bieten wir euch am Nachmittag des Anfifrühstücks eine Führung auf dem
 Sand an, bei der sich auch einige Fachbereiche mit ihren Projekten
 vorstellen.
 
@@ -237,9 +221,9 @@ knapper wurden in den letzten 2 Jahren.
 
 Anträge stellt man im Hörsaalzentrum "hinten links" (bei den
 Rückmelde-Terminals). Der Ausweis wird für zwei Semester ausgestellt
-und man muss dazu sein aktuelles Stammdatenblatt und den
+und man muss dazu sein aktülles Stammdatenblatt und den
 Studentenausweis mitbringen (und sollte sein Auto-Kennzeichen wissen).
-Die aktuellen Öffnungszeiten zur Beantragung einer solchen Berechtigung
+Die aktüllen Öffnungszeiten zur Beantragung einer solchen Berechtigung
 erfahrt ihr [hier](http://www.uni-tuebingen.de/de/347).
 
 Ansonsten gibt es noch das kostenpflichtige Parkhaus im hinteren Bereich
@@ -259,7 +243,7 @@ auftauchenden Zahl ...+2 bzw. ...+1. Dort wird der Stoff der Vorlesung
 nochmal überarbeitet.  
 Die Übungstermine werden erst zu Beginn der Vorlesung publik. Jeder
 Prof/Dozent macht das anders. Möglichkeiten: ausgehängte Liste(n) - wer
-zuerst kommt, hat die Auswahl; Vorstellung der Termine in der ersten
+zürst kommt, hat die Auswahl; Vorstellung der Termine in der ersten
 Vorlesungsstunde, Auslage der Listen dortselbst - wer die besseren
 Ellenbogen hat, gewinnt.
 
@@ -292,7 +276,7 @@ Vorschlag:
 
   - **Fragt eure Tutoren\!** Sie korrigieren nicht nur eure Abgaben,
     sondern werden vor allem dafür bezahlt, sich mit euren Problemen und
-    Fragen zu beschäftigen. Euer Tutor sollte daher bei Fragen zum
+    Fragen zu beschäftigen. Eür Tutor sollte daher bei Fragen zum
     Übungs- oder Vorlesungsstoff immer die erste Anlaufstelle sein.
   - **Bildet Lerngruppen.** Sicherlich seid ihr nicht in allen
     Themenbereichen schlechter als die anderen, ihr könnt euch also
@@ -302,7 +286,7 @@ Vorschlag:
     kann es sich auf jeden Fall besser merken.
   - **Internet/Bücher fragen**: Dies ist die letzte Option, auf die ihr
     zurückgreifen solltet\! Wenn eure Tutoren allesamt grausam sind und
-    ihr niemanden kennt, der euch helfen kann, dann solltet ihr zuerst
+    ihr niemanden kennt, der euch helfen kann, dann solltet ihr zürst
     versuchen zweiteres zu ändern. In der Zwischenzeit könnt ihr aus
     zahlreichen Video-Tutorials, Aufgaben, Skripten, Erklärungen,
     Musterlösungen, ... das nötige Wissen herauszuziehen versuchen und
@@ -315,38 +299,38 @@ Vorschlag:
     einem Auslandsaufenthalt verlängert hat?
 
 Auch wenn ein Auslandsaufenthalt sicher keine Pflicht ist, so sicherlich
-ein interessantes Angebot. Man kann sich fuer die Auslandssemester hier
-beurlauben lassen, d.h. die Semester-Uhr wird waehrend der
-Auslandssemester quasi angehalten. Dazu gibts in der Tuebinger
-Informatik inzwischen die Moeglichkeit, im Ausland erbrachte Pruefungen
+ein interessantes Angebot. Man kann sich für die Auslandssemester hier
+beurlauben lassen, d.h. die Semester-Uhr wird während der
+Auslandssemester quasi angehalten. Dazu gibts in der Tübinger
+Informatik inzwischen die Moeglichkeit, im Ausland erbrachte Prüfungen
 hier anerkennen zu lassen.  
-In Tuebingen gibts einen grossen uniweiten USA-Austausch (ca. 50
-Partneruniversitaeten): Dort Studiengebuehrenerlass,
+In Tübingen gibts einen grossen uniweiten USA-Austausch (ca. 50
+Partneruniversitäten): Dort Studiengebührenerlass,
 Lebenshaltungskosten muss man allerdings selbst bestreiten. Wer in
 Europa bleiben will, hat mittlerweile einige Partnerunis zur Auswahl, um
-sein Erasmus zu absolvieren. Das Erasmus-Programm unterstuetzt einen bei
-den Formalitaeten, man muss keine Studiengebuehren bezahlen, und bekommt
+sein Erasmus zu absolvieren. Das Erasmus-Programm unterstützt einen bei
+den Formalitäten, man muss keine Studiengebühren bezahlen, und bekommt
 ein geringes Stipendium. Für ausführlichere Infos schau in unseren
-Artikel über das [Auslandsstudium](/studium/ausland). Natuerlich kann
+Artikel über das [Auslandsstudium](/infos/ausland). Natürlich kann
 man sich auch selbst einen Auslandsaufenthalt organisieren. Z.B. kann
 man auch ohne spezielles Programm die Kontakte eines Profs nutzen, um
-irgendwo hinzukommen. Und man kann sich bei uniunabhaegigen
+irgendwo hinzukommen. Und man kann sich bei uniunabhägigen
 Organisationen um ein Stipendium bewerben.  
-Fuer alles gilt: Sich rechtzeitig um alles keummern. Bei einigen
-Organisationen muss man sich schon ueber eineinhalb Jahre vor dem
+Für alles gilt: Sich rechtzeitig um alles keummern. Bei einigen
+Organisationen muss man sich schon über eineinhalb Jahre vor dem
 eigentlichen Austausch um ein Stipendium bewerben. Der USA-Austausch hat
 zB eine Bewerbungsfrist von etwa einem Jahr vor dem eigentlichen
 Austausch.  
-Einen Ueberblick ueber die Tuebinger Austauschprogramme hat das
+Einen überblick über die Tübinger Austauschprogramme hat das
 Akademische Auslandsamt (gleich am Beginn der Nauklerstrasse), der
 Ansprechpartner in diesen Fragen.
 
 ### Leben in Tübingen
 
-  - Ist das Leben in Tübingen teuer?
+  - Ist das Leben in Tübingen teür?
 
 Ja und Nein. Wohnen ist wie in fast allen Universitätsstädten recht
-teuer. Die Lebensunterhaltungskosten sind jedoch sehr gut an das
+teür. Die Lebensunterhaltungskosten sind jedoch sehr gut an das
 studentische Leben angepasst. Es gibt unzählige Angebote in Cafes,
 Kneipen, Restaurants oder auch den Clubs, speziell für Studenten.
 
@@ -365,16 +349,16 @@ hier: <http://www.mnf.uni-tuebingen.de/studium/spo.html>
   - Wie ist das mit dem Wechsel von der FH an die Uni?
 
 Da wirst Du, um das Studium hier an der Uni fortsetzen zu koennen, etwas
-MEHR (Scheine, Vordiploms- klausuren) nachholen muessen. Ansprechpartner
-fuer solcherlei Entscheidungungen ist der Vorsitzende des
-Pruefungsausschusses.
+MEHR (Scheine, Vordiploms- klausuren) nachholen müssen. Ansprechpartner
+für solcherlei Entscheidungungen ist der Vorsitzende des
+Prüfungsausschusses.
 
 Um Dir allerdings eine unnoetige Mail zu ersparen, rate ich Dir, Deiner
 Anfrage gleich eine Auflistung derjenigen Leistungen beizulegen, Die Du
 dann haben wirst.
 
   - Das Anfängerprogramm da ist noch das von ... Ist für das kommende WS
-    schon was genaueres geplant, oder kommt das noch?
+    schon was genaüres geplant, oder kommt das noch?
 
 Termine und Inhalte stehen noch nicht weiter fest, als auf der Webseite
 angegeben. Wenn Du Dich für Informatik einschreibst, solltest Du aber
@@ -384,7 +368,7 @@ Semesters erhalten.
   - Könnt ihr mir eine Bezugsperson nennen, an die ich mich persönlich
     wenden kann?
 
-Den aktuellen offiziellen Studienberater findet ihr
+Den aktüllen offiziellen Studienberater findet ihr
 [hier](http://www.wsi.uni-tuebingen.de/studium/ansprechpartner/studienberatung.html).
 
 Ansonsten, wenn Du weitere "inoffizielle" Tips brauchst, wieder 'ne Mail
@@ -426,7 +410,7 @@ Prüfungssekretariat.
 
 #### Wo finden in Tübingen die Veranstaltungen der Informatik statt?
 
-![Morgenstelle](/erstsemester/veranstaltungen/morgenstelle.png) Die
+![Morgenstelle](/img/morgenstelle.png) Die
 Vorlesungen für Informatiker (abgesehen vom gewählten Schwerpunktmodul)
 finden im Grundstudium (also in den ersten 4 Semestern) fast alle auf
 der Morgenstelle statt. Die nächste Bushaltestelle heißt
@@ -486,8 +470,8 @@ letzten zwei Jahre je 60-70 Studierende angefangen.
 Bioinformatiker arbeiten an der Schnittstelle zwischen der Biologie und
 der Informatik. Ihr studiert quasi Informatik mit zwei Nebenfächern,
 Biologie und Chemie. Unter folgender Adresse bekommst du den
-[Studienplan](http://www.wsi.uni-tuebingen.de/studium/downloads/studienplaene.html),
-in dem die genaueren Daten zu finden sind.
+[Studienplan](http://www.wsi.uni-tuebingen.de/studium/downloads/studienpläne.html),
+in dem die genaüren Daten zu finden sind.
 
 #### Wo liegt der Schwerpunkt, in der Biologie oder in der Informatik?
 

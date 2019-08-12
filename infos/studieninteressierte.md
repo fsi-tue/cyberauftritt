@@ -44,7 +44,7 @@ Magister-Studiengang studieren. Als Nebenfach ist dies direkt möglich,
 als Hauptfach muss man einen Antrag stellen. Eine weitere Option ist
 Informatik als Nebenfach in einem Bachelor-Studiengang einer anderen
 Fakultät. Mehr zu diesen Themen gibt es
-[hier](http://www-ls.informatik.uni-tuebingen.de/logik/psh/geisteswiss.html).
+[hier](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studiengaenge/informatik/bachelor-nebenfach/).
 
 Bei weiteren Fragen wendet euch einfach an uns.
 

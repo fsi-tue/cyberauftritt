@@ -30,7 +30,7 @@ biologischen Fragestellungen gerecht werden.
 Im Studiengang Bioinformatik werdet ihr zunächst in den Grundlagen der
 praktischen, technischen und theoretischen Informatik unterrichtet. Dass
 soll euch einen Einblick in alle Gebiete der Informatik verschaffen.
-Lest am besten [hier](informatik) mehr dazu. Außerdem habt ihr einige
+Lest am besten [hier](/infos/courses/info) mehr dazu. Außerdem habt ihr einige
 Mathevorlesungen, um das nötige Handwerkszeug für spätere Anwendungen zu
 erhalten. Viele Gebiete der Informatik erfordern nämlich ein hohes Maß
 an mathematischem Verständnis. Weiterhin werden euch Einführungen in
