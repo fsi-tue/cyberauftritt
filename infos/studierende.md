@@ -33,9 +33,6 @@ Die Anmeldung zu den Mailinglisten könnt ihr bequem über das [Web-Frontend](ht
 
 Mehr Informationen findet ihr unter [Mailinglisten](/infos/maillists)
 
-# Stammtisch
-Unter der Woche treffen sich eine Teilmenge der Fachschaftsmitglieder jeden Montag ab 20:00 im [Bierkeller](http://bierkeller-tuebingen.de). Hierzu sind natürlich auch Studierende aller unserer Studiengänge herzlich willkommen!
-
 # Studienberatung
 Pro Studiengang bieten wir euch eine dedizierte studentische Studienberatung an, die sich mit allen Belangen des entsprechenden Studiengangs auskennt. Vom Studienverlaufsplan bis hin zur Anrechnung bestimmter Veranstaltungen können euch unsere Studienberater weiterhelfen. Die Studienberatung wird aktuell durch folgende Personen durchgeführt:
 
