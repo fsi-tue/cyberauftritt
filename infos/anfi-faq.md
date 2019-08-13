@@ -9,7 +9,7 @@ genau solche Fragen Ansprechpartner ist. Was aber nicht heißen muss,
 dass wir alles wissen bzw. dass wir auch immer alles korrekt wissen.
 Generell gilt daher immer, sich von offizieller Seite absichern, also in
 Vorlesungsverzeichnissen, Studienordnungen, auf Schwarzen Brettern, ...
-nachzuschaün und bei den
+nachzuschauen und bei den
 [Studienberatern](http://www.wsi.uni-tuebingen.de/studium/ansprechpartner/studienberatung.html)
 nachfragen. Wer Fragen hat, die hier nicht beantwortet werden, darf sie
 uns gerne stellen: Kontaktmöglichkeiten stehen auf unserer
@@ -31,7 +31,7 @@ Prüfungsanmeldung](infos/pruefungen)
 ### Anfangen zum Sommersemester
 
   - Mir ist es erst möglich, im SS mit dem Studium zu beginnen.
-  - Welche Konseqünzen hätte das für mich?
+  - Welche Konsequenzen hätte das für mich?
   - Wird dann z.B. der Mathe-Vorkurs nicht mehr angeboten oder ist der
     Einstieg dann wesentlich schwieriger?
 
@@ -39,10 +39,10 @@ Die Vorlesungsstoffe sind 2-semestrig aufgebaut, d. h. die meisten
 Vorlesungen werden nur jährlich angeboten.  
 Der Einstieg ist sicherlich schwieriger aber nicht unmöglich. Ein
 Mathevorkurs wird nun auch im Sommer angeboten und ist speziell auf die
-Neüinsteiger zugeschnitten. Auch wird es zusätzliche Tutorien geben in
+Neueinsteiger zugeschnitten. Auch wird es zusätzliche Tutorien geben in
 denen der benötigte Stoff aus Mathe I und Info I wiederholt wird, sodass
 ihr nicht völlig alleine dasteht.  
-Trotzdem solltet ihr damit rechnen, dass ihr eventüll ein siebtes
+Trotzdem solltet ihr damit rechnen, dass ihr eventuell ein siebtes
 Semester benötigt, denn der Studiengang wurde für den Beginn im
 Wintersemester konzipiert und lässt sich nur schwer anpassen.
 
@@ -83,14 +83,14 @@ Der Mathe-Vorkurs wird veranstaltet, damit ihr mit eurem
 Schul-Mathewissen in der normalen Mathe-Vorlesung weniger Probleme habt.
 Er ist nicht zwingend erforderlich, aber sehr nützlich, wenn man sich
 mit Mathe sowieso etwas schwer tut. Er fängt 2,5 Wochen vor dem Semester
-an und daürt zwei Wochen. Eine Anmeldung ist hierfür nicht
+an und dauert zwei Wochen. Eine Anmeldung ist hierfür nicht
 erforderlich, nähere Informationen entnehmt ihr am besten dem
 [Anfängerbrief]().  
 Hauptziel des Kurses ist eigentlich, dass man anfängt, soziale Kontakte
 zu gründen, aber das gibt natürlich niemand zu ;-)  
 Grundsätzlich ist ein solides Mathevorwissen zwar wichtig, noch
 wichtiger allerdings ist der Spaß daran, sich mathematische Probleme
-anzüignen.
+anzueignen.
 
 ### Wohnen
 
@@ -112,7 +112,7 @@ natürlich die Schwarzen Bretter in den Mensen, und auch die
 "Studentische Zimmervermittlung" in der Mensa Wilhelmstraße ist sehr
 hilfreich bei der Zimmersuche. Eine private Zimmervermittlung findet
 sich auch auf der Wilhelmstraße in dem kleinen Häuschen gegenüber der
-Haltestelle Lustnaür Tor.  
+Haltestelle Lustnauer Tor.  
 Übrigens: Das erste was man machen sollte, ist eine offlineversion eines
 Stadtplans zu kaufen. Old style paper version.
 
@@ -149,10 +149,10 @@ Als ich hier angefangen habe, habe ich mich auch mal in diese Richtung
 umgesehen, und vor 3 Jahren hast Du für wenig Geld ein gutes Zimmer in
 einer Verbindung bekommen. Du konntest bei manchen Verbindungen ein
 halbes Jahr probewohnen, und musstest nicht gleich eintreten. Ich denke,
-es ist auf jeden Fall eine überlegung wert, falls Du eine
+es ist auf jeden Fall eine Überlegung wert, falls Du eine
 Mitgliedschaft in einer Verbindung, und ein Semsterprogramm (viel
 Alkohol involviert) nicht scheust. Die Sache ist aber die: Fast alle
-Verbindungen sind ausschliesslich für Männer zugänglich. Fraün
+Verbindungen sind ausschliesslich für Männer zugänglich. Frauen
 koennen zwar in das Haus, aber nicht darin wohnen. Die einzige
 Studentinnenverbindung, die ich kenne, hat leider kein Haus. Allerdings
 gibt es jetzt beispielsweise auch Verbindungswohnheime die mangels
@@ -176,9 +176,9 @@ Wohnungssuchende und auch für einen von uns ist das kein Kinderspiel.
 Die beste Möglichkeit ist, ein paar Tage nach Tübingen zu kommen, sich
 in der JuHe einzumieten und zu suchen. Es findet sich in der Regel immer
 eine Möglichkeit irgendwo unterzukommen - ob das dann natürlich auf
-Daür die Wahl ist, lässt sich schwer sagen.
+Dauer die Wahl ist, lässt sich schwer sagen.
 
-### Vorbeischaün...
+### Vorbeischauen...
 
   - Gibt es demnächst mal so etwas wie einen "Tag der offenen Tür"?
 
@@ -221,9 +221,9 @@ knapper wurden in den letzten 2 Jahren.
 
 Anträge stellt man im Hörsaalzentrum "hinten links" (bei den
 Rückmelde-Terminals). Der Ausweis wird für zwei Semester ausgestellt
-und man muss dazu sein aktülles Stammdatenblatt und den
+und man muss dazu sein aktuelles Stammdatenblatt und den
 Studentenausweis mitbringen (und sollte sein Auto-Kennzeichen wissen).
-Die aktüllen Öffnungszeiten zur Beantragung einer solchen Berechtigung
+Die aktuellen Öffnungszeiten zur Beantragung einer solchen Berechtigung
 erfahrt ihr [hier](http://www.uni-tuebingen.de/de/347).
 
 Ansonsten gibt es noch das kostenpflichtige Parkhaus im hinteren Bereich
@@ -243,7 +243,7 @@ auftauchenden Zahl ...+2 bzw. ...+1. Dort wird der Stoff der Vorlesung
 nochmal überarbeitet.  
 Die Übungstermine werden erst zu Beginn der Vorlesung publik. Jeder
 Prof/Dozent macht das anders. Möglichkeiten: ausgehängte Liste(n) - wer
-zürst kommt, hat die Auswahl; Vorstellung der Termine in der ersten
+zuerst kommt, hat die Auswahl; Vorstellung der Termine in der ersten
 Vorlesungsstunde, Auslage der Listen dortselbst - wer die besseren
 Ellenbogen hat, gewinnt.
 
@@ -276,7 +276,7 @@ Vorschlag:
 
   - **Fragt eure Tutoren\!** Sie korrigieren nicht nur eure Abgaben,
     sondern werden vor allem dafür bezahlt, sich mit euren Problemen und
-    Fragen zu beschäftigen. Eür Tutor sollte daher bei Fragen zum
+    Fragen zu beschäftigen. Euer Tutor sollte daher bei Fragen zum
     Übungs- oder Vorlesungsstoff immer die erste Anlaufstelle sein.
   - **Bildet Lerngruppen.** Sicherlich seid ihr nicht in allen
     Themenbereichen schlechter als die anderen, ihr könnt euch also
@@ -286,7 +286,7 @@ Vorschlag:
     kann es sich auf jeden Fall besser merken.
   - **Internet/Bücher fragen**: Dies ist die letzte Option, auf die ihr
     zurückgreifen solltet\! Wenn eure Tutoren allesamt grausam sind und
-    ihr niemanden kennt, der euch helfen kann, dann solltet ihr zürst
+    ihr niemanden kennt, der euch helfen kann, dann solltet ihr zuerst
     versuchen zweiteres zu ändern. In der Zwischenzeit könnt ihr aus
     zahlreichen Video-Tutorials, Aufgaben, Skripten, Erklärungen,
     Musterlösungen, ... das nötige Wissen herauszuziehen versuchen und
@@ -327,10 +327,10 @@ Ansprechpartner in diesen Fragen.
 
 ### Leben in Tübingen
 
-  - Ist das Leben in Tübingen teür?
+  - Ist das Leben in Tübingen teuer?
 
 Ja und Nein. Wohnen ist wie in fast allen Universitätsstädten recht
-teür. Die Lebensunterhaltungskosten sind jedoch sehr gut an das
+teuer. Die Lebensunterhaltungskosten sind jedoch sehr gut an das
 studentische Leben angepasst. Es gibt unzählige Angebote in Cafes,
 Kneipen, Restaurants oder auch den Clubs, speziell für Studenten.
 
@@ -358,7 +358,7 @@ Anfrage gleich eine Auflistung derjenigen Leistungen beizulegen, Die Du
 dann haben wirst.
 
   - Das Anfängerprogramm da ist noch das von ... Ist für das kommende WS
-    schon was genaüres geplant, oder kommt das noch?
+    schon was genaueres geplant, oder kommt das noch?
 
 Termine und Inhalte stehen noch nicht weiter fest, als auf der Webseite
 angegeben. Wenn Du Dich für Informatik einschreibst, solltest Du aber
@@ -368,7 +368,7 @@ Semesters erhalten.
   - Könnt ihr mir eine Bezugsperson nennen, an die ich mich persönlich
     wenden kann?
 
-Den aktüllen offiziellen Studienberater findet ihr
+Den aktuellen offiziellen Studienberater findet ihr
 [hier](http://www.wsi.uni-tuebingen.de/studium/ansprechpartner/studienberatung.html).
 
 Ansonsten, wenn Du weitere "inoffizielle" Tips brauchst, wieder 'ne Mail
@@ -471,7 +471,7 @@ Bioinformatiker arbeiten an der Schnittstelle zwischen der Biologie und
 der Informatik. Ihr studiert quasi Informatik mit zwei Nebenfächern,
 Biologie und Chemie. Unter folgender Adresse bekommst du den
 [Studienplan](http://www.wsi.uni-tuebingen.de/studium/downloads/studienpläne.html),
-in dem die genaüren Daten zu finden sind.
+in dem die genaueren Daten zu finden sind.
 
 #### Wo liegt der Schwerpunkt, in der Biologie oder in der Informatik?
 
