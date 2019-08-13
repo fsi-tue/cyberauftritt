@@ -132,7 +132,7 @@ vorgefertigte Muster an, an die man sich möglichst halten sollte. Die
 Anforderungen an die Sprachkenntnisse sind unterschiedlich - im
 englischen Sprachraum wird aber praktisch immer eines der größeren
 Sprachzertifikate verlangt. Für Nordamerika ist das zum Beispiel der
-[TOEFL/]()-Test, für die allermeisten ERASMUS Länder wird kein
+[TOEFL/](infos/toefel)-Test, für die allermeisten ERASMUS Länder wird kein
 Sprachzertifikat verlangt. Bitte beachtet hierzu, dass oftmals kurz vor
 den Deadlines zur Bewerbung keine Testplätze für TOEFL Tests mehr frei
 sind - kümmert Euch also rechtzeitig um einen Testplatz\! Allerdings
