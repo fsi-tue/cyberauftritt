@@ -31,8 +31,7 @@ zusammengefasst, dass wir euch zu Beginn des Mathevorkurses austeilen.
 Solltet ihr kein Heft bekommen haben, koennt ihr euch auf einer der anderen
 Erstsemesterveranstaltungen oder
 [bei uns im Fachschaftszimmer](/ueber-uns/#das-fachschaftszimmer) noch ein
-Exemplar abholen. Ansonsten findet ihr [hier](https://github.com/fsi-tue/anfiheft/blob/master/anfiheft-info.pdf) auch das Erstemesterheft als PDF
-zum herunterladen oder [hier](https://github.com/fsi-tue/anfiheft/blob/master/anfiheft-kogni.pdf) für Kognitionswissenschaften.
+Exemplar abholen. Ansonsten findet ihr die Erstihefte auf für [Infos](https://github.com/fsi-tue/anfiheft/blob/master/anfiheft-info.pdf) und [Kognis](https://github.com/fsi-tue/anfiheft/blob/master/anfiheft-kogni.pdf) zum Download.
 
 # Master
 
@@ -41,4 +40,4 @@ Erstsemesterveranstaltungen auch an Master-Studierenden.
 
 # FAQs
 
-Unsere FAQs für studienanfänger findet ihr [hier](infos/anfi-faq)
+Unsere FAQs für Studienanfänger findet ihr [hier](infos/anfi-faq)

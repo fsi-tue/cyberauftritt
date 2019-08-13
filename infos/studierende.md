@@ -31,7 +31,7 @@ Die wichtigsten Mailinglisten sind:
 
 Die Anmeldung zu den Mailinglisten könnt ihr bequem über das [Web-Frontend](https://www.fsi.uni-tuebingen.de/mailman/listinfo) erledigen. Klickt dazu auf den Namen der Mailingliste und tragt eure Daten in der Rubrik "Subscribing to..." ein.
 
-Mehr Informationen findet ihr unter [Mailinglsiten](/infos/maillists)
+Mehr Informationen findet ihr unter [Mailinglisten](/infos/maillists)
 
 # Stammtisch
 Unter der Woche treffen sich eine Teilmenge der Fachschaftsmitglieder jeden Montag ab 20:00 im [Bierkeller](http://bierkeller-tuebingen.de). Hierzu sind natürlich auch Studierende aller unserer Studiengänge herzlich willkommen!
