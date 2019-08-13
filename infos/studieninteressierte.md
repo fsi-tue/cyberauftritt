@@ -50,7 +50,10 @@ Bei weiteren Fragen wendet euch einfach an uns.
 
 # Das Bewerbungsverfahren
 
-# Die Einschreibung
+Bewerbungenen für einen der zahlreichen Studiengänge der Uni Tübingen werden [online](https://uni-tuebingen.de/studium/bewerbung-und-immatrikulation/) eingereicht. Die Bewerbungsfristen für zulassungsbeschränkte Studiengänge sind der 15.07 für eine Bewerbung zum Wintersemester und der 15.01 für eine Bewerbung zum Sommersemester. Für zulassungsfreie Studiengänge kannst du dich bis zum Semesterbeginn einschreiben. Allerdings ist das nicht zu empfehlen, weil du dann zum Beispiel deinen Studierendenausweis zu spät bekommst. Außerdem verpasst du damit unsere Einführungsveranstaltungen und Wilkommensschreiben.
+
+Falls du angenommen wirst, musst du natürlich (beglaubigte) Kopien aller eingereichten Dokumente in Papierform nachreichen.
+
 
 # Die Wohnungssuche
 
