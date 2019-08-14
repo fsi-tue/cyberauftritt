@@ -5,7 +5,7 @@ title: Studienanfänger
 
 # Bachelor
 
-Herzlich wilkommen in Tübingen! Falls du noch keinen Wilkommensbrief von uns erhalten habt findest du [hier](https://github.com/fsi-tue/anfibrief/tree/master/pdf) die Briefe für alle Studengänge als PDF zum download.
+Herzlich wilkommen in Tübingen! Falls du noch keinen Wilkommensbrief von uns erhalten habt findest du [hier](https://teri.fsi.uni-tuebingen.de/anfibrief/) die Briefe für alle Studengänge als PDF zum download.
 
 ## Vorkurs
 Jedes Semester bietet der Fachbereich einen Mathevorkurs an. Dieser dient dazu,
