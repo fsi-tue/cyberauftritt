@@ -31,8 +31,7 @@ Die wichtigsten Mailinglisten sind:
 
 Die Anmeldung zu den Mailinglisten könnt ihr bequem über das [Web-Frontend](https://www.fsi.uni-tuebingen.de/mailman/listinfo) erledigen. Klickt dazu auf den Namen der Mailingliste und tragt eure Daten in der Rubrik "Subscribing to..." ein.
 
-# Stammtisch
-Unter der Woche treffen sich eine Teilmenge der Fachschaftsmitglieder jeden Montag ab 20:00 im [Bierkeller](http://bierkeller-tuebingen.de). Hierzu sind natürlich auch Studierende aller unserer Studiengänge herzlich willkommen!
+Mehr Informationen findet ihr unter [Mailinglisten](/infos/maillists)
 
 # Studienberatung
 Pro Studiengang bieten wir euch eine dedizierte studentische Studienberatung an, die sich mit allen Belangen des entsprechenden Studiengangs auskennt. Vom Studienverlaufsplan bis hin zur Anrechnung bestimmter Veranstaltungen können euch unsere Studienberater weiterhelfen. Die Studienberatung wird aktuell durch folgende Personen durchgeführt:
@@ -53,7 +52,7 @@ Bei Interesse solltet ihr euch daher direkt an die teilnehmenden Profs wenden - 
 
 Wer auf Bachelor studiert, sollte sich bezüglich des Zeitpunkts seines Austauschs und der anrechenbaren Leistungen unbedingt vorher bei der Fakultät bzw. dem zuständigen Prof beraten lassen! Die späteren Semester im Bachelor und das zweite Studienjahr im Master sollten hier besonders geeignet sein. Grundsätzlich kann man sich für die Zeit im Ausland beurlauben lassen. Es ruhen dann alle Prüfungsfristen (die betreffenden Semester hat es quasi nie gegeben). Trotzdem können natürlich alle Leistungen im Ausland entsprechend den Regelungen in der Studienordnung angerechnet werden.
 
-Ein Wort muss auch noch zum TOEFL-Test, dem Test of English as a Foreign Language, verloren werden. Insbesondere für einen Austausch mit Nordamerika wird dieser Test fast zwingend gefordert. Anmelden kann man sich ausschließlich über den Organisator ETS auf deren [Website](http://www.ets.org/toefl). In Tübingen gibt es derzeit zwei Testcenter, eines wird vom Fachsprachenzentrum betrieben, das andere wurde von Mitgliedern der FSI ins Leben gerufen und befindet sich im Zentrum für Datenverarbeitung. Im Erasmus- Austausch werden keine Sprachtests erwartet.
+Ein Wort muss auch noch zum [TOEFL](infos/toefel)-Test, dem Test of English as a Foreign Language, verloren werden. Insbesondere für einen Austausch mit Nordamerika wird dieser Test fast zwingend gefordert. Anmelden kann man sich ausschließlich über den Organisator ETS auf deren [Website](http://www.ets.org/toefl). In Tübingen gibt es derzeit zwei Testcenter, eines wird vom Fachsprachenzentrum betrieben, das andere wurde von Mitgliedern der FSI ins Leben gerufen und befindet sich im Zentrum für Datenverarbeitung. Im Erasmus- Austausch werden keine Sprachtests erwartet.
 
 Finanziell werden euch beim Austausch über den Akademischen Austausch erstmal die Studiengebühren an der Partneruni erlassen, was bei einigen Universitäten sehr viel ausmacht.  Wer BAFöG bekommen kann (für's Ausland geht das noch etwas einfacher als für's Inland), bekommt unter Umständen noch deutlich mehr Kosten erstattet. Hier solltet ihr euch aber noch einmal speziell beraten lassen. Wer über Erasmus geht, bekommt die Differenz zwischen den Lebenshaltungskosten in Tübingen und denen im Austauschort zum größten Teil über ein Stipendium bezahlt.
 
@@ -61,6 +60,8 @@ Immer gibt es natürlich die Möglichkeit sich seinen Austausch selbst zu organi
 
 Die Abteilung Akademischer Austausch befindet sich in der
 Nauklerstr. 2, Tel.: 29-76448 und ist im Internet unter <http://www.uni-tuebingen.de/international> zu erreichen.
+
+Mehr infos gibt es [hier](/infos/ausland)
 
 # Software
 Als Student der Informatik erhaltet ihr einiges an Software kostenlos. Wir möchten hier explizit *nicht* für bestimmte Produkte werben, die Auflistung soll lediglich auf die Existenz der Angebote hinweisen.
