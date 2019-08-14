@@ -31,7 +31,7 @@ zusammengefasst, dass wir euch zu Beginn des Mathevorkurses austeilen.
 Solltet ihr kein Heft bekommen haben, koennt ihr euch auf einer der anderen
 Erstsemesterveranstaltungen oder
 [bei uns im Fachschaftszimmer](/ueber-uns/#das-fachschaftszimmer) noch ein
-Exemplar abholen. Ansonsten findet ihr die Erstihefte auf für [Infos](https://github.com/fsi-tue/anfiheft/blob/master/anfiheft-info.pdf) und [Kognis](https://github.com/fsi-tue/anfiheft/blob/master/anfiheft-kogni.pdf) zum Download.
+Exemplar abholen. Ansonsten findet ihr die Erstihefte auf für [Infos](https://wiki.fsi.uni-tuebingen.de/erstsemester/material/start#anfaengerhefte) und [Kognis](https://wiki.fsi.uni-tuebingen.de/erstsemester/material/start#anfaengerhefte) zum Download.
 
 # Master
 
