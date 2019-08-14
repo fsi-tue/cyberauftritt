@@ -13,7 +13,7 @@ Um diese Seite nutzen zu können, musst du [Ruby](https://www.ruby-lang.org/de/)
 
 Ubuntu/Debian:
 ```
-sudo apt install ruby ruby-dev jekyll
+sudo apt install ruby ruby-dev jekyll ruby-bundler
 ```
 
 Fedora/RHEL:
