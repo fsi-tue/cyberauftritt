@@ -85,7 +85,7 @@ Er ist nicht zwingend erforderlich, aber sehr nützlich, wenn man sich
 mit Mathe sowieso etwas schwer tut. Er fängt 2,5 Wochen vor dem Semester
 an und dauert zwei Wochen. Eine Anmeldung ist hierfür nicht
 erforderlich, nähere Informationen entnehmt ihr am besten dem
-[Anfängerbrief](https://teri.fsi.uni-tuebingen.de/anfibrief/) oder dem Anfängerheft für [*Informatiker](https://github.com/fsi-tue/anfiheft/blob/master/anfiheft-info.pdf) oder [Kognis](https://github.com/fsi-tue/anfiheft/blob/master/anfiheft-kogni.pdf).  
+[Anfängerbrief](https://teri.fsi.uni-tuebingen.de/anfibrief/) oder dem Anfängerheft für [*Informatiker](https://wiki.fsi.uni-tuebingen.de/erstsemester/material/start#anfaengerhefte) oder [Kognis](https://wiki.fsi.uni-tuebingen.de/erstsemester/material/start#anfaengerhefte).  
 Hauptziel des Kurses ist eigentlich, dass man anfängt, soziale Kontakte
 zu gründen, aber das gibt natürlich niemand zu ;-)  
 Grundsätzlich ist ein solides Mathevorwissen zwar wichtig, noch
