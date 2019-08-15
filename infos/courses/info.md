@@ -51,4 +51,42 @@ möglichen Bereichen der Informatik auftauchen, auf äusserst abstrakter
 Ebene untersucht. Ihr lernt deterministische Automaten und
 Turingmaschinen, die Chomsky-Hierarchie und das Halteproblem kennen -
 und erfahrt, dass die wenigsten formalen Probleme entscheidbar sind.
-Auch die mathematische Logik ist ein Teilbere
+Auch die mathematische Logik ist ein Teilbereich der theoretischen
+Informatik, genauso wie das große Gebiet der Graphen- und
+Netzwerkalgorithmen, die spannende Forschung bis in den Bereich der
+sozialen Netzwerke ermöglichen.
+
+Auch die **Mathematik** ist ein wichtiger Teil des Studiums - in vier
+Semestern erhaltet ihr in Tübingen eine sehr gründliche und sorgfältige
+Einführung, die aber keinen, der kontinuierlich dabei ist, überfordert.
+Die Inhalte sind auf ihre Relevanz für Informatiker zugeschnitten, was
+Tübingen von vielen anderen Studienorten abhebt. Insbesondere
+beschäftigt ihr euch mit algebraischen Grundlagen der Informatik,
+Analysis, linearen Algebra, affiner Geometrie, Stochastik und Numerik.
+Die Mathematik ist für den Informatiker ein wichtiges Werkzeug - und
+nimmt in den ersten Jahren auch einen wichtigen Teil in eurem Studium
+ein. Mathematik sollte euch also Spaß machen, wenn ihr Informatiker
+werden wollt.
+
+Ein **Nebenfach** wählt ihr auch noch - hier könnt ihr aus einer langen
+Liste wählen und legt die Richtung fest, in die ihr euch später
+beruflich orientiert. In Zukunft kann diese Liste beim Diplomstudiengang
+eingeschränkt sein. Ab dem WS 2006 ist es nicht mehr möglich
+Wirtschaftswissenschaften als Nebenfach zu wählen. Dies ist nur noch im
+Bachelor möglich.
+
+Zusätzlich habt ihr im Hauptstudium die Möglichkeit, in den drei
+Bereichen Praktische Informatik, Technische Informatik und Theoretische
+Informatik euren Schwerpunkt selbst zu wählen.
+
+Die Berufsmöglichkeiten für Informatiker sind sehr vielseitig - kaum ein
+Unternehmen kann ohne Informatiker auskommen: Vom traditionellen
+Großkonzern, über Softwarehersteller, Banken, Versicherungen bis zur
+Deutschen Bahn. Aber auch in vielen, vielen anderen Branchen sind
+Informatiker gesucht, wenn sie die notwendige Leidenschaft mitbringen.
+Informatik allein wegen der guten Berufsaussichten zu studieren ist
+allerdings sicher nicht zu empfehlen, dazu ist das Studium zu
+anstrengend und schwierig. Aber umgekehrt sind die Berufsaussichten
+sicherlich kein Grund, Informatik nicht zu studieren.
+
+Mehr Informationen findet ihr auf der Website der Fakultät oder bei uns.
