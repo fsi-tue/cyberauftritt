@@ -47,7 +47,7 @@ Viele Fragen wiederholen sich im Laufe des Studiums bzw. Generationen vor euch h
 ### Skripte und Altklausuren
 Hier sind wir als Fachschaft auf euch angewiesen. Viele von uns sind in höheren Semstern und haben ihre Aufschriebe von damals nicht mehr bzw. sie sind durch Wechsel von Professorenschaft oder Inhalt veraltet.
 **Wollt ihr neue Skripte und Altklausuren? Werdet aktiv!** 
-Wenn ihr in Vorlesungen mitgeschrieben habt (am Besten: Mitge$\LaTeX$t) oder ihr bei einer Klausuraufsicht Gedankenprotokolle der Klausur angelegt habt, könnt ihr diese nachfolgenden Generationen zur Verfügung stellen. 
+Wenn ihr in Vorlesungen mitgeschrieben habt (am Besten: mitgetext) oder ihr bei einer Klausuraufsicht Gedankenprotokolle der Klausur angelegt habt, könnt ihr diese nachfolgenden Generationen zur Verfügung stellen. 
 
 - [Skripte auf GitHub](https://github.com/fsi-tue/skripte) - Pull-Requests sind willkommen!
 - [Altklausuren](https://ppi.fsi.uni-tuebingen.de/) im Prüfungsprotokolle-Interface - auch hier ist neues Material gerne gesehen
