@@ -25,7 +25,7 @@ rechtschreiblicher Art einfach eine Mail an uns.
 
 ### Prüfungsanmeldung
 
-Siehe[Hinweise zur
+Siehe [Hinweise zur
 Prüfungsanmeldung](infos/pruefungen)
 
 ### Anfangen zum Sommersemester
@@ -57,16 +57,16 @@ arbeiten hier primär mit Unix-Dialekten wie FreeBSD und Linux. Solltest
 du momentan noch keine Ahnung davon haben: Du wirst es schon noch lernen
 ... (müssen :-))  
 Allerdings gibt es auch unter Windows SSH-Clients, mit denen man sich
-auf Rechnern der Informatik von aussen einloggen kann um mit diesen zu
+auf Rechnern der Informatik von außen einloggen kann, um mit diesen zu
 arbeiten, als säße man direkt davor ...  
 Es gibt allerdings auch eine nicht geringe Zahl von linuxresistenten
-Informatikern und auch diese schaffen ihr Studium sehr gut. Letzlich ist
+Informatikern und auch diese schaffen ihr Studium sehr gut. Letztlich ist
 nicht das Betriebssystem entscheidend, sondern das, was ihr damit
 anstellt.
 
   - Wie sieht das mit dem Internetzugang über die Uni aus?
 
-Es gibt für dich als Informatikstudenten viele Wege ins Internet: 1.
+Es gibt für dich als Informatikstudent viele Wege ins Internet: 1.
 über die Poolräume der Informatik (Morgenstelle, Sand) 2. über die
 Poolräume des ZDV (Morgenstelle, Sand, Wilhelmstraße). 3. Per WLAN über
 das ZDV (Morgenstelle, Sand, fast überall) 4. Von zuhause. Die meisten
@@ -87,7 +87,7 @@ an und dauert zwei Wochen. Eine Anmeldung ist hierfür nicht
 erforderlich, nähere Informationen entnehmt ihr am besten dem
 [Anfängerbrief](https://teri.fsi.uni-tuebingen.de/anfibrief/) oder dem Anfängerheft für [*Informatiker](https://wiki.fsi.uni-tuebingen.de/erstsemester/material/start#anfaengerhefte) oder [Kognis](https://wiki.fsi.uni-tuebingen.de/erstsemester/material/start#anfaengerhefte).  
 Hauptziel des Kurses ist eigentlich, dass man anfängt, soziale Kontakte
-zu gründen, aber das gibt natürlich niemand zu ;-)  
+zu knüpfen, aber das gibt natürlich niemand zu ;-)  
 Grundsätzlich ist ein solides Mathevorwissen zwar wichtig, noch
 wichtiger allerdings ist der Spaß daran, sich mathematische Probleme
 anzueignen.
@@ -135,7 +135,7 @@ Was das für Leute sind, die in den Wohnheimen wohnen, musst Du schon
 selbst rausfinden, eine Pauschalantwort gibt es nicht, da die Häuser
 über ganz Tübingen verstreut sind, und die Mischung der Leute stark
 schwankt. Einfach mal an eine Tür klopfen. Ich denke, dass dir die
-meisten Studis, die dort wohnen, genaeres sagen koennen, wie es in
+meisten Studis, die dort wohnen, genaueres sagen können, wie es in
 ihrem Wohnheim aussieht.
 
   - Gibt es sonst noch Möglichkeiten?
@@ -153,15 +153,15 @@ es ist auf jeden Fall eine Überlegung wert, falls Du eine
 Mitgliedschaft in einer Verbindung, und ein Semsterprogramm (viel
 Alkohol involviert) nicht scheust. Die Sache ist aber die: Fast alle
 Verbindungen sind ausschliesslich für Männer zugänglich. Frauen
-koennen zwar in das Haus, aber nicht darin wohnen. Die einzige
+können zwar in das Haus, aber nicht darin wohnen. Die einzige
 Studentinnenverbindung, die ich kenne, hat leider kein Haus. Allerdings
 gibt es jetzt beispielsweise auch Verbindungswohnheime die mangels
 zulauf auch weibliche Bewerber zulassen:
 [Rechberghaus](http://www.rechberghaus.de) Falls Du Dich sowieso mal auf
-dem Oesterberg aufhältst, dann klopf einfach mal an eine Tür, die
+dem Österberg aufhältst, dann klopf einfach mal an eine Tür, die
 Leute erklären Dir die Wohnkonditionen eigentlich immer ziemlich
 genau.  
-Weitere Moeglichkeit: Ein christliches Wohnheim, davon gibt es zwei,
+Weitere Möglichkeit: Ein christliches Wohnheim, davon gibt es zwei,
 einmal das [Wilhelmstift](http://wilhelmsstift.de/gaeste/) und das
 [Evangelisches Stift](http://www.evstift.de/index.php?id=19#c84)  
 Hier habe ich leider keine Zahlen, was das kostet, ich weiss nur, dass
@@ -214,8 +214,8 @@ Anscheinend beantragen momentan nur sehr wenige Studenten einen Ausweis
 für den Südparkplatz auf der Morgenstelle. Wer ausserhalb von Tübingen
 bzw. in den Tübinger Stadtteilen wohnt sollte momentan kein Problem
 haben, so einen Ausweis zu bekommen. Man sollte allerdings beachten,
-dass die meisten Parkplätze dort allerdings mittlerweile stark umworben
-werden. Konkret: Durch die Baumassnahmen auf der Morgenstelle, gibt es
+dass die meisten Parkplätze dort mittlerweile stark umworben
+werden. Konkret: Durch die Baumaßnahmen auf der Morgenstelle, gibt es
 dort immer weniger Platz, was dazu führt, dass die Parkplätze sehr viel
 knapper wurden in den letzten 2 Jahren.
 
@@ -302,9 +302,9 @@ Auch wenn ein Auslandsaufenthalt sicher keine Pflicht ist, so sicherlich
 ein interessantes Angebot. Man kann sich für die Auslandssemester hier
 beurlauben lassen, d.h. die Semester-Uhr wird während der
 Auslandssemester quasi angehalten. Dazu gibts in der Tübinger
-Informatik inzwischen die Moeglichkeit, im Ausland erbrachte Prüfungen
+Informatik inzwischen die Möglichkeit, im Ausland erbrachte Prüfungen
 hier anerkennen zu lassen.  
-In Tübingen gibts einen grossen uniweiten USA-Austausch (ca. 50
+In Tübingen gibts einen großen uniweiten USA-Austausch (ca. 50
 Partneruniversitäten): Dort Studiengebührenerlass,
 Lebenshaltungskosten muss man allerdings selbst bestreiten. Wer in
 Europa bleiben will, hat mittlerweile einige Partnerunis zur Auswahl, um
@@ -316,12 +316,12 @@ man sich auch selbst einen Auslandsaufenthalt organisieren. Z.B. kann
 man auch ohne spezielles Programm die Kontakte eines Profs nutzen, um
 irgendwo hinzukommen. Und man kann sich bei uniunabhägigen
 Organisationen um ein Stipendium bewerben.  
-Für alles gilt: Sich rechtzeitig um alles keummern. Bei einigen
+Für alles gilt: Sich rechtzeitig um alles kümmern. Bei einigen
 Organisationen muss man sich schon über eineinhalb Jahre vor dem
 eigentlichen Austausch um ein Stipendium bewerben. Der USA-Austausch hat
-zB eine Bewerbungsfrist von etwa einem Jahr vor dem eigentlichen
+z.B. eine Bewerbungsfrist von etwa einem Jahr vor dem eigentlichen
 Austausch.  
-Einen überblick über die Tübinger Austauschprogramme hat das
+Einen Überblick über die Tübinger Austauschprogramme hat das
 Akademische Auslandsamt (gleich am Beginn der Nauklerstrasse), der
 Ansprechpartner in diesen Fragen.
 
@@ -348,12 +348,12 @@ hier: <http://www.mnf.uni-tuebingen.de/studium/spo.html>
 
   - Wie ist das mit dem Wechsel von der FH an die Uni?
 
-Da wirst Du, um das Studium hier an der Uni fortsetzen zu koennen, etwas
+Da wirst Du, um das Studium hier an der Uni fortsetzen zu können, etwas
 MEHR (Scheine, Vordiploms- klausuren) nachholen müssen. Ansprechpartner
 für solcherlei Entscheidungungen ist der Vorsitzende des
 Prüfungsausschusses.
 
-Um Dir allerdings eine unnoetige Mail zu ersparen, rate ich Dir, Deiner
+Um Dir allerdings eine unnötige Mail zu ersparen, rate ich Dir, Deiner
 Anfrage gleich eine Auflistung derjenigen Leistungen beizulegen, Die Du
 dann haben wirst.
 
@@ -371,7 +371,7 @@ Semesters erhalten.
 Den aktuellen offiziellen Studienberater findet ihr
 [hier](http://www.wsi.uni-tuebingen.de/studium/ansprechpartner/studienberatung.html).
 
-Ansonsten, wenn Du weitere "inoffizielle" Tips brauchst, wieder 'ne Mail
+Ansonsten, wenn Du weitere "inoffizielle" Tipps brauchst, wieder 'ne Mail
 an uns oder einfach vorbeikommen\!
 
   - Gibt es dort auch nette Profs und Studenten?
