@@ -35,9 +35,9 @@ Für euren [digitalen Kalender](https://cloud.fsi.uni-tuebingen.de/cal) im Smart
 ### Material
 **c.t.? s.t.? PA? FB? SQ? ECTS? WTF?**
 In der Uni wird euch vor allem anfangs so einiges an neuen Begriffen um die Ohren gehauen und ihr müsst euch an ein oft vollkommen neues Umfeld gewöhnen, in dem nichts mehr so ist wie früher, man sich plötzlich alles selbst zusammensuchen muss und die Kommilitonen genau so ratlos sind wie man selbst. Gerade hier hilft unser [Anfängerbrief](https://teri.fsi.uni-tuebingen.de/anfibrief/), bei dem die wichtigsten Informationen rund um das Studium sowie Tübingen zusammengefasst sind.
-Jeder Informatikstudiengang in Tübingen hat seinen eigenen Anfi-Brief mit wichtigen Informationen, einem Terminkalender für diese erste "Einstiegsphase" sowie einen beispielhaften Studenplan.
+Jeder Informatikstudiengang in Tübingen hat seinen eigenen Anfi-Brief mit wichtigen Informationen, einem Terminkalender für diese erste "Einstiegsphase" sowie einen beispielhaften Stundenplan.
 
-Bereits hier sei gesagt: Dieser Studenplan ist ein **Beispiel** wie ihr euer erstes Semester in den Vorlesungen gestalten **könnt**. Hinzu kommen auf jeden Fall noch Übungsstunden und allerlei weiterer Kram. 
+Bereits hier sei gesagt: Dieser Stundenplan ist ein **Beispiel** wie ihr euer erstes Semester in den Vorlesungen gestalten **könnt**. Hinzu kommen auf jeden Fall noch Übungsstunden und allerlei weiterer Kram. 
 
 ## Für höhere Semester 
 
