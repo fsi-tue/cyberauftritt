@@ -9,7 +9,7 @@ Abschlussarbeiten sind. Bitte beachten Sie, dass die Fachschaft darüber hinaus
 **keine** Möglichkeiten hat, Informationen an Studenten der Informatik
 weiterzuleiten!
 
-# Stellen- und Praktikumsstelleangebote
+# Stellen- und Praktikumsstellenangebote
 
 ### Mailverteiler
 

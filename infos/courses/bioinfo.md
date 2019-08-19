@@ -72,7 +72,7 @@ In der molekularen Bioinformatik sollen diese Fragen häufig durch Simulationen 
 
 ##Pharmazie
   
-Es wählen nur wenige den Schwerpunkt Pharmazie. Das bedeutet, dass die Erfahrungen mit diesem Fachbereich meist von nur wenigen gemacht und weitergegeben werden können. Als Bachelor / Master ist das Diplomer - Verhalten: „ VL hören und abbrechen“ leider keine Option mehr.
+Es wählen nur wenige den Schwerpunkt Pharmazie. Das bedeutet, dass die Erfahrungen mit diesem Fachbereich meist von nur wenigen gemacht und weitergegeben werden können. Als Bachelor / Master ist das Diplomer - Verhalten: „VL hören und abbrechen“ leider keine Option mehr.
 
 Grundsätzlich gilt: Wenn ihr nicht unbedingt in Wirkstoffentwurf oder sonstiges stark Pharmazie-bezogenes gehen wollt, dann macht es nicht. Es ist den Arbeitsaufwand nicht wert und ruiniert euch als Bachelor / Master mit dem strengen Prüfungszeitraum nur eure Note. Wir raten eher davon ab!
 

@@ -22,8 +22,7 @@ am Zentrum für Datenverarbeitung 15 Plätze.
 ## Wie kann ich das TOEFL-Test Team vom ZDV erreichen?
 
 Das Team vom ZDV besteht aus Studenten, die über die folgende
-Mailingliste erreicht werden können: toefl-team \<at\> fsi.uni-tuebingen
-de
+Mailingliste erreicht werden können: toefl-team\<at\>fsi.uni-tuebingen.de
 
 ## Warum findet am Termin X kein Test statt?
 
@@ -71,7 +70,7 @@ Routenplanungsdienste, wie zum Beispiel Google Maps.
 Eine Teilnehmerin berichtete uns, dass ein Wechsel auf einen anderen
 Termin oder ein anderes Center telefonisch möglich ist. Offenbar wird
 dafür eine Gebühr von etwa 60 Dollar verlangt (Stand Sommer 2009). ETS
-besteht zudem auf einem schriftlichen Auftrag. Der Wechsel muss
+besteht zudem auf einen schriftlichen Auftrag. Der Wechsel muss
 vermutlich mindestens eine Woche vor dem Test erfolgen. Möglicherweise
 ist ein Wechsel inzwischen auch direkt im Online-Profil möglich.
 
