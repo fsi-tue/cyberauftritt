@@ -16,7 +16,7 @@ interessanten Beruf zu finden.
 In der **praktischen** Informatik lernt ihr, wie ihr ein konkretes
 Problem mit Hilfe von formalen Methoden löst. Ihr beschäftigt euch
 damit, wie sich Algorithmen möglichst effizient implementieren lassen,
-wie man mit Datenbanken umgeht und selbst welche schreibt oder Graphiken
+wie man mit Datenbanken umgeht und selbst welche schreibt oder Grafiken
 darstellt und verarbeitet. Schwerpunkte in der Ausbildung in diesem
 Bereich sind die verschiedenen Konzepte, die unterschiedlichen
 Programmiersprachen zu Grunde liegen, die Umsetzung von Programmen bis

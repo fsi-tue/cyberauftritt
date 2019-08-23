@@ -34,7 +34,7 @@ Gastuni vermitteln und während des Aufenthalts betreuen. Folglich muss
 man sich auch zunächst an den entsprechenden ERASMUS-Koordinatoren an
 seiner Heimuni um einen Platz bewerben - auch wenn die spätere
 Abwicklung dann wieder vollständig über den Akademischen Austausch
-läuft. Da es überlicherweise mehr Plätze als Interessenten gibt
+läuft. Da es üblicherweise mehr Plätze als Interessenten gibt
 (zumindest in der Informatik) wird jeder Student zum Auslandssemester
 zugelassen. Die ERASMUS-Koordinatoren sind üblicherweise Fachbereichen
 zugeordnet. In der Informatik gibt es folgende Kooperationen:
@@ -68,7 +68,7 @@ September schon an und endet im Januar. Das Sommersemester fängt dann
 fast nahtlos im Februar an und endet bereits im Mai.
 
 Die ERASMUS-Koordinatoren oder die Ansprechpersonen beim Akademischen
-Auslandsamt besitzen leider nur sehr wenige detailierte Informationen
+Auslandsamt besitzen leider nur sehr wenige detaillierte Informationen
 zum jew. Gastland und zur jew. Gastuni. Hier muss man sich selbst schlau
 machen. Insbesondere über die an der Gastuni angebotenen Vorlesungen,
 der dort geltende Studie- und Prüfungsordnung, sowie über alles, was das
@@ -79,7 +79,7 @@ bei Akademischen Auslandsamt sind die Berichte der Uni Tübingen online
 einsehbar. Google liefert auch eine Menge Erfahrungsberichte von
 Studenten an anderen dt. Unis.
 
-Weiterhin ist zu beachten, dass einige Uni sehr verschult sein können
+Weiterhin ist zu beachten, dass einige Unis sehr verschult sein können
 mit festen Stundenplänen, Anwesentheitspflicht, etc. Auch bei den
 Prüfungen können andere Regeln gelten, wie z.B. das existieren einer
 einzigen Prüfung ohne Nachklausur. Das Studium kann jedoch auch leichter
@@ -105,22 +105,22 @@ verschaffen.
 Wenn das Ziel feststeht, geht es an die Bewerbung. Für das
 ERASMUS-Programm wird am Anfang ein ausgefülltes Anmeldeformular der
 Gastuni (bekommt man vom ERASMUS-Koordinator), die Anmeldung am
-ERAMUS-Onlineportal, sowie eine aktuelle Notenübersicht benötig.
+ERAMUS-Onlineportal, sowie eine aktuelle Notenübersicht benötigt.
 Sprachzertifikate werden nicht verlangt. Das Anmeldeformular wird zur
 Gastuni verschickt, welche die Anmeldung zum ERASMUS-Programm in der
-Regel nach einigen Tagen bestätigt. Wenn man lange dannach nichts hört
+Regel nach einigen Tagen bestätigt. Wenn man lange danach nichts hört
 sollte man unbedingt nachhaken, denn viele Unis verzichten auf eine
 Anmeldebestätigung, die der Student jedoch für Weiteres benötigt. Mit
 einem gedrucktem und von seinem ERASMUS-Koordinator unterschriebenen
 Formular vom ERASMUS-Onlineportal geht man zum Akademischen Auslandsamt,
 wo als nächster Schritt das ERASMUS-Fördergeld beantragt wird. Für die
 Zeit des Aufenthalts kann man sich beim Studentensekretariat neben der
-Mensa-Wilhelmsstraße beurlauben. Dies hat zum Vorteil, dass man von
+Mensa-Wilhelmstraße beurlauben. Dies hat zum Vorteil, dass man von
 jeglichen Pflichten zur Erbringung von einer Mindestzahl an Creditpoints
 befreit wird. Das anschließende Anrechnen von Studienleistungen ist
 trotzdem möglich.
 
-Für Programme ausserhalb Europas sind weitere Unterlagen erforderlich.
+Für Programme außerhalb Europas sind weitere Unterlagen erforderlich.
 Praktisch immer werden jedoch zwei Gutachten von Dozenten, Zeugnisse,
 Transkripte (Auflistungen aller von euch besuchten Veranstaltungen) und
 Sprachzertifikate von euch verlangt. Für die Gutachten fragt man einfach
@@ -137,7 +137,7 @@ Sprachzertifikat verlangt. Bitte beachtet hierzu, dass oftmals kurz vor
 den Deadlines zur Bewerbung keine Testplätze für TOEFL Tests mehr frei
 sind - kümmert Euch also rechtzeitig um einen Testplatz\! Allerdings
 ebenfalls nicht länger als zwei Jahre vor dem Auslandsaufenthalt, weil
-sonst das Testergebniss seine Gültigkeit verliert.
+sonst das Testergebnis seine Gültigkeit verliert.
 
 ## Schritt 3 - Der Aufenthalt
 
@@ -176,7 +176,7 @@ existieren Wohngeldhilfen für Studenten, selbst für ausländische.
 #### Studieren
 
 Bei einem ERASMUS-Auslandssemester hat man nicht nur an seiner Heimuni,
-sonder auch an seiner Gastuni einen ERASMUS-Koordinator. Diese zwei
+sondern auch an seiner Gastuni einen ERASMUS-Koordinator. Diese zwei
 Personen sind die ersten Ansprechpartner für alles was euer Studium
 angeht. Änderungen zu den im Voraus vereinbarten, zu erbringenden
 Leistungen müssen immer mit beiden Abgesprochen werden. Letztendlich ist

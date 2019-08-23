@@ -30,7 +30,7 @@ Zu uns kommen die Studenten, wenn sie Probleme mit Professoren haben, sich jedoc
 
 Wir beantworten Fragen von Anfängern und Studenten zu vielen verschiedenen Themen und können auf die teilweise jahrelange Erfahrung unserer Mitglieder zurückgreifen.
 
-Wir geben wichtige Insidertips und verbreiten Informationen.
+Wir geben wichtige Insidertipps und verbreiten Informationen.
 
 
 # Wie kann ich mitmachen?
@@ -56,7 +56,7 @@ Wir treffen uns während des Semesters einmal in der Woche zu unserer Fachschaft
 Die Sitzungstermine werden wie alle anderen unserer Termine unserem [Kalender](https://cloud.fsi.uni-tuebingen.de/index.php/apps/calendar/p/e8wPTX4TBpCNpb7W/FSI) gepflegt.
 
 ### Das Fachschaftszimmer
-In unserem Fachschaftzimmer ist jeder herzlich willkommen und es steht für alle Studenten offen.
+In unserem Fachschaftszimmer ist jeder herzlich willkommen und es steht für alle Studenten offen.
 
 Das Fachschaftszimmer auf dem Sand befindet sich im Gebäude Nr. 14. Das ist das Gebäude, auf das man zugeht, wenn man den Campus durch das Haupttor betritt. Dort in den Eingang hinein und dann den Flur nach rechts. Am Ende des Ganges ist unser Zimmer auf der linken Seite.
 

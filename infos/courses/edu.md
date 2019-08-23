@@ -34,7 +34,7 @@ man eine Unterrichtsstunde halten könnte.
 
 Fachdidaktik 2 Der Anfang ist eigentlich gleich wie in Fachdidaktik 1,
 nur muss man hier ein Softwarepaket erarbeiten, wie z.B. Piiri, Filius
-usw., dies soll dann als ein Lehrerkonzept erarbeitet. Das Lehrerkonzept
+usw., dies wird dann als ein Lehrerkonzept erarbeitet. Das Lehrerkonzept
 soll einen mehrstündigen Unterricht umfassen und dies in einem
 fachdidaktischen Konzept anderen Lehrer\*innen dargestellt werden.
 

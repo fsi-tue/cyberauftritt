@@ -29,7 +29,7 @@ Gesundheitswesens tätig werden kann.
 
 Hier sei nochmals erwähnt, dass man, wie bei allen
 Informatik-Studiengängen, vor allem Informatik studiert. Es stellt also
-einen großen Vorteil da, wenn Du über Vorkenntnisse des Programmierens
+einen großen Vorteil dar, wenn Du über Vorkenntnisse des Programmierens
 verfügst. Du musst diese Vorkenntnisse nicht besitzen, es erleichtert
 den Einstieg jedoch enorm. Im Ersten Semester hast Du, wie alle
 Informatiker, die Fächer Mathe und Informatik, womit bereits das Feld
