@@ -4,9 +4,9 @@ title: Kontakt
 ---
 
 Auf dieser Seite finden Sie generelle Informationen zur Kontaktaufnahme. Bevor
-Sie mit uns Kontakt aufnehmen, moechten wir Sie bitten, die entsprechenden
-Informationen fuer [Studieninteressierte](/infos/studieninteressierte/),
-[Studienanfaenger](/infos/studienanfaenger/),
+Sie mit uns Kontakt aufnehmen, möchten wir Sie bitten, die entsprechenden
+Informationen für [Studieninteressierte](/infos/studieninteressierte/),
+[Studienanfänger](/infos/studienanfaenger/),
 [Studierende](/infos/studierende/), [Alumni](/infos/alumni/) und
 [Unternehmen](/infos/unternehmen/) zu lesen.
 
@@ -35,10 +35,10 @@ Bitte beachten Sie bei der Kontaktaufnahme folgende Punkte:
 
 ### Betreff
 Die Mail muss einen sinnvollen Betreff enthalten. Mails ohne Betreff werden von
-uns grundsaetzlich ignoriert.
+uns grundsätzlich ignoriert.
 
 ### Anhänge
-Anhänge muessen grundsaetzlich entweder als PDF- oder Text-Format geschickt
+Anhänge müssen grundsätzlich entweder als PDF- oder Text-Format geschickt
 werden. Mails mit anderen Formaten wie Word oder Powerpoint werden ignoriert.
 Dies liegt daran, dass nicht jedes Fachschaftsmitglied Word benutzt
 (oder benutzen möchte), ist dies auch nicht immer möglich. Unterwegs, wenn man

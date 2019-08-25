@@ -24,23 +24,23 @@ Die Fachschaft versucht zum Einen die Interessen der Studierenden gegenüber Fak
 
 Anfängerbetreuung ist sehr wichtig, da hier von Seiten der Fakultät vergleichsweise wenig passiert (mit Ausnahme der Studienberater). Wir versuchen Studierenden in den ersten Wochen möglichst viel über die studentische Selbstverwaltung beizubringen (die doch einen großen Teil des Studiums einnimmt).
 
-Wir verwalten Dinge wie [Prüfungsprotokolle]() und [Mailinglisten]() für unsere Studenten.
+Wir verwalten Dinge wie [Prüfungsprotokolle](https://ppi.fsi.uni-tuebingen.de/) und [Mailinglisten](https://www.fsi.uni-tuebingen.de/mailman/listinfo) für unsere Studenten.
 
 Zu uns kommen die Studenten, wenn sie Probleme mit Professoren haben, sich jedoch nicht trauen, diese persönlich anzusprechen.
 
 Wir beantworten Fragen von Anfängern und Studenten zu vielen verschiedenen Themen und können auf die teilweise jahrelange Erfahrung unserer Mitglieder zurückgreifen.
 
-Wir geben wichtige Insidertips und verbreiten Informationen.
+Wir geben wichtige Insidertipps und verbreiten Informationen.
 
 
 # Wie kann ich mitmachen?
 
 ### Werde Fachschaftler!
-Du hast Lust dich für deine Kommilitonen zu engagieren? \\
-Hast Spaß an der Organisation von Veranstaltungen? \\
-Hast coole Ideen, wie man das Studium verbessern könnte?\\
+Du hast Lust dich für deine Kommilitonen zu engagieren?\\
+Hast Spaß an der Organisation von Veranstaltungen?\\
+Hast coole Ideen, wie man das Studium verbessern könnte?
 
-**Dann komm doch mal zu einer unserer [Sitzung]()!**
+**Dann komm doch mal zu einer unserer Sitzungen!** Den nächsten Termin sihest du in der Sidebar oder im [Kalender](https://cloud.fsi.uni-tuebingen.de/index.php/apps/calendar/p/e8wPTX4TBpCNpb7W/FSI)
 
 ### Helf einfach mal mit!
 Keine Zeit dich regelmäßig zu engagieren? \\
@@ -53,10 +53,10 @@ Findest aber dennoch cool, was wir machen und willst uns helfen?
 
 Wir treffen uns während des Semesters einmal in der Woche zu unserer Fachschaftssitzung im Fachschaftszimmer. In der vorlesungsfreien Zeit treffen wir uns nur unregelmäßig und auch nur bei Bedarf.
 
-Sitzungstermin im Sommersemester 2018:
+Die Sitzungstermine werden wie alle anderen unserer Termine unserem [Kalender](https://cloud.fsi.uni-tuebingen.de/index.php/apps/calendar/p/e8wPTX4TBpCNpb7W/FSI) gepflegt.
 
 ### Das Fachschaftszimmer
-In unserem Fachschaftzimmer ist jeder herzlich willkommen und es steht für alle Studenten offen.
+In unserem Fachschaftszimmer ist jeder herzlich willkommen und es steht für alle Studenten offen.
 
 Das Fachschaftszimmer auf dem Sand befindet sich im Gebäude Nr. 14. Das ist das Gebäude, auf das man zugeht, wenn man den Campus durch das Haupttor betritt. Dort in den Eingang hinein und dann den Flur nach rechts. Am Ende des Ganges ist unser Zimmer auf der linken Seite.
 

@@ -13,12 +13,12 @@ Um diese Seite nutzen zu können, musst du [Ruby](https://www.ruby-lang.org/de/)
 
 Ubuntu/Debian:
 ```
-sudo apt install ruby ruby-dev jekyll
+sudo apt install ruby ruby-dev jekyll ruby-bundler
 ```
 
 Fedora/RHEL:
 ```
-sudo dnf istall ruby ruby-devel jekyll
+sudo dnf install ruby ruby-devel jekyll
 ```
 
 Danach kannst du eine lokale Version der Website folgendermaßen installieren:
@@ -37,6 +37,13 @@ bundle exec jekyll serve
 
 Dies startet einen lokalen Webserver, der unter http://127.0.0.1:4000/ erreichbar ist.
 
+### Docker
+
+```
+docker build -t fsinf/cyberauftritt:latest .
+mkdir _site/
+docker run -p 127.0.0.1:4000:4000 --volume="$PWD:/srv/jekyll" fsinf/cyberauftritt:latest
+```
 
 ### Acknowledgements
 
