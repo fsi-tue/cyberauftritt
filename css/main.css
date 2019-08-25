@@ -471,6 +471,29 @@ footer .theme-by {
 .intro-header .page-heading h1 {
   font-size: 50px;
 }
+
+/* fix heading sizes for mobile view */
+@media only screen and (max-width: 460px) {
+  h1, .intro-header .page-heading h1 {
+    margin-top: 40px;
+    font-size: 30px;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  h1, .intro-header .page-heading h1 {
+    margin-top: 40px;
+    font-size: 25px;
+  }
+}
+
+@media only screen and (max-width: 300px) {
+  h1, .intro-header .page-heading h1 {
+    margin-top: 40px;
+    font-size: 20px;
+  }
+}
+
 .intro-header .post-heading h1 {
   margin-top: 0;
   font-size: 35px;
