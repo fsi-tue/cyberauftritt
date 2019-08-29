@@ -21,6 +21,7 @@ eure Anmeldung zu euren Prüfungen möglichst problemlos abläuft.
   * Besondere Regeln für Bioinformatiker:
     * Die Wahlpflichtveranstaltungen LW können Sie nicht über Campus anmelden. Daher melden Sie sich bitte per Anmeldebogen an. Empfohlen wird, die Email-Adresse des jeweiligen Dozenten mit anzugeben.
     * Die zugehörigen Formulare können [hier](https://uni-tuebingen.de/de/74351) eingesehen und heruntergeladen werden.
+    * Der Prüfungszeitraum ist meisten von letzten Vorlesungswoche bis einschließlich der zweiten Vorlesungsfreien Woche nach Semsterende. Außnahmen gibt es zwar sind aber relativ selten. Viele Dozenten können schon zu Beginn der Vorlesung den Prüfungstermin nennen.  
 
 
 ## Nebenfach Anmeldungen

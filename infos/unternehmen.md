@@ -4,7 +4,7 @@ title: Infos für Unternehmen
 ---
 
 Hier finden Sie Möglichkeiten zur Kontaktaufnahme zu Informatikstudierenden,
-die mögliche Interessenten für Ihre Jobs, Praktika, Umfragen, Seminare oder
+die mögliche Interessenten für Ihre Jobs, Praktika, Seminare oder
 Abschlussarbeiten sind. Bitte beachten Sie, dass die Fachschaft darüber hinaus
 **keine** Möglichkeiten hat, Informationen an Studenten der Informatik
 weiterzuleiten!
