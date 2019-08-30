@@ -40,7 +40,7 @@ Du hast Lust dich für deine Kommilitonen zu engagieren?\\
 Hast Spaß an der Organisation von Veranstaltungen?\\
 Hast coole Ideen, wie man das Studium verbessern könnte?
 
-**Dann komm doch mal zu einer unserer Sitzungen!** Den nächsten Termin sihest du in der Sidebar oder im [Kalender](https://cloud.fsi.uni-tuebingen.de/index.php/apps/calendar/p/e8wPTX4TBpCNpb7W/FSI)
+**Dann komm doch mal zu einer unserer Sitzungen!** Den nächsten Termin siehst du in der Sidebar oder im [Kalender](https://cloud.fsi.uni-tuebingen.de/index.php/apps/calendar/p/e8wPTX4TBpCNpb7W/FSI)
 
 ### Helf einfach mal mit!
 Keine Zeit dich regelmäßig zu engagieren? \\
