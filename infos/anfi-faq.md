@@ -369,7 +369,7 @@ Semesters erhalten.
     wenden kann?
 
 Den aktuellen offiziellen Studienberater findet ihr
-[hier](http://www.wsi.uni-tuebingen.de/studium/ansprechpartner/studienberatung.html).
+[hier](https://uni-tuebingen.de/fr/74360).
 
 Ansonsten, wenn Du weitere "inoffizielle" Tipps brauchst, wieder 'ne Mail
 an uns oder einfach vorbeikommen\!
