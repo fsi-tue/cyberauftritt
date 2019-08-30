@@ -10,7 +10,7 @@ dass wir alles wissen bzw. dass wir auch immer alles korrekt wissen.
 Generell gilt daher immer, sich von offizieller Seite absichern, also in
 Vorlesungsverzeichnissen, Studienordnungen, auf Schwarzen Brettern, ...
 nachzuschauen und bei den
-[Studienberatern](https://uni-tuebingen.de/fr/74360)
+[Studienberatern](https://uni-tuebingen.de/de/74360)
 nachfragen. Wer Fragen hat, die hier nicht beantwortet werden, darf sie
 uns gerne stellen: Kontaktmöglichkeiten stehen auf unserer
 [Kontaktseite](/kontakt/)

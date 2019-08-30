@@ -7,7 +7,7 @@ eure Anmeldung zu euren Prüfungen möglichst problemlos abläuft.
 ## Allgemeines
 
 
-  * Es gibt mehrere [Prüfungssekretariate](https://uni-tuebingen.de/es/74384). Geht nur zu Eurem Sekretariat und schreibt auch nur Eurem Sekretariat, außer es wird Euch explizit gesagt, dass Ihr Euch bei einem anderen Sekretariat melden sollt.
+  * Es gibt mehrere [Prüfungssekretariate](https://uni-tuebingen.de/de/74384). Geht nur zu Eurem Sekretariat und schreibt auch nur Eurem Sekretariat, außer es wird Euch explizit gesagt, dass Ihr Euch bei einem anderen Sekretariat melden sollt.
   * Alle folgenden Angaben sind ohne Gewähr. Es empfiehlt sich ein Blick in die [Modulhandbücher](https://uni-tuebingen.de/de/74348)
   * Die Prüfungsanmeldung findet über das Campus System oder die zuständigen Prüfungssekretariate statt. Euer Dozent teilt euch mit, was bei euch der Fall ist.
   * Es gibt zwei Anmeldemodi: klausurspezifisch und pauschal.
