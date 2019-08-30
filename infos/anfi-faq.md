@@ -10,7 +10,7 @@ dass wir alles wissen bzw. dass wir auch immer alles korrekt wissen.
 Generell gilt daher immer, sich von offizieller Seite absichern, also in
 Vorlesungsverzeichnissen, Studienordnungen, auf Schwarzen Brettern, ...
 nachzuschauen und bei den
-[Studienberatern](http://www.wsi.uni-tuebingen.de/studium/ansprechpartner/studienberatung.html)
+[Studienberatern](https://uni-tuebingen.de/de/74360)
 nachfragen. Wer Fragen hat, die hier nicht beantwortet werden, darf sie
 uns gerne stellen: Kontaktmöglichkeiten stehen auf unserer
 [Kontaktseite](/kontakt/) Seite
@@ -365,7 +365,7 @@ Semesters erhalten.
     wenden kann?
 
 Den aktuellen offiziellen Studienberater findet ihr
-[hier](http://www.wsi.uni-tuebingen.de/studium/ansprechpartner/studienberatung.html).
+[hier](https://uni-tuebingen.de/fr/74360).
 
 Ansonsten, wenn Du weitere "inoffizielle" Tipps brauchst, wieder 'ne Mail
 an uns oder einfach vorbeikommen\!
