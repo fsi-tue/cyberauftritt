@@ -216,7 +216,7 @@ Rest ist einfache Dreisatzmathematik, 2 Unit = 5 LP , 3 Unit = 7.5 LP
 usw. Diese einfache Regel kann generell angewendet werden um einen
 Eindruck zu gewinnen wieviele Vorlesungen machbar sind -- lasst Euch das
 aber vorab nochmal vom
-[Prüfungsausschuss](https://www.uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/organisatorisches/pruefungsausschuesse.html)
+[Prüfungsausschuss](https://uni-tuebingen.de/de/74378)
 bestätigen, wenn ihr Leistungen anrechnen lassen wollt. Am wenigsten
 Ärger gibt es, wenn Ihr Euch die Kurse vorab bereits in Deutschland
 aussucht und damit dann zu den jeweils zuständigen Professoren geht und
