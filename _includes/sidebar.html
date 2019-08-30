@@ -19,7 +19,7 @@ First poll the event items and then iterate over the respective lists within giv
     {% assign event_location = event.location | url_decode | escape | default: '<abbr title="To be announced">TBA</abbr>' %}
     {% assign event_title = event.summary | url_decode | escape %}
 
-    {% assign event_string = "<div><b>" |append: event_title | append: ":</b><br>" |
+    {% assign event_string = '<div class="well well-sm"><b>' |append: event_title | append: ":</b><br>" |
         append: cal | append: event_start | append: "<br>" |
         append: pin | append: event_location| append: "</div>" | split: '@@@@@@@NOT_OCCURRING_STRING' %}
 
