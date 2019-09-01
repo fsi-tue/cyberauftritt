@@ -13,7 +13,7 @@ nachzuschauen und bei den
 [Studienberatern](https://uni-tuebingen.de/de/74360)
 nachfragen. Wer Fragen hat, die hier nicht beantwortet werden, darf sie
 uns gerne stellen: Kontaktmöglichkeiten stehen auf unserer
-[Kontaktseite](/kontakt/) Seite
+Unterseite [Kontakt](/kontakt/)
 
 Viele Fragen werden auch in unseren [Informationen zu den
 Studiengängen](infos/studieninteressierte) beantwortet.
