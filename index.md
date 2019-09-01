@@ -17,7 +17,7 @@ Bei allen weiteren Fragen oder Unklarheiten kannst du uns gerne [per Mail schrei
 Du bist neu in Tübingen? Es ist alles komplett unübersichtlich und du weißt nicht, wo du anfangen sollst? Keine Panik! Die wichtigste Regel am Anfang: Ruhe bewahren und sich keinen unnötigen Stress machen. Glaub uns, wenn wir sagen: Es ging uns allen so. Deshalb haben wir es uns als Fachschaft zur Aufgabe gemacht, euch in der Zeit bis zur ersten Vorlesungswoche (und je nach dem etwas darüber hinaus) zu begleiten. Bereits vor den Vorlesungen haben wir eingie [Veranstaltungen](https://cloud.fsi.uni-tuebingen.de/cal) geplant, bei denen ihr eure Fragen loswerden könnt und bei denen hoffentlich ein wenig Licht in das Dunkel der ersten Wochen gebracht wird. Außerdem haben wir vorab etwas Lesestoff für euch vorbereitet, der neben eurem Terminplan unter anderem einen (**beispielhaften!**) Stundenplan beinhaltet. Weiter Informationen findet ihr weiter unten. 
 
 - [Anfi-Briefe](https://teri.fsi.uni-tuebingen.de/anfibrief/) für sämtliche Studiengänge (solltet ihr ebenfalls vorab per Post erhalten, sofern ihr euch rechtzeitig eingeschrieben habt)
-- [Anfi-Heft](https://wiki.fsi.uni-tuebingen.de/erstsemester/material/start#anfaengerhefte) (wird beim Anfi-Frühstück in gedruckter Form verteilt)
+- [Anfi-Heft](https://teri.fsi.uni-tuebingen.de/anfiheft/) (wird beim Anfi-Frühstück in gedruckter Form verteilt)
 
 ### FAQ
 Aller Anfang ist schwer, das ist uns allen klar. Um es uns allen etwas leichter zu machen, haben wir die "brisantesten" Themen in einer [FAQ-Liste](infos/anfi-faq) zusammengefasst. _Es fehlt etwas wichtiges in der Liste? Sag uns Bescheid!_ 
