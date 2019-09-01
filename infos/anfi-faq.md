@@ -13,13 +13,13 @@ nachzuschauen und bei den
 [Studienberatern](https://uni-tuebingen.de/de/74360)
 nachfragen. Wer Fragen hat, die hier nicht beantwortet werden, darf sie
 uns gerne stellen: Kontaktmöglichkeiten stehen auf unserer
-[Kontaktseite](/kontakt/)
+Unterseite [Kontakt](/kontakt/)
 
 Viele Fragen werden auch in unseren [Informationen zu den
 Studiengängen](infos/studieninteressierte) beantwortet.
 
 Für Einwände oder Verbesserungsvorschläge inhaltlicher oder
-rechtschreiblicher Art einfach eine Mail an uns.
+rechtschreiblicher Art einfach eine Mail an uns oder direkt per Pull Request auf [Github](https://github.com/fsi-tue/cyberauftritt).
 
 ## Allgemein
 
@@ -50,28 +50,24 @@ Wintersemester konzipiert und lässt sich nur schwer anpassen.
 
   - Anschaffung eines Computers.
   - Mit welchem System wird in der FSI überwiegend gearbeitet?
+  
+Ob Windows oder Linux auf einem PC läuft ist für die meisten an der Uni 
+selbst egal. Grundsätzlich gilt, dass die meisten Spiele nicht auf Linux 
+laufen. Auf der anderen Seiten kann kann man an Linux viel mehr rumspielen,
+konfigurieren und personalisieren. Außerdem wird Opensource Entwicklung und 
+Forschung hauptsächlich auf Linux Systemen durchgeführt. 
 
-Ich rate dir zu einem PC, auf dem sich Windows XP/Windows 7 - kein
-Vista\! (zum Zocken) und Linux (zum sinnvoll Arbeiten) befindet. Wir
-arbeiten hier primär mit Unix-Dialekten wie FreeBSD und Linux. Solltest
-du momentan noch keine Ahnung davon haben: Du wirst es schon noch lernen
-... (müssen :-))  
-Allerdings gibt es auch unter Windows SSH-Clients, mit denen man sich
-auf Rechnern der Informatik von außen einloggen kann, um mit diesen zu
-arbeiten, als säße man direkt davor ...  
-Es gibt allerdings auch eine nicht geringe Zahl von linuxresistenten
-Informatikern und auch diese schaffen ihr Studium sehr gut. Letztlich ist
-nicht das Betriebssystem entscheidend, sondern das, was ihr damit
-anstellt.
+Falls du grade Windows (10) verwendest musst du nicht unbedingt  wechseln, aber 
+es schadet nicht vorsichtig einen Zeh in die Linux Welt zu wagen. Windows 7 solltest 
+du mangels [Support](https://support.microsoft.com/de-de/help/4057281/windows-7-support-will-end-on-january-14-2020) 
+nicht mehr verwenden. Wenn du bereits Linux verwendest musst du nichts ändern. 
 
   - Wie sieht das mit dem Internetzugang über die Uni aus?
 
 Es gibt für dich als Informatikstudent viele Wege ins Internet: 1.
 über die Poolräume der Informatik (Morgenstelle, Sand) 2. über die
 Poolräume des ZDV (Morgenstelle, Sand, Wilhelmstraße). 3. Per WLAN über
-das ZDV (Morgenstelle, Sand, fast überall) 4. Von zuhause. Die meisten
-Wohnheime sind inzwischen per Standleitung an das Uninetz angeschlossen,
-ansonsten bleibt dir nur der Zugang per Modem, ISDN oder DSL. 
+das ZDV (Morgenstelle, Sand, fast überall) 4. Von Zuhause. 
 
 ### Mathevorkurs
 
@@ -122,7 +118,7 @@ Stadtplans zu kaufen. Old style paper version.
 
 WHO (Waldhäuser Ost) liegt genau zwischen Morgenstelle und Sand. Da
 wohnen \> 1000 Leute. Sehr positiv sind die Verkehrsanbindung, die Lage
-und die Internet-Standleitung. Negativ der Lärm und die Verschmutzung
+und die Internet-Leitung. Negativ der Lärm und die Verschmutzung
 ... Viele wollen da am liebsten für immer wohnen, andere nie im Leben
 einziehen - entscheide selbst.
 
@@ -156,7 +152,7 @@ Verbindungen sind ausschliesslich für Männer zugänglich. Frauen
 können zwar in das Haus, aber nicht darin wohnen. Die einzige
 Studentinnenverbindung, die ich kenne, hat leider kein Haus. Allerdings
 gibt es jetzt beispielsweise auch Verbindungswohnheime die mangels
-zulauf auch weibliche Bewerber zulassen:
+Zulauf auch weibliche Bewerber zulassen:
 [Rechberghaus](http://www.rechberghaus.de) Falls Du Dich sowieso mal auf
 dem Österberg aufhältst, dann klopf einfach mal an eine Tür, die
 Leute erklären Dir die Wohnkonditionen eigentlich immer ziemlich
@@ -227,7 +223,7 @@ Die aktuellen Öffnungszeiten zur Beantragung einer solchen Berechtigung
 erfahrt ihr [hier](http://www.uni-tuebingen.de/de/347).
 
 Ansonsten gibt es noch das kostenpflichtige Parkhaus im hinteren Bereich
-Morgenstelle (ca. 5 Euro/Tag?).
+Morgenstelle (ca. 5 Euro/Tag).
 
   - Und wie ist das mit Parkplätzen auf dem Sand?
 
