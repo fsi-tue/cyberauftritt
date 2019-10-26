@@ -58,5 +58,5 @@ Medizintechnikern ist auch nicht ausgeschlossen.
 ## Noch Fragen?
 
 Für weitere Fragen, schau doch einfach mal auf der
-[Medizininformatik](http://www.medizininformatik.uni-tuebingen.de/)
+[Medizininformatik](https://uni-tuebingen.de/de/74393)
 Webseite nach oder kontaktiere [uns](/kontakt).
