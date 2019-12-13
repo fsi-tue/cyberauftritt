@@ -11,6 +11,9 @@ In der Informatik wird unter "Anmeldung" einer Veranstaltung allgemein die Anmel
 
 Die Anmeldung zu Prüfungen ist thematisch ein Dauerbrenner, daher hier die wichtigsten Infos in Kurzform. Im Zweifelsfall hilft euch euer [Prüfungssekretariat](https://uni-tuebingen.de/de/74384) weiter.
 
+## Prüfungsprotokolle
+Altklausuren und Prüfungsprotokolle lassen sich im [Prüfungsprotokolleinterface](https://ppi.fsi.uni-tuebingen.de/), kurz PPI, finden. Hier sammelt die Fachschaft Informatik seit vielen Jahren Gedächtnisprotokolle von Klausuren. Inzwischen kommen wir in unserem Protokollearchiv auf etwa 2100 Klausuren und decken damit mehr als 250 verschiedene Vorlesungen ab. Selbstverständlich darf jeder Student diese Protokolle bei uns ausleihen! Das PPI findet ihr [hier](https://ppi.fsi.uni-tuebingen.de/) und gesondertes FAQ [hier](https://ppi.fsi.uni-tuebingen.de/?id=hilfe)
+
 ## Bachelor
 Im Bachelor ist basierend auf dem [Studienplan](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/downloads/studienplaene/) recht streng vorgegeben, was ihr hören könnt bzw. müsst. Die Anmeldung zur Prüfung solltet ihr sicherheitshalber spätestens **eine Woche vor dem Prüfungstermin** abgeschlossen haben. Normalerweise geht das über [CAMPUS](http://campus.verwaltung.uni-tuebingen.de/) unter Verwendung eurer ZDV-Login-Daten. Falls eine Prüfung nicht per CAMPUS angemeldet werden kann (was häufiger mal vorkommt), müssst ihr euch manuell per Formular zur Prüfung anmelden und bei eurem jeweiligen Prüfungssekretariat in den Briefkasten werfen.
 Das Formular sowie weitere allgemeine Informationen zur Prüfungsanmeldung findet ihr [hier](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/downloads/informationen-und-formulare).
