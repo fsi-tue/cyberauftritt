@@ -1,3 +1,7 @@
+---
+category: ausland
+---
+
 # Toefl-Tests im Zentrum für Datenverarbeitung (ZDV)
 
 In Zusammenarbeit mit dem ZDV und dem WSI haben einige Fachschaftler ein

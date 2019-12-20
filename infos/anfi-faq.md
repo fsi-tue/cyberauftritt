@@ -1,3 +1,7 @@
+---
+category: studienanfänger
+---
+
 # Erstsemester-FAQ
 
 Diese FAQ-Liste wurde nach Fragen zusammengestellt, die im Laufe der

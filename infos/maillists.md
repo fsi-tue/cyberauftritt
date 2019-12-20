@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mailinglisten
+category: studienanfänger
 ---
 
 # Mailinglisten
