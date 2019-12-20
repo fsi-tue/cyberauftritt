@@ -1,0 +1,96 @@
+---
+category: studierende
+---
+
+# Prüfungs-FAQ
+
+Die
+[Prüfungsordnungen](http://www.wsi.uni-tuebingen.de/studium/download/ordnungen.html)
+sind eine Wissenschaft für sich. Um für etwas Durchblick zu sorgen,
+entsteht hier nach und nach eine kleine FAQ. Aber Achtung: Wir können
+natürlich keine Garantie für diese Informationen abgeben\! Bitte
+beachtet auch, dass sie die Prüfungsordnung im Lauf der Jahre immer
+wieder geändert hat. Für die folgenden Fragen bildet eher der aktuelle
+Stand die Basis.
+
+## Welche Prüfungsordnung gilt für mich?
+
+Genau diejenige, welche dir zu Beginn deines Studiums (vermutlich in der
+ersten Info 1 - Vorlesung) ausgeteilt wurde beziehungsweise auch auf der
+obigen Homepage für deinen Studienbeginn als aktuell ausgewiesen war.
+
+## Hilfe, ich bin durch eine Prüfung gefallen\!
+
+Halb so wild, ihr habt ja noch die Nachholklausur. Wenn ihr die besteht
+ist alles super, wenn nicht, heißt das auch nicht in jedem Fall dass ihr
+jetzt ein Problem habt. Genaueres gibt es bei der
+[Studienberatung](http://www.wsi.uni-tuebingen.de/studium/ansprechpartner/studienberatung.html),
+welche euch gerne weiterhelfen wenn ihr Probleme mit dem Studium habt.
+
+## Wie lasse ich Schein x als Schlüsselqualifikation anerkennen?
+
+Reicht einfach einen formlosen Antrag in eurem jeweiligen
+Prüfungssekretariat ein. Welche Arten von Scheinen überhaupt akzeptiert
+werden, könnt ihr ohne weiteres bei eurem Prüfungssekretariat erfragen.
+
+## Ich will einige Zeit im Ausland studieren, was ist bezüglich der Anerkennung von Prüfungsleistungen zu beachten?
+
+Genauere Informationen erhaltet ihr im akademischen Auslandsamt in der
+Nauklerstraße, außerdem ist es sinnvoll sich vorab mit den jeweiligen
+fachbezogenen Professoren zu unterhalten. Beispiel: Ihr wollte
+theoretische Informatik im Auslandssemester machen, sprecht mit Prof.
+Lange ob er Euch diesen Schein im Anschluss auch normalerweise
+anerkennen würde. Prinzipiell seid ihr dazu nicht verpflichtet, aber
+wenn ihr das vorab klärt gibt es im Nachhinein keine unter Umständen
+üblen Überraschungen. Auch Dinge wie die Umrechung von dortigen Credits
+in Leistungspunkte (LP) können vom Auslandsamt bzw. den jeweiligen
+Professoren bei uns beantwortet werden. Ebenfalls Informationen könnt
+ihr bei der
+[Studienberatung](/mailto/studienberatung@informatik.uni-tuebingen.de)
+erhalten.
+
+## Wer sitzt im Prüfungsausschuss?
+
+Alle Professoren sind Mitglied und haben Stimmrecht. Die Studienberater
+sowie ein [studentischer Vertreter](/fachschaft/vertreter) haben
+Rederecht ("beratende Stimme"). Wer für Euren jeweiligen Ausschuss
+gerade den Vorsitz führt, könnt ihr aktuell [dieser
+Liste](http://www.wsi.uni-tuebingen.de/studium/organisatorisches/pruefungsausschuesse.html)
+entnehmen.
+
+## Ich habe einen kritischen Antrag - wer kann mir da helfen?
+
+Dafür ist der [studentische Vertreter](/fachschaft/vertreter) im
+Prüfungsausschuss da. Er kann euch beraten und euer Anliegen im
+Ausschuss untermauern. Keine Sorge, er ist zur Verschwiegenheit
+verpflichtet.
+
+## Ich muss etwas beantragen, wann tagt der Prüfungsausschuss?
+
+Üblicherweise zwei Mal im Semester: Im ersten Monat nach Beginn der
+Vorlesungszeit und etwa einen Monat vor Ende der Vorlesungszeit. Denkt
+daran, den Antrag frühzeitig zu stellen, da die beteiligten Sekretariate
+teilweise recht lange für die Bearbeitung brauchen und die Vorbereitung
+der Sitzung offenbar recht früh erfolgt (zwei Wochen vorher sollte es
+schon sein). Achtet außerdem darauf, dass ihr notwendige Informationen
+beilegt:
+
+  - Um welche Veranstaltung geht es? Wer ist verantwortlich?
+  - Eure Matrikelnummer und euren Namen (ja es gibt tatsächlich Anträge
+    die ohne Namen gestellt werden...)
+  - Wann habt ihr die Veranstaltung gehört?
+  - Wie / wofür soll sie anerkannt werden?
+
+## Ich will meine Bachelor/Masterarbeit auf englisch verfassen, geht das?
+
+Ja, klar. Englisch ist gar kein Problem, andere Sprachen müssten beim
+Prüfungsausschuss beantragt und genehmigt werden. Allerdings wurden
+bisher keine anderen Sprachen akzeptiert, da unsere Professoren in der
+Regel nur Deutsch und Englisch sprechen.
+
+## Wie lange kann ich an meiner Bachelorarbeit/Masterarbeit schreiben?
+
+Das lässt sich in der jeweiligen
+[Studienordnung](http://www.wsi.uni-tuebingen.de/studium/download/ordnungen.html)
+nachschlagen. Üblich sind 4 Monate für die Bachelorarbeit, 6 Monate für
+die Masterarbeit.

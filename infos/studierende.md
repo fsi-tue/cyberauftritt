@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Studierende
+category: studierende
 ---
 
 # Studienpläne
