@@ -1,3 +1,6 @@
+---
+category: ausland
+---
 # Auslandsstudium
 
 Ihr wollt ein oder zwei Semester eures Studiums im Ausland studieren?
