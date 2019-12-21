@@ -5,7 +5,7 @@ category: studierende
 # Prüfungs-FAQ
 
 Die
-[Prüfungsordnungen](http://www.wsi.uni-tuebingen.de/studium/download/ordnungen.html)
+[Prüfungsordnungen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/downloads/pruefungsordnungen/)
 sind eine Wissenschaft für sich. Um für etwas Durchblick zu sorgen,
 entsteht hier nach und nach eine kleine FAQ. Aber Achtung: Wir können
 natürlich keine Garantie für diese Informationen abgeben\! Bitte
@@ -24,7 +24,7 @@ obigen Homepage für deinen Studienbeginn als aktuell ausgewiesen war.
 Halb so wild, ihr habt ja noch die Nachholklausur. Wenn ihr die besteht
 ist alles super, wenn nicht, heißt das auch nicht in jedem Fall dass ihr
 jetzt ein Problem habt. Genaueres gibt es bei der
-[Studienberatung](http://www.wsi.uni-tuebingen.de/studium/ansprechpartner/studienberatung.html),
+[Studienberatung](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/ansprechpartner-und-organisation/studienberatung/),
 welche euch gerne weiterhelfen wenn ihr Probleme mit dem Studium habt.
 
 ## Wie lasse ich Schein x als Schlüsselqualifikation anerkennen?
@@ -46,24 +46,21 @@ wenn ihr das vorab klärt gibt es im Nachhinein keine unter Umständen
 in Leistungspunkte (LP) können vom Auslandsamt bzw. den jeweiligen
 Professoren bei uns beantwortet werden. Ebenfalls Informationen könnt
 ihr bei der
-[Studienberatung](/mailto/studienberatung@informatik.uni-tuebingen.de)
+[Studienberatung](mailto:studienberatung@informatik.uni-tuebingen.de)
 erhalten.
 
 ## Wer sitzt im Prüfungsausschuss?
 
 Alle Professoren sind Mitglied und haben Stimmrecht. Die Studienberater
-sowie ein [studentischer Vertreter](/fachschaft/vertreter) haben
+sowie ein studentischer Vertreter haben
 Rederecht ("beratende Stimme"). Wer für Euren jeweiligen Ausschuss
 gerade den Vorsitz führt, könnt ihr aktuell [dieser
-Liste](http://www.wsi.uni-tuebingen.de/studium/organisatorisches/pruefungsausschuesse.html)
+Liste](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/ansprechpartner-und-organisation/pruefungsausschuesse/)
 entnehmen.
 
 ## Ich habe einen kritischen Antrag - wer kann mir da helfen?
 
-Dafür ist der [studentische Vertreter](/fachschaft/vertreter) im
-Prüfungsausschuss da. Er kann euch beraten und euer Anliegen im
-Ausschuss untermauern. Keine Sorge, er ist zur Verschwiegenheit
-verpflichtet.
+Dafür ist der studentische Vertreter im Prüfungsausschuss da. Er kann euch beraten und euer Anliegen im Ausschuss untermauern. Keine Sorge, er ist zur Verschwiegenheit verpflichtet. Du erreichst die aktuellen studentischen Mitglieder über die [Fachschaft](mailto:fsi@fsi.uni-tuebingen.de). Dort kannst du nach den Vertretern fragen und dann auch privat mit ihnen komunizieren.
 
 ## Ich muss etwas beantragen, wann tagt der Prüfungsausschuss?
 
@@ -91,6 +88,6 @@ Regel nur Deutsch und Englisch sprechen.
 ## Wie lange kann ich an meiner Bachelorarbeit/Masterarbeit schreiben?
 
 Das lässt sich in der jeweiligen
-[Studienordnung](http://www.wsi.uni-tuebingen.de/studium/download/ordnungen.html)
+[Studienordnung](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/downloads/pruefungsordnungen/)
 nachschlagen. Üblich sind 4 Monate für die Bachelorarbeit, 6 Monate für
 die Masterarbeit.

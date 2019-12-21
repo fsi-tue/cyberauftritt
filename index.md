@@ -7,7 +7,7 @@ Du hast Interesse daran, in Tübingen dein Studium der
 - [Medieninformatik](infos/courses/medi) (BSc/MSc)
 - [Medizininformatik](infos/courses/medicine) (BSc/MSc)
 - [Kognitionswissenschaft](infos/courses/kogni) (BSc/MSc)
-- [Machine Learning](http://uni-tuebingen.de/de/140323) (MSc)
+- [Machine Learning](https://uni-tuebingen.de/de/140323) (MSc)
 
 zu beginnen? Dann können für dich vor allem die [Informationen der Universität](https://uni-tuebingen.de/de/74390) relevant sein. Hier kannst du dich über Studieninhalte, Bewerbungsfristen etc. informieren. Wir als Fachschaft sind auch jedes Jahr auf dem [Studieninformationstag](https://uni-tuebingen.de/studium/studieninteresse/angebote-fuer-studieninteressierte/studientag/) im November vertreten, auf dem ihr uns mit euren Fragen löchern könnt. 
 Beginnst du dein Studium in Tübingen im Master, kann es je nach deinem vorherigen Studiengang sein, dass du bestimmte Auflagen erfüllen musst. Wir als Fachschaft haben hierüber keine Informationen, dein Ansprechpartner hierfür ist der [Prüfungsausschuss](https://uni-tuebingen.de/de/74378).
@@ -56,7 +56,7 @@ Wenn ihr in Vorlesungen mitgeschrieben habt (am Besten: mitgetext) oder ihr bei 
 "Was muss ich denn eigentlich nochmal alles hören?" Ihr seid bei den Wahlpflichtbereichen und den *überfachlichen berufsfeldorientierten Kompetenzen* (Übk) in eurem Studienverlauf recht freigestellt, allerdings solltet ihr Pflichtmodule sowie Orientierungsprüfung im Auge behalten. Zusätzlich sitzt euch, falls ihr BAföG bezieht, die Regelstudienzeit im Nacken. Eure wichtigsten Anlaufstellen um einen Überblick zu erhalten, was gehört werden muss, sind:
 
 - [Studienverlaufspläne](https://uni-tuebingen.de/de/74342)
-- [Modulhandbücher](http://uni-tuebingen.de/de/74348)
+- [Modulhandbücher](https://uni-tuebingen.de/de/74348)
 
 
 
@@ -71,7 +71,7 @@ Wenn dies der Fall ist, müsst ihr euch auf den alten, analogen Weg mit einem Fo
 
 ### Studienberatung
 Ihr habt ein Anliegen, das sich durch Informationen der Uni und der Fachschaft nicht beantworten lässt? Dann ist die studentische Studienberatung der richtige Anlaufpunkt für euch. Jeder Studiengang hat studentische Berater, die speziell auf die Inhalte der einzelnen Studiengänge geschult sind. Falls diese nicht weiter wissen, können sie euch an die Studienberatung der Informatik oder auch an folgende Stellen weiterverweisen:
-- [Zentrale Studienberatung](http://uni-tuebingen.de/de/8930)
+- [Zentrale Studienberatung](https://uni-tuebingen.de/de/8930)
 - [Psychologische Beratungsstelle des Studierendenwerks](https://www.my-stuwe.de/beratung-soziales/psychotherapeutische-beratung/)
 
 Weitere Informationen findet ihr auch auf den offiziellen Seiten der Uni zum Thema [Beratung bei Schwierigkeiten im Studienverlauf](https://uni-tuebingen.de/studium/beratung-und-info/zentrale-studienberatung/themen-der-beratung/schwierigkeiten-im-studienverlauf/).

@@ -35,7 +35,7 @@ Und anschließend kannst du deine lokale Version starten:
 bundle exec jekyll serve
 ```
 
-Dies startet einen lokalen Webserver, der unter http://127.0.0.1:4000/ erreichbar ist.
+Dies startet einen lokalen Webserver, der unter https://127.0.0.1:4000/ erreichbar ist.
 
 ### Docker
 

@@ -21,7 +21,7 @@ Programme für EU-Länder(ERASMUS), Nordamerika und Australien/Neuseeland.
 Aber auch exotischere Gebiete wie Südafrika oder Lateinamerika können
 per Austausch besucht werden. Die wichtigsten Informationen und Termine
 sind auf der
-[International-Rubrik](http://www.uni-tuebingen.de/international/studieren-im-ausland.html)
+[International-Rubrik](https://www.uni-tuebingen.de/international/studieren-im-ausland.html)
 zu finden. Weitere Informationen bietet weiterhin das Dezernat für
 Internationale Beziehungen, welches alle Auslandsprogramme koordiniert.
 Vor allem das Helpdesk des Dezernates steht täglich unter der Woche für
@@ -46,7 +46,7 @@ zugeordnet. In der Informatik gibt es folgende Kooperationen:
   - Prof. Kaufmann: Madrid, Rom, Montpellier, Ljubljana
   - Prof. Butz: Aix-Marseille, Oslo, Montpellier, Besançon, Pilsen,
     Uppsala, Istanbul ([weitere
-    Informationen](http://www.wsi.uni-tuebingen.de/lehrstuehle/cognitive-modeling/erasmus/erasmus-informationen.html)
+    Informationen](https://www.wsi.uni-tuebingen.de/lehrstuehle/cognitive-modeling/erasmus/erasmus-informationen.html)
     und Erfahrungsberichte)
 
 Theoretisch sind auch Austausche in jede andere Uni innerhalb der EU

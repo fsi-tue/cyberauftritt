@@ -8,7 +8,7 @@ In Zusammenarbeit mit dem ZDV und dem WSI haben einige Fachschaftler ein
 zweites TOEFL-Test Center nach Tübingen in das Zentrum für
 Datenverarbeitung geholt. Die Test-Center ID ist STN13782A. Ihr könnt
 euch ausschließlich über die Website des Testveranstalters ETS
-<http://www.ets.org/toefl> für einen Test anmelden.
+<https://www.ets.org/toefl> für einen Test anmelden.
 
 **Achtung: Wir führen den Test lediglich im Auftrag durch. Konzeption,
 Erstellung und Auswertung erfolgen ausschließlich durch ETS in den USA,
@@ -36,7 +36,7 @@ nach erfolgter Anmeldung mitgeteilt.
 
 Aus rechtlichen Gründen ist es für Test-Center-Betreiber schwierig
 Vorbereitungskurse anzubieten. Das
-[Deutsch-Amerikanische-Institut](http://www.dai-tuebingen.de/) bietet
+[Deutsch-Amerikanische-Institut](https://www.dai-tuebingen.de/) bietet
 solche Kurse jedoch kommerziell an. Für den Durchschnittsbürger genügt
 jedoch die Vorbereitung mit einem der vielen im Handel erhältlichen
 Bücher völlig. Der Kauf eines dieser Bücher ist sehr zu empfehlen.

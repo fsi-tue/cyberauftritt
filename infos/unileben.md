@@ -23,7 +23,7 @@ Gibt es nicht mehr.
 Seit 01.01.2013 kommt man nicht mehr um das Bezahlen von GEZ-Gebühren
 herum, man wird jetzt nämlich gar nicht mehr gefragt. Zumindest für WGs
 ist jetzt pro Wohngemeinschaft der monatliche Beitrag zu bezahlen. Mehr
-Infos hierzu gibt es [hier.](http://www.rundfunkbeitrag.de/)
+Infos hierzu gibt es [hier.](https://www.rundfunkbeitrag.de/)
 
 ## Krankenkasse, Pflegeversicherung
 
@@ -49,7 +49,7 @@ eine gesetzliche Krankenkasse.
 Die Studententarife (fast) aller Krankenkassen gehen davon aus, dass man
 hauptsächlich studiert und nebenher höchstens ein bisschen arbeitet. In
 konkreten Zahlen heisst das:max. 20 Stunden pro Woche, [in den
-Semesterferien](http://www.versicherungswissen.org/studenten/20-stunden-regel-studenten.html)
+Semesterferien](https://www.versicherungswissen.org/studenten/20-stunden-regel-studenten.html)
 gilt keine Stundenbegrenzung. Für die Pflegeversicherung gilt die
 bekannte [345/400
 EUR-Grenze](https://www.tarifini.de/pflegeversicherung-fuer-studenten/).
@@ -63,7 +63,7 @@ volles Jahr gilt.
 Fachliteratur ist auch in der Informatik oft nicht billig, allerdings
 ist man - im Gegensatz zu anderen Studienfächern - nicht auf Bücher als
 Hauptinformationsquelle angewiesen. Zudem steht die
-[Informatik-Bibliothek](http://bib.informatik.uni-tuebingen.de) zur
+[Informatik-Bibliothek](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/fachbereich/bibliothek/) zur
 Verfügung. Desweiteren empfiehlt sich auch bei alternativen
 Buchportalen vorbeizuschauen.
 
@@ -73,7 +73,7 @@ Die Region Tübingen/Reutlingen ist, was die Mietpreise angeht, eine der
 teuersten Regionen Deutschlands. Zudem ist es nicht immer ganz einfach,
 überhaupt eine Wohnung oder ein Zimmer zu finden. Für den privaten
 Wohnungsmarkt sind Mittwochs- und Samstagsausgabe des "[Schwäbischen
-Tagblatts](http://www.tagblatt.de)" zu empfehlen, natürlich die
+Tagblatts](https://www.tagblatt.de)" zu empfehlen, natürlich die
 Schwarzen Bretter in den Mensen, und auch die "Studentische
 Zimmervermittlung" in der Mensa Wilhelmstraße ist sehr hilfreich bei der
 Zimmersuche. Neben privaten Wohnungen gibt es auch die Möglichkeit in
@@ -100,7 +100,7 @@ durch die Mitte" ;-)
 ### Mittagessen
 
 ``` 
-  * [[http://www.my-stuwe.de/cms/23/1/1/cat/Speiseplaene.html|Mensen des Studentenwerk Tübingen]]
+  * [[https://www.my-stuwe.de/cms/23/1/1/cat/Speiseplaene.html|Mensen des Studentenwerk Tübingen]]
     Besonders empfehlenswert ist die Prinz Karl Mensa, die zwar auch das Stammessen der Mensa bekommt, sonst wird aber selbst gekocht. Die allermeisten werden trotzdem in der Mensa Morgenstelle essen gehen.
   * Ist man bereit etwas mehr als 4 Euro auszugeben, so zeigt sich Tübingen als Mittagessenparadies. Fast jedes Lokal bietet einen Mittagstisch.
 ```
@@ -119,9 +119,9 @@ hochpreisig, je nach Wunsch). Gute Lokale sind unter anderem (aus
 eigener Erfahrung):
 
 ``` 
- * [[http://www.hotelamschloss.de/|Restaurant Mauganeschtle]]: Echt schwäbische Küche, sehr lecker, etwas teurer als der Durchschnitt, aber zu empfehlen. Direkt am Schloss gelegen.
- * [[http://www.weinstube-forelle.de/|Weinstube Forelle]]: Kleines aber feines Restaurant, große Weinauswahl. Ebenfalls sehr zu empfehlen!
- * [[http://www.wurstkueche.com/|Wurstküche Tübingen]]: Klingt recht einfach - man bekommt aber trotzdem einiges geboten. Absolut zu empfehlen!
+ * [[https://www.hotelamschloss.de/|Restaurant Mauganeschtle]]: Echt schwäbische Küche, sehr lecker, etwas teurer als der Durchschnitt, aber zu empfehlen. Direkt am Schloss gelegen.
+ * [[https://www.weinstube-forelle.de/|Weinstube Forelle]]: Kleines aber feines Restaurant, große Weinauswahl. Ebenfalls sehr zu empfehlen!
+ * [[https://www.wurstkueche.com/|Wurstküche Tübingen]]: Klingt recht einfach - man bekommt aber trotzdem einiges geboten. Absolut zu empfehlen!
 ```
 
 ## Wohnheime
@@ -141,7 +141,7 @@ alternative, konservative, günstige, teure, etc.
     etwas größeren WGs für 266 Euro warm.
 
 [Übersicht über die Wohnheime des Studentenwerk
-A.d.ö.R.](http://www.my-stuwe.de/cms/front_content.php?idart=37)
+A.d.ö.R.](https://www.my-stuwe.de/cms/front_content.php?idart=37)
 
   - \*\*Französisches Viertel \*\* liegt in der Südstadt von Tuebingen
     und wird ebenfalls vom Studentenwerk Tübingen betrieben. Die Preise
@@ -155,86 +155,73 @@ A.d.ö.R.](http://www.my-stuwe.de/cms/front_content.php?idart=37)
 \* TODO: mehr Wohnheime
 
   - **Christliche Wohnheime** gibt es in Tübingen zwei. Das
-    [Wilhelmstift](http://www.wilhelmsstift.de/) (nur Männer) und das
-    [Evangelische Stift](http://www.evstift.uni-tuebingen.de/). Beide
+    [Wilhelmstift](https://www.wilhelmsstift.de/) (nur Männer) und das
+    [Evangelische Stift](https://www.evstift.de/). Beide
     sind übrigens mitten in der Altstadt.
   - Das **Rechbergwohnheim** Gehört zwar einer katholischen
     Studentenverbindung, diese setzt aber nicht zwingend eine
     Mitgliedschaft voraus. Relativ gut zu erreichen in der Weststadt
-    gelegen. [Rechbergwohnheim](http://www.rechberghaus.de/)
+    gelegen. [Rechbergwohnheim](https://www.rechberghaus.de/)
 
 Die Anmeldung für einen Wartelistenplatz beim Studentenwerk sollte bis
 zum 15.7. für das WS stattfinden. Weitere Infos findest du
-[hier](http://www.my-stuwe.de/cms/front_content.php?idart=37) (auch eine
+[hier](https://www.my-stuwe.de/cms/front_content.php?idart=37) (auch eine
 Liste der Lage der Häuser, uvm.). Sollten alle Stränge reißen, bleiben
 immer noch Verbindungen: Auch hier gibt es mehr und weniger schlagende,
-krasse, konservative, etc.. Schau einfach mal im
-[Cityinfonetz](http://www.cityinfonetz.de/cgi-bin/branchen/index.pl?func=show&branche=4588)
-nach (Achtung nicht vollständig\!). Die Mieten sind sehr gering und
+krasse, konservative, etc.. Schau einfach mal in
+[Wikipedia](https://de.wikipedia.org/wiki/Liste_der_Studentenverbindungen_in_T%C3%BCbingen)
+). Die Mieten sind sehr gering und
 häufig gibt es sogenannte Probesemester, so dass ihr nicht gleich
 eintreten müsst. Bedenke jedoch, dass die meisten Verbindugen nur Männer
 nehmen. Leider haben wir keine Informationen über freie Zimmer und
 Wohnungen. Es gibt sehr viele Wohnungssuchende und auch für Tübinger ist
 das kein Kinderspiel. Die beste Möglichkeit ist, ein paar Tage nach
 Tübingen zu kommen, sich in der
-[Jugendherberge](http://tuebingen.jugendherberge-bw.de/) oder einer
+[Jugendherberge](https://tuebingen.jugendherberge-bw.de/) oder einer
 anderen kurzfristigen Wohnmöglichkeit einzumieten und zu suchen.
 
 ## BAFöG
 
-[Info-Broschüre](http://www.bmbf.de/pub/bafoeg_flyer.pdf) des
-[Bundesministerium für Bildung und Forschung](http://www.bmbf.de/).
-
-## Familienzuschlag
-
-Beamte bekommen einen
-[Familienzuschlag](http://www.uni-tuebingen.de/uni/qqp/Besoldung-euro.html),
-der direkt an das [\#Kindergeld](#Kindergeld) gekoppelt ist.
+[Info-Broschüre](https://www.bmbf.de/upload_filestore/pub/Ich_BafoeG_meine_Zukunft.pdf) des
+[Bundesministerium für Bildung und Forschung](https://www.bmbf.de/).
 
 ## Kindergeld
 
-Auf der
-[Kindergeld-Seite](http://www.dz-portal.de/003_menue_links/007_kindergeld/index.html)
-beim Bundesamt für zentrale Dienste und offene Vermögensfragen gibt es
-ein Merkblatt mit den wichtigsten Informationen, Antragsformulare und
-eine FAQ.
+Auf der Seite der [Arbeitsagentur](https://www.arbeitsagentur.de/familie-und-kinder/kindergeld-ab-18-jahren) gibt es
+ein Merkblatt mit den wichtigsten Informationen, Antragsformulare und eine FAQ.
 
 ## Steuer, Sozialversicherung, Rentenversicherung
 
 Wie jeder andere deutsche Bürger seid auch ihr steuerpflichtig, sofern
 ihr die Freibeträge überschreitet (7644 EUR pro Jahr
-[Lohnsteuer](http://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Lohnsteuer/lohnsteuer.html)),
-450 EUR pro Monat
-[Rentenversicherung](http://www.bfa.de/ger/ger_versicherung.2/ger_pflichtfreiwillig.20/ger_400eurojobs.205/ger_205_400eurojobs.html)).
+[Lohnsteuer](https://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/Steuerarten/Lohnsteuer/lohnsteuer.html)),
+450 EUR pro Monat Rentenversicherung).
 
 ## Studentenwerksbeitrag
 
 Bei der Rückmeldung müsst ihr neben dem
-[\#Verwaltungskostenbeitrag](#Verwaltungskostenbeitrag) den
+[Verwaltungskostenbeitrag](/infos/unileben/#verwaltungskostenbeitrag) den
 Studentenwerksbeitrag (derzeit 73.50 EUR) entrichten. Diese Gebühr kommt
 - im Gegensatz zum Verwaltungskostenbeitrag - jedoch den Studenten
-[direkt wieder zu Gute](http://www.fsrvv.de/index.php?article_id=111):
+[direkt wieder zu Gute](https://www.fsrvv.de/index.php?article_id=111):
 Es werden die sozialen Leistungen des Studentenwerks sowie der
 Sockelbetrag des Semestertickets davon bezahlt. Das **Semesterticket**
 arbeitet nach dem Solidarprinzip: Alle zahlen einen Sockelbetrag und wer
-das Semesterticket tatsächlich nutzen will, zahlt zusätzlich noch [66.50
-EUR](http://www.naldo.de/tickets-und-preise/tickets-zielgruppen/schueler-azubis-studenten/semesterticket/).
-
-  - [Historisches und Informatives zum
-    Semesterticket](http://www.fsrvv.de/services/praktische-lebenshilfe/semesterticket/)
+das Semesterticket tatsächlich nutzen will, zahlt zusätzlich noch [~100
+EUR](https://www.naldo.de/tickets-und-preise/alle-fahrscheine/semesterticket/).
 
 ## Telefon, Internet
 
-Wer BAFöG bekommt oder von den [Rundfunkgebühren](#GEZ) befreit ist,
+Wer BAFöG bekommt oder von den [Rundfunkgebühren](infos/unileben/#gez) befreit ist,
 kann bei der Telekom den sogenannten Sozialtarif beantragen. Näheres auf
 der entsprechenden
-[Info-Seite](http://hilfe.telekom.de/hsp/cms/content/HSP/de/3378/theme-45859561/theme-45859560/theme-45859559/theme-45859558/faq-1003865)
+[Info-Seite](https://hilfe.telekom.de/hsp/cms/content/HSP/de/3378/theme-45859561/theme-45859560/theme-45859559/theme-45859558/faq-1003865)
 der Telekom. Ansonsten empfiehlt es sich, nach anderen Anbietern (Arcor,
 O2, etc.) Ausschau zu halten.
 
 ## Verwaltungskostenbeitrag
 
 Der Verwaltungskostenbeitrag in Höhe von 60 EUR pro Semester, der
-zusammen mit dem [\#Studentenwerksbeitrag](#Studentenwerksbeitrag) bei
+zusammen mit dem [Studentenwerksbeitrag](infos/unileben/#studentenwerksbeitrag) bei
 der Rückmeldung entrichtet werden muss, geht von der Uni direkt an das
 Land und wird dort zum Stopfen von allgemeinen Haushaltslöchern benutzt.
