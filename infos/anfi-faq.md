@@ -159,7 +159,7 @@ Leute erklären Dir die Wohnkonditionen eigentlich immer ziemlich
 genau.  
 Weitere Möglichkeit: Ein christliches Wohnheim, davon gibt es zwei,
 einmal das [Wilhelmstift](http://wilhelmsstift.de/gaeste/) und das
-[Evangelisches Stift](http://www.evstift.de/index.php?id=19#c84)  
+[Evangelisches Stift](https://www.evstift.de/)  
 Hier habe ich leider keine Zahlen, was das kostet, ich weiss nur, dass
 das Wilhelmstift ein reines Männerwohnheim, und das Ev. Stift gemischt
 ist. Beide sind übrigens mitten in der Altstadt.
