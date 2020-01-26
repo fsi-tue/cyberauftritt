@@ -93,23 +93,21 @@ durch die Mitte" ;-)
 
 ### Frühstück
 
-``` 
-  * Gut und preiswert Frühstücken kann man im Stern (Lange Gasse). Von ca. 9 - 13 Uhr bekommt man dort einen Zettel auf dem man sich sein Frühstück zusammenkreuzen kann.
-```
+Gut und preiswert Frühstücken kann man im Stern (Lange Gasse). Von ca. 9 - 13 Uhr bekommt man dort einen Zettel auf dem man sich sein Frühstück zusammenkreuzen kann.
+
 
 ### Mittagessen
 
-``` 
-  * [[https://www.my-stuwe.de/cms/23/1/1/cat/Speiseplaene.html|Mensen des Studentenwerk Tübingen]]
+
+  * [Mensen des Studentenwerk Tübingen](https://www.my-stuwe.de/cms/23/1/1/cat/Speiseplaene.html)
     Besonders empfehlenswert ist die Prinz Karl Mensa, die zwar auch das Stammessen der Mensa bekommt, sonst wird aber selbst gekocht. Die allermeisten werden trotzdem in der Mensa Morgenstelle essen gehen.
   * Ist man bereit etwas mehr als 4 Euro auszugeben, so zeigt sich Tübingen als Mittagessenparadies. Fast jedes Lokal bietet einen Mittagstisch.
-```
+
 
 ### Abendessen
 
-``` 
-  * In der Mensa in der Wilhelmstraße (direkt gegenüber von der Universitätsbibliothek ) wird oftmals auch abends ein warmes Essen angeboten - für die ganz Faulen, die nie kochen möchten, also durchaus eine Überlegung wert.
-```
+In der Mensa in der Wilhelmstraße (direkt gegenüber von der Universitätsbibliothek ) wird oftmals auch abends ein warmes Essen angeboten - für die ganz Faulen, die nie kochen möchten, also durchaus eine Überlegung wert.
+
 
 ### Elternessen
 
@@ -118,17 +116,15 @@ einige Möglichkeiten abends lecker essen zu gehen (niedrig - mittel -
 hochpreisig, je nach Wunsch). Gute Lokale sind unter anderem (aus
 eigener Erfahrung):
 
-``` 
- * [[https://www.hotelamschloss.de/|Restaurant Mauganeschtle]]: Echt schwäbische Küche, sehr lecker, etwas teurer als der Durchschnitt, aber zu empfehlen. Direkt am Schloss gelegen.
- * [[https://www.weinstube-forelle.de/|Weinstube Forelle]]: Kleines aber feines Restaurant, große Weinauswahl. Ebenfalls sehr zu empfehlen!
- * [[https://www.wurstkueche.com/|Wurstküche Tübingen]]: Klingt recht einfach - man bekommt aber trotzdem einiges geboten. Absolut zu empfehlen!
-```
+ * [Restaurant Mauganeschtle](https://www.hotelamschloss.de/): Echt schwäbische Küche, sehr lecker, etwas teurer als der Durchschnitt, aber zu empfehlen. Direkt am Schloss gelegen.
+ * [Weinstube Forelle](https://www.weinstube-forelle.de/): Kleines aber feines Restaurant, große Weinauswahl. Ebenfalls sehr zu empfehlen!
+ * [Wurstküche Tübingen](https://www.wurstkueche.com/): Klingt recht einfach - man bekommt aber trotzdem einiges geboten. Absolut zu empfehlen!
 
 ## Wohnheime
 
 Ganz Tübingen ist übersät mit Wohnheimen; welches das richtige für euch
 ist, hängt von euch ab. Es gibt alle Varianten - alte, neue,
-alternative, konservative, günstige, teure, etc.
+alternative, konservative, günstige, teure, etc. [Übersicht über die Wohnheime des Studentenwerk](https://www.my-stuwe.de/cms/front_content.php?idart=37)
 
   - **Fichtenweg im WHO (Waldhäuser Ost)** liegt genau zwischen
     Morgenstelle und Sand. Da wohnen \~ 1500 Leute. Sehr positiv sind
@@ -140,10 +136,7 @@ alternative, konservative, günstige, teure, etc.
     warm. Es existieren auch vollmöblierte Zimmer mit eigenem Bad in
     etwas größeren WGs für 266 Euro warm.
 
-[Übersicht über die Wohnheime des Studentenwerk
-A.d.ö.R.](https://www.my-stuwe.de/cms/front_content.php?idart=37)
-
-  - \*\*Französisches Viertel \*\* liegt in der Südstadt von Tuebingen
+  - **Französisches Viertel** liegt in der Südstadt von Tuebingen
     und wird ebenfalls vom Studentenwerk Tübingen betrieben. Die Preise
     liegen hier zwischen 190 und 275 EUR monatlich. Positiv ist hier
     ebenfalls die sehr gute Internetanbindung, negativ für Informatiker
@@ -152,12 +145,11 @@ A.d.ö.R.](https://www.my-stuwe.de/cms/front_content.php?idart=37)
     Nebenfächern in der Innenstadt aber möglicherweise keine schlechte
     Alternative.
 
-\* TODO: mehr Wohnheime
-
   - **Christliche Wohnheime** gibt es in Tübingen zwei. Das
     [Wilhelmstift](https://www.wilhelmsstift.de/) (nur Männer) und das
     [Evangelische Stift](https://www.evstift.de/). Beide
     sind übrigens mitten in der Altstadt.
+    
   - Das **Rechbergwohnheim** Gehört zwar einer katholischen
     Studentenverbindung, diese setzt aber nicht zwingend eine
     Mitgliedschaft voraus. Relativ gut zu erreichen in der Weststadt

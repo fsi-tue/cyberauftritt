@@ -1,3 +1,7 @@
+---
+category: ausland
+---
+
 # TOEFL FAQ
 
 Da wir regelmäßig Mails mit den zumeist gleichen Fragen bekommen, hier
@@ -12,9 +16,6 @@ als Test-Center Betreiber haben keinerlei Einfluss auf den Test
 Die Anmeldung ist nur direkt über den Testveranstalter ETS möglich:
 <https://www.ets.org/toefl> Sie ist telefonisch oder online per
 Kreditkarte möglich.
----
-category: ausland
----
 
 ## Welche Test Center gibt es in Tübingen?
 

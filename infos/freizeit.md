@@ -41,16 +41,12 @@ Ihr wollt nach Hamburg, Berlin oder München? Nach Stockholm? Oder
 irgendwo sonst hin? Aber es ist zu teuer allein? Dann schaut doch mal
 hier nach:
 
-``` 
-  * [[https://www.mitfahrzentrale.de]]
-  * [[https://www.mitfahrgelegenheit.de]]
-  * [[https://www.drive2day.com]]
-```
+  * [https://www.blablacar.de](https://www.blablacar.de)
+  * [https://www.drive2day.com](https://www.drive2day.com)
 
 ## Sport - Hochschulsport
 
-In Tübingen gibt es einen Hochschulsport, ein Programm des
-<https://www.hsp.uni-tuebingen.de/>.
+In Tübingen bietet das Sportinstitut mit dem [Hochschulsport](https://www.hsp.uni-tuebingen.de/) ein vielfältiges Sportliches Freizeitprogramm an.
 
 ## Stadtbücherei Tübingen
 
@@ -68,11 +64,11 @@ Hier die Links zu den Veranstaltungskalendern für...
 
 Wer ins **Kino** möchte, kann hier nachsehen:
 
-``` 
-  * [[https://www.tagblatt.de/Home/kino/kinoprogramm/kinoprogramm-tuebingen.html|Kinoprogramm in Tübingen]]
-  * [[https://www.tagblatt.de/Veranstaltungen/Uebersicht.html?are=93|Kinoprogramm in Reutlingen]]
-  * [[https://veranstaltungen.stuttgarter-zeitung.de/event/kino.php|Kinoprogramm in Stuttgart]]
-```
+
+  * [Kinoprogramm in Tübingen](https://www.tagblatt.de/Veranstaltungen/Uebersicht.html?are=17&clf=31)
+  * [Kinoprogramm in Reutlingen](https://www.tagblatt.de/Veranstaltungen/Uebersicht.html?are=93&clf=31)
+  * [Kinoprogramm in Stuttgart](https://veranstaltungen.stuttgarter-zeitung.de/event/kino.php)
+
 
 ## Volkshochschule (VHS)
 
