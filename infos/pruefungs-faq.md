@@ -15,9 +15,10 @@ Stand die Basis.
 
 ## Welche Prüfungsordnung gilt für mich?
 
-Genau diejenige, welche dir zu Beginn deines Studiums (vermutlich in der
-ersten Info 1 - Vorlesung) ausgeteilt wurde beziehungsweise auch auf der
-obigen Homepage für deinen Studienbeginn als aktuell ausgewiesen war.
+Eure Prüfungsordnung findet ihr auf [Alma](https://alma.uni-tuebingen.de/).
+Dort müsst ihr euch mit eurem zx-Kürzel anmelden. Nun wählt ihr "Mein Studium" aus,
+dann "Studienservice". Hier könnt ihr sie nun einsehen, z.B. "Bachelor Informatik (H-2015-1)"
+für den BSc Informatik in der Prüfungsordnung der Version aus dem Jahr 2015.
 
 ## Hilfe, ich bin durch eine Prüfung gefallen\!
 
