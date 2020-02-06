@@ -18,4 +18,5 @@ env:
 script:
   - set -e # halt script on error
   - bundle exec jekyll build
-  - bundle exec htmlproofer ./_site
+# ignore blablacar as they are blocking non browser clients
+  - bundle exec htmlproofer --url-ignore https://www.blablacar.de ./_site

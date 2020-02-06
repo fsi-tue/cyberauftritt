@@ -14,7 +14,7 @@ Richtige für dich.
 Willst du eigentlich lieber Biologie studieren und denkst, dass
 Informatikkenntnisse in der heutigen Zeit nicht schaden können, so
 solltest du deine Entscheidung nochmal gut überdenken - vielleicht bist
-du [hier](http://www.biologie.uni-tuebingen.de/) besser aufgehoben. Wenn
+du [hier](https://www.biologie.uni-tuebingen.de/) besser aufgehoben. Wenn
 du es genauer wissen willst, kannst du aber auch gerne nochmal mit
 [uns](/kontakt/) oder der Studienberatung darüber reden. Vielleicht
 helfen dir aber auch die weiteren Informationen auf dieser Seite.
@@ -104,7 +104,7 @@ die Einsatzgebiete für Informatiker in der Neurobiologie alles andere
 als uninteressant oder unwichtig sind. Die Neuroinformatik-Community ist
 sehr aktiv.
 
-Neurobiologie ist in [Tübingen](http://www.neuroschool-tuebingen.de/)
+Neurobiologie ist in [Tübingen](https://www.neuroschool-tuebingen.de/)
 sicherlich sehr stark - und ihr damit an der richtigen Stelle, sollte
 euch das Nervensystem und seine Funktionsweise interessieren. Als
 Bioinformatiker könnt ihr sowohl methodisch-analysierend wie auch
@@ -118,8 +118,8 @@ ein hohes Maß an mathematischem Verständnis und algorithmischen
 Fähigkeiten.
 
 Mit dem [Max-Plank-Institut für biologische
-Kybernetik](http://www.kyb.tuebingen.mpg.de/) und dem [Hertie-Institut
-für Hirnforschung](http://www.hih-tuebingen.de/) gibt es in Tübingen
+Kybernetik](https://www.kyb.tuebingen.mpg.de/) und dem [Hertie-Institut
+für Hirnforschung](https://www.hih-tuebingen.de/) gibt es in Tübingen
 auch erstklassige Forschungseinrichtungen auf diesem Gebiet. Am WSI
 liegt der Schwerpunkt eher auf der molekularen Bioinformatik und daher
 ist die Lehre auch in diese Richtung ausgerichtet, obwohl es auch hier

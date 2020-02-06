@@ -51,8 +51,7 @@ Um zu gewährleisten, dass alle Links funktionieren, nutzen wir einen [HTML Proo
 `html-proofer` sollte bereits als Abhängigkeit installiert worden sein. Deine lokalen Änderungen kannst du dann testen, indem du folgende Befehle in der Konsole ausführst:
 
 ```
-bundle exec jekyll build
-bundle exec htmlproofer ./_site
+bundle exec jekyll build && bundle exec htmlproofer --url-ignore https://www.blablacar.de ./_site
 ```
 
 #### Continous Integration

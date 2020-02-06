@@ -1,3 +1,7 @@
+---
+category: studienanfänger
+---
+
 # Prüfungsanmeldung
 
 Bei der Anmeldung zur Prüfung haben einige Profs und Sekretariate ganz

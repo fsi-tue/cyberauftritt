@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Studienanfänger
+category: studienanfänger
 ---
 
 # Bachelor

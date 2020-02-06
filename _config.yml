@@ -33,6 +33,7 @@ navbar-links:
     - Studierende: "infos/studierende"
     - Alumni: "infos/alumni"
     - Unternehmen: "infos/unternehmen"
+  Übersicht: "overview"
   Kontakt: "kontakt"
 
 # If you want to have an image logo in the top-left corner instead of the title text,

@@ -1,3 +1,7 @@
+---
+category: studienanfänger
+---
+
 # Erstsemester-FAQ
 
 Diese FAQ-Liste wurde nach Fragen zusammengestellt, die im Laufe der
@@ -100,8 +104,8 @@ Wohnheimplatz gibt es entweder beim Studentenwerk AdöR in der
 Wohnheimverwaltung, Fichtenweg 5, 72076 Tübingen, oder beim
 Studentenwerk e.V., Rümelinstraße 8, 72070 Tübingen.  
 Für den privaten Wohnungsmarkt ist inzwischen das Internet das Mittel
-der Wahl: [wg-gesucht.de](http://www.wg-gesucht.de),
-[zwischenmiete.de](http://www.zwischenmiete.de) (nicht nur
+der Wahl: [wg-gesucht.de](https://www.wg-gesucht.de),
+[zwischenmiete.de](https://www.zwischenmiete.de) (nicht nur
 Zwischenmieten), [vierwaen.de](http://www.vierwaen.de). Weiterhin gibt
 es die Mittwochs- und Samstagsausgabe des "Schwäbischen Tagblatts",
 natürlich die Schwarzen Bretter in den Mensen, und auch die
@@ -153,12 +157,12 @@ können zwar in das Haus, aber nicht darin wohnen. Die einzige
 Studentinnenverbindung, die ich kenne, hat leider kein Haus. Allerdings
 gibt es jetzt beispielsweise auch Verbindungswohnheime die mangels
 Zulauf auch weibliche Bewerber zulassen:
-[Rechberghaus](http://www.rechberghaus.de) Falls Du Dich sowieso mal auf
+[Rechberghaus](https://www.rechberghaus.de) Falls Du Dich sowieso mal auf
 dem Österberg aufhältst, dann klopf einfach mal an eine Tür, die
 Leute erklären Dir die Wohnkonditionen eigentlich immer ziemlich
 genau.  
 Weitere Möglichkeit: Ein christliches Wohnheim, davon gibt es zwei,
-einmal das [Wilhelmstift](http://wilhelmsstift.de/gaeste/) und das
+einmal das [Wilhelmstift](https://wilhelmsstift.de/gaeste/) und das
 [Evangelisches Stift](https://www.evstift.de/)  
 Hier habe ich leider keine Zahlen, was das kostet, ich weiss nur, dass
 das Wilhelmstift ein reines Männerwohnheim, und das Ev. Stift gemischt
@@ -220,7 +224,7 @@ Rückmelde-Terminals). Der Ausweis wird für zwei Semester ausgestellt
 und man muss dazu sein aktuelles Stammdatenblatt und den
 Studentenausweis mitbringen (und sollte sein Auto-Kennzeichen wissen).
 Die aktuellen Öffnungszeiten zur Beantragung einer solchen Berechtigung
-erfahrt ihr [hier](http://www.uni-tuebingen.de/de/347).
+erfahrt ihr [hier](https://www.uni-tuebingen.de/de/347).
 
 Ansonsten gibt es noch das kostenpflichtige Parkhaus im hinteren Bereich
 Morgenstelle (ca. 5 Euro/Tag).
@@ -340,7 +344,7 @@ komplette Stadtbild; die paar Einheimischen fallen kaum auf.
 
   - Habt Ihr irgendwo Eure Studienordnung im Netz ?
 
-hier: <http://www.mnf.uni-tuebingen.de/studium/spo.html>
+hier: <https://www.mnf.uni-tuebingen.de/studium/spo.html>
 
   - Wie ist das mit dem Wechsel von der FH an die Uni?
 
@@ -437,7 +441,7 @@ halten) bis es nicht mehr weitergeht und ihr links ein großes Tor seht.
 
 Die Zeiten der Vorlesung entnimmst du dem Vorlesungsverzeichnis der Uni
 Tübingen, welche oftmals im [CAMPUS
-System](http://campus.verwaltung.uni-tuebingen.de/index.html) zu finden
+System](https://campus.verwaltung.uni-tuebingen.de/index.html) zu finden
 sind. Teilweise sind diese auch auf den einzelnen Seiten der jeweiligen
 Fachgebiete zu finden.
 
@@ -466,7 +470,7 @@ letzten zwei Jahre je 60-70 Studierende angefangen.
 Bioinformatiker arbeiten an der Schnittstelle zwischen der Biologie und
 der Informatik. Ihr studiert quasi Informatik mit zwei Nebenfächern,
 Biologie und Chemie. Unter folgender Adresse bekommst du den
-[Studienplan](http://www.wsi.uni-tuebingen.de/studium/downloads/studienpläne.html),
+[Studienplan](https://www.wsi.uni-tuebingen.de/studium/downloads/studienpläne.html),
 in dem die genaueren Daten zu finden sind.
 
 #### Wo liegt der Schwerpunkt, in der Biologie oder in der Informatik?
