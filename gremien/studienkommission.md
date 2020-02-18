@@ -7,7 +7,7 @@ title: Studienkommission
 Die Studienkommission (kurz Studkomm) ist für die Angelegenheiten des Studiums und der Lehre zuständig. Hier werden u.a. Studienpläne erstellt und das Lehrangebot besprochen. Außerdem werden Lehrevaluationen besprochen und falls diese negativ ausfallen, mit den betroffenen Professoren gesprochen.
 
 # Wer ist die Studienkommission?
-Die Studkomm setzt sich aus der Studiendekanin, drei Professoren, zwei Vertretern des wissenschaftlichen Dienstes und vier Studierenden zusammen. Die vier Studierenden sind momentan Tim Beckmann, Daniel Hablitzel, Cedric Breuning und Saskia Honeck. Deren Vertreter sind Thomas Sachs, Sven Teufel, Roman Schulte und Lisbeth Fritze.
+Die Studkomm setzt sich aus der Studiendekanin, drei Professoren, zwei Vertretern des wissenschaftlichen Dienstes und vier Studierenden zusammen. Die vier Studierenden sind momentan Daniel Hablitzel, Marcus Ganske, Elisabeth Fritze und Silvia Himmelseher. Deren Vertreter sind Anja Mau, Hannah Kessel, Alexander Goetz und Denis Nadeschdin.
 
 # Wie erreiche ich meine studentischen Vertreter?
 Um die Verteter der reinen Informatik und *-Informatik Studiengänge zu erreichen, reicht es, eine Mail an "fsi-studkomm [ät] fsi.uni-tuebingen.de" zu schreiben.
