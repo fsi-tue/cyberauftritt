@@ -15,7 +15,7 @@ Des Weiteren gibt es ein Volleyballfeld und einen Fußballplatz. Über die [Mail
 
 ## An der Uni
 
-Auch die Uni legt sich mächtig ins Zeug. Ihre Angebote kann man [hier](https://www.uni-tuebingen.de/international/gastwissenschaftler/freizeit.html) finden.
+Auch die Uni legt sich mächtig ins Zeug. Ihre Angebote kann man [hier](https://uni-tuebingen.de/universitaet/campusleben/kunst-kultur-und-freizeit/) finden.
 
 ## Fachsprachenzentrum
 
