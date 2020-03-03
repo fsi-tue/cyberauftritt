@@ -1,7 +1,9 @@
 # Anfiveranstaltungen Sommersemester 2020
 
 ### 30.03. - 08.04.2020: Mathematischer Vorbereitungskurs
-_Informationen folgen_
+Erster Treffpunkt 10:15 Uhr am 30.03. auf dem Sand 6 im Raum F119. Alles weitere wird dort besprochen. Danach jeweils von 9 bis 17 Uhr in kleineren Gruppen.
+Der Vorkurs bietet Euch eine Wiederholung des Schulstoffs und führt Euch in die Terminologie ein, die Ihr in euren Mathe-Vorlesungen wiederfinden werdet. Es ist nicht Pflicht daran teilzunehmen, aber sehr empfehlenswert. Nicht zuletzt lernt Ihr hier erste Freunde kennen!
+Um eine Anmeldungn wird bis zum 26.03.2020 gebeten. Diese erfolgt über ein [Anmeldeformular](https://uni-tuebingen.de/de/91877) (auf dieser Seite findet ihr auch noch weitere Informationen).
 
 ### Veranstaltungen der Fachschaft
 Mit Ausnahme des Mathematik-Vorkurses richten sich die Veranstaltungen auch an Masterstudenten, die neu nach Tübingen kommen. Ebenso sind auch alle Nebenfächler, Kognitionswissenschaftler und Informatik-Studiengänge ausdrücklich zu den genannten Veranstaltungen eingeladen!
