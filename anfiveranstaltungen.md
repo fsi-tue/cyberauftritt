@@ -1,12 +1,18 @@
 # Anfiveranstaltungen Sommersemester 2020
 
+*Bitte schaut immer wieder hier vorbei, um auf dem aktuellsten Stand zu sein.*
+
+### Semesterbeginn
+Nach aktueller Lage beginnt das Semester - eine Woche später als geplant - am 20. April 2020.
+
 ### 30.03. - 08.04.2020: Mathematischer Vorbereitungskurs
-Erster Treffpunkt 10:15 Uhr am 30.03. auf dem Sand 6 im Raum F119. Alles weitere wird dort besprochen. Danach jeweils von 9 bis 17 Uhr in kleineren Gruppen.
 Der Vorkurs bietet Euch eine Wiederholung des Schulstoffs und führt Euch in die Terminologie ein, die Ihr in euren Mathe-Vorlesungen wiederfinden werdet. Es ist nicht Pflicht daran teilzunehmen, aber sehr empfehlenswert. Nicht zuletzt lernt Ihr hier erste Freunde kennen!
-Um eine Anmeldungn wird bis zum 26.03.2020 gebeten. Diese erfolgt über ein [Anmeldeformular](https://uni-tuebingen.de/de/91877) (auf dieser Seite findet ihr auch noch weitere Informationen).
+Aufgrund aktueller Ereignisse wird der Vorkurs online abgehalten.
+Um eine Anmeldung wird bis zum 26.03.2020 gebeten. Diese erfolgt über ein [Anmeldeformular](https://uni-tuebingen.de/de/91877) (auf dieser Seite findet ihr auch noch weitere Informationen). Nachdem ihr euch angemeldet habt bekommt ihr weitere Details wie genau das Ganze abläuft.
 
 ### Veranstaltungen der Fachschaft
 Mit Ausnahme des Mathematik-Vorkurses richten sich die Veranstaltungen auch an Masterstudenten, die neu nach Tübingen kommen. Ebenso sind auch alle Nebenfächler, Kognitionswissenschaftler und Informatik-Studiengänge ausdrücklich zu den genannten Veranstaltungen eingeladen!
+
 
 Um zum Sand 1/14 zu gelangen, fahrt Ihr mit der Linie 2 oder 6 bis zur Haltestelle "Sand Drosselweg", von dort ist der Weg zu den Veranstaltungen ausgeschildert.
 
