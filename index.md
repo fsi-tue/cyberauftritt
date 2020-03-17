@@ -1,5 +1,14 @@
 # Willkommen bei der fsi!
 
+---
+## &#9888; *Aktuelle Informationen* &#9888;
+### Für Studierende
+Der Fachbereich hat beschlossen, alle Prüfungen ab dem 16. März (schriftlich sowie mündlich) auf Anfang Mai 2020 zu verschieben. Weitere Informationen und Änderungen folgen per Mail.
+### Für Erstsemester
+Aktuelle Informationen & den Anfibrief findet ihr [hier](/anfiveranstaltungen).
+
+---
+
 ## Für Studieninteressierte
 Du hast Interesse daran, in Tübingen dein Studium der 
 - [Informatik](infos/courses/info) (BSc/MSc/BEd/MEd)
