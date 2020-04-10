@@ -6,14 +6,14 @@ Wir als Fachschaft hoffen, dass hier die für dich Interessanten Informationen z
 
 ## Für Erst-/Zweitsemester
 **F: Was ist mit VL X? Wo bekomme ich Informationen?**
-**A:** Gucke unter [Vorlesungen](../vorlesungen) oder in der [Liste](#Infos-zu-Vorlesungen-mit-Link) und suche dort. Ansonsten schaue auf [alma](https://alma.uni-tuebingen.de) im Vorlesungsverzeichnis und wenn du da nichts findest, schreib uns doch eine Mail, vielleicht können wir helfen.
+**A:** Gucke unter [Vorlesungen](https://www.fsi.uni-tuebingen.de/corona/vorlesungen) oder in der [Liste](#Infos-zu-Vorlesungen-mit-Link) und suche dort. Ansonsten schaue auf [alma](https://alma.uni-tuebingen.de) im Vorlesungsverzeichnis und wenn du da nichts findest, schreib uns doch eine Mail, vielleicht können wir helfen.
 
 **F: Wie sieht der Übungsbetrieb aus? Wo finde ich meine Tutorien?**
 **A:** Das ist je VL unterschiedlich, sollte aber auf der jeweiligen Seite zur Vorlesung zu finden sein.
 Es gibt versch. online-Kurs-Plattformen:
-   * Mathe 2: [Moodle](moodle.zdv.uni-tuebingen.de)
-   * Info 2: [Infomark](infomark.informatik.uni-tuebingen.de)
-   * eine andere ist auch noch [Ilias](ilias.uni-tuebingen.de)
+   * Mathe 2: [Moodle](https://moodle.zdv.uni-tuebingen.de)
+   * Info 2: [Infomark](https://infomark.informatik.uni-tuebingen.de)
+   * eine andere ist auch noch [Ilias](https://ilias.uni-tuebingen.de)
 
 **F: Was ist dieses ALMA? (can I eat dis?)**
 **A:** Alma ist die online Plattform, auf der du nahezu alles findest. *Studienbescheinigung, Vorlesungsverzeichnis, Klausurnoten, etc.*
@@ -23,27 +23,27 @@ Darüber hinaus ist für dich das [Anfiheft](https://teri.fsi.uni-tuebingen.de/a
 
 ## Master Leute
 **F: Wird es Videoveranstaltungen geben? Mit TIMMS? Zeichnen die Profs gerade VL auf? Oder sollen das Livestreams werden?**
-**A:** Alles zusammen. Es hängt aber primär vom Prof ab auf welcher Plattform er live oder asynchron Inhalte anbieten wird. (siehe [Vorlesungen](../vorlesungen)
+**A:** Alles zusammen. Es hängt aber primär vom Prof ab auf welcher Plattform er live oder asynchron Inhalte anbieten wird. (siehe [Vorlesungen](https://www.fsi.uni-tuebingen.de/corona/vorlesungen)
 
 **F: Übungen kann man gut auch rimuht in Gruppen machen. Die werden also so bleiben? Was ist dann mit Tutorien?**
-**A:** Das hängt auch wieder vom Prof ab. Auch hier gilt suche [hier](../vorlesungen)
+**A:** Das hängt auch wieder vom Prof ab. Auch hier gilt suche [hier](https://www.fsi.uni-tuebingen.de/corona/vorlesungen)
 
 ## Für Fast Scheinfreie (Bachelor/Master)
 
 Hier haben wir leider nicht mehr Informationen als was in der Mail von Prüfungsvorsitzenden Menth kam.
 
 ## Infos zu Vorlesungen mit Link
-Die meisten Vorlesunden findest du [hier](../vorlesungen). Wir setzen allerdings `STRG+F` als Fähigkeit vorraus.
+Die meisten Vorlesunden findest du [hier](https://www.fsi.uni-tuebingen.de/corona/vorlesungen). Wir setzen allerdings `STRG+F` als Fähigkeit vorraus.
 
 ### Andere Veranstaltungen
 #### Info 2
 - Infos zur VL findet man auf der [Seite der Veranstaltung](https://uni-tuebingen.de/de/175110)
 - Zunächst nur online stattfindend
-- Live auf [Timms](timms.uni-tuebingen.de/) gestreamt
+- Live auf [Timms](https://timms.uni-tuebingen.de/) gestreamt
 
 #### Mathe 2
 - Infos zur VL findet man auf der [Seite des Lehrstuhls](http://www-pr.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell)
-- Live auf [Timms](timms.uni-tuebingen.de/) gestreamt
+- Live auf [Timms](https://timms.uni-tuebingen.de/) gestreamt
 
 #### Mathe IV: Stochastik
 - Verwaltung und Informationen komplett auf [Ilias](https://ilias.uni-tuebingen.de/ilias3/goto.php?target=crs_2382739&client_id=pr02)
