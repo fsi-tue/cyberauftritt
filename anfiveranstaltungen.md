@@ -6,24 +6,7 @@
 Nach aktueller Lage beginnt das Semester - eine Woche später als geplant - am 20. April 2020.
 
 ### Anfibrief
-Den Erstsemesterbrief solltet ihr einige Wochen vor dem Beginn eures Studiums erhalten haben. Er enthält wichtige Informationen und Tipps über euer Studium und unsere Erstsemesterveranstaltungen. Es gibt für jeden Studiengang einen eigenen Brief (nicht alle Anfibriefe sind im Sommersemester verfügbar):
-### Bachelor
-- [Brief B.Sc. Informatik](https://teri.fsi.uni-tuebingen.de/anfibrief/brief_informatik-bsc.pdf)
-- [Brief B.Sc. Bioinformatik](https://teri.fsi.uni-tuebingen.de/anfibrief/brief_bioinfo-bsc.pdf)
-- [Brief B.Sc. Medieninformatik](https://teri.fsi.uni-tuebingen.de/anfibrief/brief_medieninfo-bsc.pdf)
-- [Brief B.Sc. Medizininformatik](https://teri.fsi.uni-tuebingen.de/anfibrief/brief_medizininfo-bsc.pdf)
-- [Brief B.Sc. Kognitionswissenschaft](https://teri.fsi.uni-tuebingen.de/anfibrief/brief_kogwiss-bsc.pdf)
-
-### Master
-- [Brief M.Sc. Informatik](https://teri.fsi.uni-tuebingen.de/anfibrief/brief_informatik-msc.pdf)
-- [Brief M.Sc. Bioinformatik](https://teri.fsi.uni-tuebingen.de/anfibrief/brief_bioinfo-msc.pdf)
-- [Brief M.Sc. Medieninformatik](https://teri.fsi.uni-tuebingen.de/anfibrief/brief_medieninfo-msc.pdf)
-- [Brief M.Sc. Medizininformatik](https://teri.fsi.uni-tuebingen.de/anfibrief/brief_medizininfo-msc.pdf)
-- [Brief M.Sc. Kognitionswissenschaft](https://teri.fsi.uni-tuebingen.de/anfibrief/brief_kogwiss-msc.pdf)
-
-### Lehramt
-- [Brief B.Ed. Informatik](https://teri.fsi.uni-tuebingen.de/anfibrief/brief_informatik-bed.pdf)
-- [Brief M.Ed. Informatik](https://teri.fsi.uni-tuebingen.de/anfibrief/brief_informatik-med.pdf)
+Den [Erstsemesterbrief](https://teri.fsi.uni-tuebingen.de/anfibrief/) solltet ihr einige Wochen vor dem Beginn eures Studiums erhalten haben. Er enthält wichtige Informationen und Tipps über euer Studium und unsere Erstsemesterveranstaltungen. Es gibt für jeden Studiengang einen eigenen Brief.
 
 ### 30.03. - 08.04.2020: Mathematischer Vorbereitungskurs
 Der Vorkurs bietet Euch eine Wiederholung des Schulstoffs und führt Euch in die Terminologie ein, die Ihr in euren Mathe-Vorlesungen wiederfinden werdet. Es ist nicht Pflicht daran teilzunehmen, aber sehr empfehlenswert. Nicht zuletzt lernt Ihr hier erste Freunde kennen!
