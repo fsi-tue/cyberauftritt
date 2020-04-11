@@ -5,27 +5,27 @@ Wir als Fachschaft hoffen, dass hier die für dich Interessanten Informationen z
 ***DISCLAIMER:*** Alle von uns zu Verfügung gestellten Informationen können ihre Korrektheit verlieren. Die Informationen vom Dozenten sind die einzig korrekten.
 
 ## Für Erst-/Zweitsemester
-**F: Was ist mit VL X? Wo bekomme ich Informationen?**
+**F: Was ist mit VL X? Wo bekomme ich Informationen?**  
 **A:** Gucke unter [Vorlesungen](/covid19/vorlesungen) oder in der [Liste](/covid19/faq/#Infos-zu-Vorlesungen-mit-Link) und suche dort. Ansonsten schaue auf [alma](https://alma.uni-tuebingen.de) im Vorlesungsverzeichnis und wenn du da nichts findest, schreib uns doch eine Mail, vielleicht können wir helfen.
 
-**F: Wie sieht der Übungsbetrieb aus? Wo finde ich meine Tutorien?**
+**F: Wie sieht der Übungsbetrieb aus? Wo finde ich meine Tutorien?**  
 **A:** Das ist je VL unterschiedlich, sollte aber auf der jeweiligen Seite zur Vorlesung zu finden sein.
 Es gibt versch. online-Kurs-Plattformen:
    * Mathe 2: [Moodle](https://moodle.zdv.uni-tuebingen.de)
    * Info 2: [Infomark](https://infomark.informatik.uni-tuebingen.de)
    * eine andere ist auch noch [Ilias](https://ovidius.uni-tuebingen.de)
 
-**F: Was ist dieses ALMA?**
+**F: Was ist dieses ALMA?**  
 **A:** Alma ist die online Plattform, auf der du nahezu alles findest. *Studienbescheinigung, Vorlesungsverzeichnis, Klausurnoten, etc.*
 Ab und zu findest du aber auch Hinweise auf **Campus**, das ist aber seit diesem Semester nicht mehr relevant.
 
 Darüber hinaus ist für dich das [Anfiheft](https://teri.fsi.uni-tuebingen.de/anfiheft/anfiheft-info.pdf) interessant, da dort einige Informationen über das Leben in Tübingen zu finden sind. Obwohl das gerade eingeschränkt ist.
 
 ## Master Leute
-**F: Wird es Videoveranstaltungen geben? Mit TIMMS? Zeichnen die Profs gerade VL auf? Oder sollen das Livestreams werden?**
+**F: Wird es Videoveranstaltungen geben? Mit TIMMS? Zeichnen die Profs gerade VL auf? Oder sollen das Livestreams werden?**  
 **A:** Alles zusammen. Es hängt aber primär vom Prof ab auf welcher Plattform er live oder asynchron Inhalte anbieten wird. (siehe [Vorlesungen](/covid19/vorlesungen))
 
-**F: Übungen kann man gut auch rimuht in Gruppen machen. Die werden also so bleiben? Was ist dann mit Tutorien?**
+**F: Übungen kann man gut auch rimuht in Gruppen machen. Die werden also so bleiben? Was ist dann mit Tutorien?**  
 **A:** Das hängt auch wieder vom Prof ab. Auch hier gilt suche [hier](/covid19/vorlesungen)
 
 ## Für Fast Scheinfreie (Bachelor/Master)
@@ -58,26 +58,26 @@ Die meisten Vorlesunden findest du [hier](/covid19/vorlesungen). Wir setzen alle
 
 ## Sonstiges
 
-**F: Muss ich noch immer Hände waschen?**
+**F: Muss ich noch immer Hände waschen?**  
 **A:** JA, DU SCHMUTZFINK!!
 
-**F: Soll ich eine Maske tragen?**
+**F: Soll ich eine Maske tragen?**  
 **A:** Jedem sein Fetisch. Halte dich aber bitte an die Empfehlungen des Gesundheitsministeriums.
 
-**F: Wie kann ich im Hörsaal meinen Schlaf nachholen, wenn ich doch schon im Bett sitze und den Stream von der VL gucke?**
+**F: Wie kann ich im Hörsaal meinen Schlaf nachholen, wenn ich doch schon im Bett sitze und den Stream von der VL gucke?**  
 **A:** ... Wiederhole den 2. Teil deiner Frage.
 
-**F: Wie social-distance ich mich am Besten im Hörsaal?**
+**F: Wie social-distance ich mich am Besten im Hörsaal?**  
 **A:** Viel Rauchen, viel Knoblauch oder zwei Wochen nicht duschen. Das regelt schon. (#informatikerStyle) Aber im Ernst, es wird vorerst keine Präsenzveranstaltungen geben.
 
-**F: COVID? Ist das sowas wie COBOL?**
+**F: COVID? Ist das sowas wie COBOL?**  
 **A:** Nein.
 
-**F: Wie lerne ich momentan am Besten Leute kennen?**
+**F: Wie lerne ich momentan am Besten Leute kennen?**  
 **A:** Poste deine ICQ Nummer öffentlich in Moodle. Wenn du diesen Tipp an 10 Leute weiterschickst, färbt sich deine ICQ-Blume blau!
 
-**F: Was ist dieses Clubhaus?**
+**F: Was ist dieses Clubhaus?**  
 **A:** Fast so legendär wie der Bierkeller. #RIP #neverForget
 
-**F: Denkt ihr, ihr seid mit den Fragen hier witzig?**
+**F: Denkt ihr, ihr seid mit den Fragen hier witzig?**  
 **A:** Am Anfang ja. Wir findens jetzt aber auch nervig.
