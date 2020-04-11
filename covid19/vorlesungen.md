@@ -16,7 +16,7 @@ Wird duchgeführt durch: Grust
 |--|--|
 |ja|asynchrone Videos (YouTube)|
 
-Link: https://db.inf.uni-tuebingen.de/teaching/AdvancedSQLSS2020.html
+Link: [https://db.inf.uni-tuebingen.de/teaching/AdvancedSQLSS2020.html](https://db.inf.uni-tuebingen.de/teaching/AdvancedSQLSS2020.html)
 
 
 
@@ -27,7 +27,7 @@ Wird duchgeführt durch: Mark Boss
 |--|--|
 |ja|Synchrone Besprechungen & Vorträge via Zoom, etc.|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2359780&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2359780&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2359780&client_id=pr02)
 
 
 
@@ -38,7 +38,7 @@ Wird duchgeführt durch: Kasneci, E
 |--|--|
 |Ja|Online|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2419494&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2419494&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2419494&client_id=pr02)
 
 Bemerkungen der Dozierenden: Vorbesprechung am 21.04. um 10 Uhr.Details zum Online-Format werden in Ilias hinterlegt.
 
@@ -50,7 +50,7 @@ Wird duchgeführt durch: Wannek
 |--|--|
 |ja|asynchrones webm, Folien in ilias|
 
-Link: https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/neural-information-processing/teaching/lectures-seminars/summer-term-2020/
+Link: [https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/neural-information-processing/teaching/lectures-seminars/summer-term-2020/](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/neural-information-processing/teaching/lectures-seminars/summer-term-2020/)
 
 Bemerkungen der Dozierenden: Ilias ist noch nicht offen, wir sollen noch nichts einstellen :-/
 
@@ -63,7 +63,7 @@ Wird duchgeführt durch: Huber
 |ja|obligatorische Vorbesprechung am Freitag 24.4. 17:00-19:00h (im Uni-Netz via VPN):
 https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption|
 
-Link: https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption
+Link: [https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption](https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption)
 
 
 
@@ -74,7 +74,7 @@ Wird duchgeführt durch: Bringmann
 |--|--|
 |ja|Laborversuche|
 
-Link: https://www.embedded.uni-tuebingen.de/teaching/ss20/basispraktikum-technische-informatik/
+Link: [https://www.embedded.uni-tuebingen.de/teaching/ss20/basispraktikum-technische-informatik/](https://www.embedded.uni-tuebingen.de/teaching/ss20/basispraktikum-technische-informatik/)
 
 Bemerkungen der Dozierenden: Start am 22.05.2020 (falls möglich)
 
@@ -86,7 +86,7 @@ Wird duchgeführt durch: Schilling
 |--|--|
 |ja|Online: Zoom|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&client_id=pr02)
 
 
 
@@ -97,7 +97,7 @@ Wird duchgeführt durch: Schilling
 |--|--|
 |ja|Online: Zoom|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&client_id=pr02)
 
 
 
@@ -108,7 +108,7 @@ Wird duchgeführt durch: Huson
 |--|--|
 |ja|in person (September)|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2362857&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2362857&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2362857&client_id=pr02)
 
 
 
@@ -119,7 +119,7 @@ Wird duchgeführt durch: Nahnsen
 |--|--|
 |ja|online: live/synchron (URL: https://bluejeans.com/684994485/webrtc)|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405506&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui
+Link: [https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405506&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui](https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405506&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui)
 
 Bemerkungen der Dozierenden: es wird eine vollständig synchrone online Veranstaltung
 
@@ -131,7 +131,7 @@ Wird duchgeführt durch: Nahnsen
 |--|--|
 |ja|online: live/synchron (URL: https://bluejeans.com/684994485/webrtc)|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405506&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui
+Link: [https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405506&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui](https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405506&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui)
 
 Bemerkungen der Dozierenden: es wird eine vollständig synchrone online Veranstaltung
 
@@ -166,7 +166,7 @@ Wird duchgeführt durch: Lensch
 |--|--|
 |ja|Asynchrone Videos + Synchrone Q&A via Zoom|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2359762&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2359762&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2359762&client_id=pr02)
 
 
 
@@ -177,7 +177,7 @@ Wird duchgeführt durch: Grust
 |--|--|
 |ja|asynchrone Videos (YouTube)|
 
-Link: https://db.inf.uni-tuebingen.de/teaching/DB2SS2020.html
+Link: [https://db.inf.uni-tuebingen.de/teaching/DB2SS2020.html](https://db.inf.uni-tuebingen.de/teaching/DB2SS2020.html)
 
 
 
@@ -188,8 +188,9 @@ Wird duchgeführt durch: Walter
 |--|--|
 |ja|Online, später Präsenz|
 
-Link: https://uni-tuebingen.de/de/175671
-https://moodle.zdv.uni-tuebingen.de/course/view.php?id=875
+Link: [https://uni-tuebingen.de/de/175671
+https://moodle.zdv.uni-tuebingen.de/course/view.php?id=875](https://uni-tuebingen.de/de/175671
+https://moodle.zdv.uni-tuebingen.de/course/view.php?id=875)
 
 Bemerkungen der Dozierenden: Anfang am 20.04.2020; Alle Infos werden in Moodle und auf der Webseite veröffentlicht.
 
@@ -201,7 +202,7 @@ Wird duchgeführt durch: Piecha
 |--|--|
 |ja|online mit zoom, synchron|
 
-Link: https://moodle.zdv.uni-tuebingen.de/course/view.php?id=625
+Link: [https://moodle.zdv.uni-tuebingen.de/course/view.php?id=625](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=625)
 
 
 
@@ -244,7 +245,7 @@ Wird duchgeführt durch: Bringmann
 |--|--|
 |ja|Online und asynchrone Videos|
 
-Link: https://www.embedded.uni-tuebingen.de/teaching/ss20/entwurf-und-synthese-eingebetteter-systeme/
+Link: [https://www.embedded.uni-tuebingen.de/teaching/ss20/entwurf-und-synthese-eingebetteter-systeme/](https://www.embedded.uni-tuebingen.de/teaching/ss20/entwurf-und-synthese-eingebetteter-systeme/)
 
 Bemerkungen der Dozierenden: ILIAS und Zoom; auch für Bachelor-Studierende empfohlen
 
@@ -311,7 +312,7 @@ Wird duchgeführt durch: Menth
 |--|--|
 |ja|Online|
 
-Link: https://moodle.zdv.uni-tuebingen.de/course/view.php?id=698
+Link: [https://moodle.zdv.uni-tuebingen.de/course/view.php?id=698](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=698)
 
 
 
@@ -322,7 +323,7 @@ Wird duchgeführt durch: Ostermann, Binder, Schuster
 |--|--|
 |ja|wird noch geklärt|
 
-Link: http://ps.informatik.uni-tuebingen.de/teaching/ss20/pli/
+Link: [http://ps.informatik.uni-tuebingen.de/teaching/ss20/pli/](http://ps.informatik.uni-tuebingen.de/teaching/ss20/pli/)
 
 
 
@@ -333,7 +334,7 @@ Wird duchgeführt durch: Otte
 |--|--|
 |ja|Timms|
 
-Link: https://uni-tuebingen.de/de/175110
+Link: [https://uni-tuebingen.de/de/175110](https://uni-tuebingen.de/de/175110)
 
 Bemerkungen der Dozierenden: Weitere Infos werden auf der Website bekannt gegeben.
 
@@ -345,7 +346,7 @@ Wird duchgeführt durch: Menth
 |--|--|
 |ja|Online|
 
-Link: https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=823
+Link: [https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=823](https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=823)
 
 
 
@@ -375,7 +376,7 @@ Wird duchgeführt durch: Eggeling
 |--|--|
 |ja|VL: aufgezeichnete Videos, Fragerunde und Übungen: Videokonferenz|
 
-Link: https://moodle.zdv.uni-tuebingen.de/course/view.php?id=780
+Link: [https://moodle.zdv.uni-tuebingen.de/course/view.php?id=780](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=780)
 
 Bemerkungen der Dozierenden: Siehe moodle für alle weiteren Informationen
 
@@ -399,7 +400,7 @@ Wird duchgeführt durch: Nagel
 |--|--|
 |ja|Online (Live-Stream über https://meet.informatik.uni-tuebingen.de/)|
 
-Link: https://www.ti.uni-tuebingen.de/teaching/ss20/machine-learning-and-artifical-neural-networks-in-biomedical-applications/
+Link: [https://www.ti.uni-tuebingen.de/teaching/ss20/machine-learning-and-artifical-neural-networks-in-biomedical-applications/](https://www.ti.uni-tuebingen.de/teaching/ss20/machine-learning-and-artifical-neural-networks-in-biomedical-applications/)
 
 
 
@@ -410,7 +411,7 @@ Wird duchgeführt durch: Geiger / Lensch
 |--|--|
 |ja|Asynchrone Videos + Synchrone Q&A via Zoom|
 
-Link: https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/autonomous-vision/teaching/lecture-machine-learning-in-graphics-vision/
+Link: [https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/autonomous-vision/teaching/lecture-machine-learning-in-graphics-vision/](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/autonomous-vision/teaching/lecture-machine-learning-in-graphics-vision/)
 
 
 
@@ -421,7 +422,7 @@ Wird duchgeführt durch: Kaufmann/Zeller
 |--|--|
 |ja|Vorlesung in Timms,  Tutorien in Zoom|
 
-Link: https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=838
+Link: [https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=838](https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=838)
 
 Bemerkungen der Dozierenden: Informationen zur Anmeldung unter http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell
 
@@ -457,7 +458,7 @@ Wird duchgeführt durch: Kasneci, E
 |--|--|
 |ja|Online|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2419497&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2419497&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2419497&client_id=pr02)
 
 Bemerkungen der Dozierenden: Erste VL findet am 20.04. um 10 Uhr statt, Details zum Online-Format werden in Ilias hinterlegt.
 
@@ -469,7 +470,7 @@ Wird duchgeführt durch: Lichte
 |--|--|
 |ja|Videokonferenzen, evtl. Screencasts|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2409462&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui
+Link: [https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2409462&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui](https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2409462&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui)
 
 
 
@@ -480,7 +481,7 @@ Wird duchgeführt durch: Lichte
 |--|--|
 |ja|Videokonferenzen, evtl. Screencasts|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2414555&cmdClass=ilobjcoursegui&cmd=view&cmdNode=w1:l6&baseClass=ilrepositorygui
+Link: [https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2414555&cmdClass=ilobjcoursegui&cmd=view&cmdNode=w1:l6&baseClass=ilrepositorygui](https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2414555&cmdClass=ilobjcoursegui&cmd=view&cmdNode=w1:l6&baseClass=ilrepositorygui)
 
 
 
@@ -502,7 +503,7 @@ Wird duchgeführt durch: Kasneci, G
 |--|--|
 |Ja|Online|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2317637&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2317637&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2317637&client_id=pr02)
 
 Bemerkungen der Dozierenden: Vorbesprechung am Montag, 20.04.2020 um 11:00 Uhr. Details zum Online-Format werden zeitnah in Ilias hinterlegt.
 
@@ -526,7 +527,7 @@ Wird duchgeführt durch: Hennig
 |--|--|
 |ja|asynchrone Videos, asymmetrische (aber synchrone) flipped classrooms, synchrone Tutorien|
 
-Link: https://uni-tuebingen.de/de/134452 und https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2410947&client_id=pr02
+Link: [https://uni-tuebingen.de/de/134452 und https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2410947&client_id=pr02](https://uni-tuebingen.de/de/134452 und https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2410947&client_id=pr02)
 
 Bemerkungen der Dozierenden: Wir werden wöchentlich Videos der Vorlesungen auf youtube veröffentlichen. 1x wöchentlich flipped online classroom, 1x wöchentlich online Plenarübung. Das Format ist eng mit der Vorlesung von Ulrike von Luxburg (ML4201) abgestimmt.
 
@@ -538,7 +539,7 @@ Wird duchgeführt durch: Ostermann, Jabs
 |--|--|
 |ja|anfangs synchron online|
 
-Link: http://ps.informatik.uni-tuebingen.de/teaching/ss20/pl1/
+Link: [http://ps.informatik.uni-tuebingen.de/teaching/ss20/pl1/](http://ps.informatik.uni-tuebingen.de/teaching/ss20/pl1/)
 
 
 
@@ -549,7 +550,7 @@ Wird duchgeführt durch: Schlipf/Kaufmann/Pfister/Förster/Kuckuk
 |--|--|
 |ja|wöchentliche Meetings in Zoom|
 
-Link: https://moodle.zdv.uni-tuebingen.de/enrol/view.php?id=856
+Link: [https://moodle.zdv.uni-tuebingen.de/enrol/view.php?id=856](https://moodle.zdv.uni-tuebingen.de/enrol/view.php?id=856)
 
 Bemerkungen der Dozierenden: Informationen zur Anmeldung unter http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell
 
@@ -561,7 +562,7 @@ Wird duchgeführt durch: Kasneci, E
 |--|--|
 |Ja|Online|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2419516&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2419516&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2419516&client_id=pr02)
 
 Bemerkungen der Dozierenden: Vorbesprechung am 21.4. um 12 Uhr. Details zum Online-Format werden zeitnah in Ilias hinterlegt. Anmeldung über Ilias oder per Email an Enkelejda.Kasneci@uni-tuebingen.de
 
@@ -573,7 +574,7 @@ Wird duchgeführt durch: Wichmann
 |--|--|
 |ja|Wichmann lectures: "Flipped Classroom" but using "Gutenberg Method" i.e. they read at home and we discuss in class (Zoom). Exercises via ILIAS Quiz or MATLAB examples|
 
-Link: https://www.neuroschool-tuebingen.de/courses/summer-term/master-neural-inf-process/?tx_neuroscience_pi1%5Bcourse%5D=15&tx_neuroscience_pi1%5Baction%5D=show&tx_neuroscience_pi1%5Bcontroller%5D=Course&cHash=2fbc5ba3ec33e685bae98afabfb13feb
+Link: [https://www.neuroschool-tuebingen.de/courses/summer-term/master-neural-inf-process/?tx_neuroscience_pi1%5Bcourse%5D=15&tx_neuroscience_pi1%5Baction%5D=show&tx_neuroscience_pi1%5Bcontroller%5D=Course&cHash=2fbc5ba3ec33e685bae98afabfb13feb](https://www.neuroschool-tuebingen.de/courses/summer-term/master-neural-inf-process/?tx_neuroscience_pi1%5Bcourse%5D=15&tx_neuroscience_pi1%5Baction%5D=show&tx_neuroscience_pi1%5Bcontroller%5D=Course&cHash=2fbc5ba3ec33e685bae98afabfb13feb)
 
 Bemerkungen der Dozierenden: Pflicht-V an der GTC für MSc Neural Information Processing
 
@@ -585,7 +586,7 @@ Wird duchgeführt durch: Grust
 |--|--|
 |nein|—|
 
-Link: https://db.inf.uni-tuebingen.de/teaching/SQLisaProgrammingLanguageSS2020.html
+Link: [https://db.inf.uni-tuebingen.de/teaching/SQLisaProgrammingLanguageSS2020.html](https://db.inf.uni-tuebingen.de/teaching/SQLisaProgrammingLanguageSS2020.html)
 
 
 
@@ -596,7 +597,7 @@ Wird duchgeführt durch: Krone
 |--|--|
 |ja|online (asynchrone Videos + Videochat)|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405533&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui
+Link: [https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405533&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui](https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405533&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui)
 
 
 
@@ -607,7 +608,7 @@ Wird duchgeführt durch: Huson
 |--|--|
 |ja|online, Bluejeans or Zoom|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2363226&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2363226&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2363226&client_id=pr02)
 
 
 
@@ -618,7 +619,7 @@ Wird duchgeführt durch: Bringmann
 |--|--|
 |ja|Online |
 
-Link: https://www.embedded.uni-tuebingen.de/teaching/ss20/seminar-eingebettete-systeme/
+Link: [https://www.embedded.uni-tuebingen.de/teaching/ss20/seminar-eingebettete-systeme/](https://www.embedded.uni-tuebingen.de/teaching/ss20/seminar-eingebettete-systeme/)
 
 Bemerkungen der Dozierenden: Vorbesprechung: 07.05.2020, 13:15 Uhr; Durchführung Ende Juni - Mitte Juli 2020 (abhängig von Studierendenzahl)
 
@@ -630,7 +631,7 @@ Wird duchgeführt durch: Ostermann
 |--|--|
 |ja|anfangs synchron online|
 
-Link: http://ps.informatik.uni-tuebingen.de/teaching/ss20/se/
+Link: [http://ps.informatik.uni-tuebingen.de/teaching/ss20/se/](http://ps.informatik.uni-tuebingen.de/teaching/ss20/se/)
 
 
 
@@ -641,7 +642,7 @@ Wird duchgeführt durch: Kaspczyk
 |--|--|
 |ja|Online: Zoom|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257933&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257933&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257933&client_id=pr02)
 
 
 
@@ -652,7 +653,7 @@ Wird duchgeführt durch: von Luxburg
 |--|--|
 |ja |Video-vorlesung, zoom-Uebungen und Sprechstunden|
 
-Link: http://www.tml.cs.uni-tuebingen.de/teaching/2020_statistical_learning/index.php
+Link: [http://www.tml.cs.uni-tuebingen.de/teaching/2020_statistical_learning/index.php](http://www.tml.cs.uni-tuebingen.de/teaching/2020_statistical_learning/index.php)
 
 Bemerkungen der Dozierenden: bitte registrieren, link auf webseite
 
@@ -675,7 +676,7 @@ Wird duchgeführt durch: Thiel
 |--|--|
 |ja|Online, asynchrone Videos, Übungsgruppe online|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2313306&client_id=pr02, https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26630&periodId=223&navigationPosition=studiesOffered,searchCourses
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2313306&client_id=pr02, https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26630&periodId=223&navigationPosition=studiesOffered,searchCourses](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2313306&client_id=pr02, https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26630&periodId=223&navigationPosition=studiesOffered,searchCourses)
 
 Bemerkungen der Dozierenden: Alle notwendigen Informationen finden Sie ab 15.04.2020 auf der ILIAS Kursseite. Eine Anmeldung zum Beitritt ist erforderlich.
 
@@ -698,7 +699,7 @@ Wird duchgeführt durch: Huson
 |--|--|
 |ja|online, Bluejeans or Zoom|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2363244&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2363244&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2363244&client_id=pr02)
 
 
 
@@ -709,7 +710,7 @@ Wird duchgeführt durch: Grust
 |--|--|
 |ja|Slack, Zoom|
 
-Link: https://db.inf.uni-tuebingen.de/teaching/Teamprojekt-TheConstructionofanSASL-CompilerSS2020.html
+Link: [https://db.inf.uni-tuebingen.de/teaching/Teamprojekt-TheConstructionofanSASL-CompilerSS2020.html](https://db.inf.uni-tuebingen.de/teaching/Teamprojekt-TheConstructionofanSASL-CompilerSS2020.html)
 
 
 
@@ -754,7 +755,7 @@ Wird duchgeführt durch: Bringmann
 |--|--|
 |ja|Online|
 
-Link: https://www.embedded.uni-tuebingen.de/teaching/ss20/programmierprojekt-sprachverarbeitung-auf-einer-iot-plattform/
+Link: [https://www.embedded.uni-tuebingen.de/teaching/ss20/programmierprojekt-sprachverarbeitung-auf-einer-iot-plattform/](https://www.embedded.uni-tuebingen.de/teaching/ss20/programmierprojekt-sprachverarbeitung-auf-einer-iot-plattform/)
 
 Bemerkungen der Dozierenden: Teamprojekte werden um Online-Elemente angereichert
 
@@ -775,7 +776,7 @@ Wird duchgeführt durch: Lange
 |--|--|
 |ja|Vorlesung über Timms|
 
-Link: https://moodle.zdv.uni-tuebingen.de/course/view.php?id=645
+Link: [https://moodle.zdv.uni-tuebingen.de/course/view.php?id=645](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=645)
 
 Bemerkungen der Dozierenden: Informationen zu Übungen werden im Moodle bekanntgegeben.
 
@@ -799,7 +800,7 @@ Wird duchgeführt durch: Huson, Thiel, Dräger, Krone, Claaasen, Ossowski, Pfeif
 |--|--|
 |ja|asynchrone Videos|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2362894&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2362894&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2362894&client_id=pr02)
 
 
 
@@ -810,7 +811,7 @@ Wird duchgeführt durch: Huson
 |--|--|
 |ja|asynchrone Videos, online tutorials|
 
-Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2362884&client_id=pr02
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2362884&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2362884&client_id=pr02)
 
 
 
