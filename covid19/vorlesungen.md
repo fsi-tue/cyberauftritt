@@ -1,4 +1,14 @@
 ## Inoffizielles Lehrangebot des Fachbereichs mit Hinweisen auf Art der Durchführung
+
+| Legende |            |
+|---|------------------|
+| V | Vorlesung        |
+| S | Seminar          |
+| Ü | Übung            |
+| P | Proseminar       |
+| Prakt | Praktikum    |
+| T | Tutorium         |
+            
 ### V | Advanced SQL (INFO-4149)
 Wird duchgeführt durch: Grust
 
@@ -171,7 +181,7 @@ Link: https://db.inf.uni-tuebingen.de/teaching/DB2SS2020.html
 
 
 
-### Vorlesung | Einführung Internet-Technologien (INF3171)
+### V | Einführung Internet-Technologien (INF3171)
 Wird duchgeführt durch: Walter
 
 |Findet es statt?|Wenn ja, wie?|
@@ -404,7 +414,7 @@ Link: https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/compu
 
 
 
-### Vorlesung/Übung | Mathematik II für Informatiker (INF1020-V)
+### V+Ü | Mathematik II für Informatiker (INF1020-V)
 Wird duchgeführt durch: Kaufmann/Zeller
 
 |Findet es statt?|Wenn ja, wie?|
@@ -416,7 +426,7 @@ Link: https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=838
 Bemerkungen der Dozierenden: Informationen zur Anmeldung unter http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell
 
 
-### Übung+Tutorium | Mathematische Statistik 2 (KOGM1220)
+### Ü+T | Mathematische Statistik 2 (KOGM1220)
 Wird duchgeführt durch: Franz, Volker / Meyen, Sascha / Wiedner David
 
 |Findet es statt?|Wenn ja, wie?|
@@ -428,7 +438,7 @@ Link noch nicht vorhanden, Hinweis: Ilias: https://ovidius.uni-tuebingen.de/ilia
 Bemerkungen der Dozierenden: Passwort wie in MStat 1, falls unklar bitte Email an Celine Wieders: http://www.ecogsci.cs.uni-tuebingen.de/team/celine-wieders
 
 
-### Vorlesung | Mathematische Statistik 2 (KOGM1220)
+### V | Mathematische Statistik 2 (KOGM1220)
 Wird duchgeführt durch: Franz
 
 |Findet es statt?|Wenn ja, wie?|
@@ -452,7 +462,7 @@ Link: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2419497&client
 Bemerkungen der Dozierenden: Erste VL findet am 20.04. um 10 Uhr statt, Details zum Online-Format werden in Ilias hinterlegt.
 
 
-### Seminar | NLP: Lexikalische Semantik
+### S | NLP: Lexikalische Semantik
 Wird duchgeführt durch: Lichte
 
 |Findet es statt?|Wenn ja, wie?|
@@ -463,7 +473,7 @@ Link: https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2409462&cmdClass=
 
 
 
-### Seminar | NLP: Tiefe Satzanalyse
+### S | NLP: Tiefe Satzanalyse
 Wird duchgeführt durch: Lichte
 
 |Findet es statt?|Wenn ja, wie?|
@@ -485,7 +495,7 @@ Link noch nicht vorhanden, Hinweis: Alma
 
 
 
-### Seminar | On Explainable and Fair Machine Learning Methods
+### S | On Explainable and Fair Machine Learning Methods
 Wird duchgeführt durch: Kasneci, G
 
 |Findet es statt?|Wenn ja, wie?|
@@ -532,7 +542,7 @@ Link: http://ps.informatik.uni-tuebingen.de/teaching/ss20/pl1/
 
 
 
-### Proseminar | Proseminar Concrete Mathematics (INF3653)
+### P | Proseminar Concrete Mathematics (INF3653)
 Wird duchgeführt durch: Schlipf/Kaufmann/Pfister/Förster/Kuckuk
 
 |Findet es statt?|Wenn ja, wie?|
@@ -544,7 +554,7 @@ Link: https://moodle.zdv.uni-tuebingen.de/enrol/view.php?id=856
 Bemerkungen der Dozierenden: Informationen zur Anmeldung unter http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell
 
 
-### Seminar/Proseminar | Proseminar Informatik
+### S/P | Proseminar Informatik
 Wird duchgeführt durch: Kasneci, E
 
 |Findet es statt?|Wenn ja, wie?|
@@ -703,7 +713,7 @@ Link: https://db.inf.uni-tuebingen.de/teaching/Teamprojekt-TheConstructionofanSA
 
 
 
-### Praktikum | Teamprojekt (KOGM2110)
+### Prakt | Teamprojekt (KOGM2110)
 Wird duchgeführt durch: Franz, Volker / Zerweck, Iris
 
 |Findet es statt?|Wenn ja, wie?|
@@ -749,7 +759,7 @@ Link: https://www.embedded.uni-tuebingen.de/teaching/ss20/programmierprojekt-spr
 Bemerkungen der Dozierenden: Teamprojekte werden um Online-Elemente angereichert
 
 
-### Seminar | The Ethics of Machine Learning
+### S | The Ethics of Machine Learning
 Wird duchgeführt durch: Grote
 
 |Findet es statt?|Wenn ja, wie?|
@@ -758,7 +768,7 @@ Wird duchgeführt durch: Grote
 
 
 
-### Vorlesung | Theoretische Informatik (INF2410-V)
+### V | Theoretische Informatik (INF2410-V)
 Wird duchgeführt durch: Lange
 
 |Findet es statt?|Wenn ja, wie?|
