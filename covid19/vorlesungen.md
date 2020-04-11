@@ -61,7 +61,7 @@ Wird duchgeführt durch: Huber
 |Findet es statt?|Wenn ja, wie?|
 |--|--|
 |ja|obligatorische Vorbesprechung am Freitag 24.4. 17:00-19:00h (im Uni-Netz via VPN):
-https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption|
+[https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption](https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption)|
 
 Link: [https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption](https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption)
 
@@ -117,7 +117,7 @@ Wird duchgeführt durch: Nahnsen
 
 |Findet es statt?|Wenn ja, wie?|
 |--|--|
-|ja|online: live/synchron (URL: https://bluejeans.com/684994485/webrtc)|
+|ja|online: live/synchron (URL: [https://bluejeans.com/684994485/webrtc](https://bluejeans.com/684994485/webrtc))|
 
 Link: [https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405506&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui](https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405506&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui)
 
@@ -129,7 +129,7 @@ Wird duchgeführt durch: Nahnsen
 
 |Findet es statt?|Wenn ja, wie?|
 |--|--|
-|ja|online: live/synchron (URL: https://bluejeans.com/684994485/webrtc)|
+|ja|online: live/synchron (URL: [https://bluejeans.com/684994485/webrtc](https://bluejeans.com/684994485/webrtc))|
 
 Link: [https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405506&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui](https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405506&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui)
 
@@ -188,9 +188,7 @@ Wird duchgeführt durch: Walter
 |--|--|
 |ja|Online, später Präsenz|
 
-Link: [https://uni-tuebingen.de/de/175671
-https://moodle.zdv.uni-tuebingen.de/course/view.php?id=875](https://uni-tuebingen.de/de/175671
-https://moodle.zdv.uni-tuebingen.de/course/view.php?id=875)
+Link: [https://uni-tuebingen.de/de/175671](https://uni-tuebingen.de/de/175671) und [https://moodle.zdv.uni-tuebingen.de/course/view.php?id=875](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=875)
 
 Bemerkungen der Dozierenden: Anfang am 20.04.2020; Alle Infos werden in Moodle und auf der Webseite veröffentlicht.
 
@@ -233,7 +231,7 @@ Wird duchgeführt durch: Plümicke
 |--|--|
 |ja|Skype|
 
-Link noch nicht vorhanden, Hinweis:  https://join.skype.com/fqC2s7z20kJm
+Link noch nicht vorhanden, Hinweis:  [https://join.skype.com/fqC2s7z20kJm](https://join.skype.com/fqC2s7z20kJm)
 
 Bemerkungen der Dozierenden: Vorbesprechung: Donnerstag, 16. April 2020, um 17 c.t.
 
@@ -255,7 +253,7 @@ Wird duchgeführt durch: Koch
 
 |Findet es statt?|Wenn ja, wie?|
 |--|--|
-|ja|Online: https://moodle.seminar-tuebingen.de/moodle/|
+|ja|Online: [https://moodle.seminar-tuebingen.de/moodle/](https://moodle.seminar-tuebingen.de/moodle/)|
 
 Link noch nicht vorhanden, Hinweis: Als Gast anmelden - 2020 Koch (Uni) - Schlüssel: random20
 
@@ -279,7 +277,7 @@ Wird duchgeführt durch: Franz, Volker, Hein, Elisabeth
 |--|--|
 |voraussichtlich|ZOOM, eventuell asynchron|
 
-Link noch nicht vorhanden, Hinweis: siehe WebSite: https://www.wsi.uni-tuebingen.de/studium/studiengaenge/kognitionswissenschaft/forschungskolloquium.html
+Link noch nicht vorhanden, Hinweis: siehe [WebSite](https://www.wsi.uni-tuebingen.de/studium/studiengaenge/kognitionswissenschaft/forschungskolloquium.html)
 
 Bemerkungen der Dozierenden: genaues Online-Format befindet sich noch im Aufbau, bitte WebSite beachten
 
@@ -388,7 +386,7 @@ Wird duchgeführt durch: Tranchini
 |--|--|
 |Ja|Asynchrone Vorlesungen (Videos) + Synchrone Frage und Übungen (chat/videochat)|
 
-Link noch nicht vorhanden, Hinweis: Moodle: https://moodle.zdv.uni-tuebingen.de/course/view.php?id=644
+Link noch nicht vorhanden, Hinweis: Moodle: [https://moodle.zdv.uni-tuebingen.de/course/view.php?id=644](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=644)
 
 Bemerkungen der Dozierenden:  Blockseminar in den Sommerferien
 
@@ -398,7 +396,7 @@ Wird duchgeführt durch: Nagel
 
 |Findet es statt?|Wenn ja, wie?|
 |--|--|
-|ja|Online (Live-Stream über https://meet.informatik.uni-tuebingen.de/)|
+|ja|Online (Live-Stream über [https://meet.informatik.uni-tuebingen.de/](https://meet.informatik.uni-tuebingen.de/))|
 
 Link: [https://www.ti.uni-tuebingen.de/teaching/ss20/machine-learning-and-artifical-neural-networks-in-biomedical-applications/](https://www.ti.uni-tuebingen.de/teaching/ss20/machine-learning-and-artifical-neural-networks-in-biomedical-applications/)
 
@@ -424,7 +422,7 @@ Wird duchgeführt durch: Kaufmann/Zeller
 
 Link: [https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=838](https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=838)
 
-Bemerkungen der Dozierenden: Informationen zur Anmeldung unter http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell
+Bemerkungen der Dozierenden: Informationen zur Anmeldung unter [http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell](http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell)
 
 
 ### Ü+T | Mathematische Statistik 2 (KOGM1220)
@@ -434,7 +432,7 @@ Wird duchgeführt durch: Franz, Volker / Meyen, Sascha / Wiedner David
 |--|--|
 |ja|ZOOM, eventuell asynchron|
 
-Link noch nicht vorhanden, Hinweis: Ilias: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2405419&client_id=pr02
+Link noch nicht vorhanden, Hinweis: Ilias: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2405419&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2405419&client_id=pr02)
 
 Bemerkungen der Dozierenden: Passwort wie in MStat 1, falls unklar bitte Email an Celine Wieders: http://www.ecogsci.cs.uni-tuebingen.de/team/celine-wieders
 
@@ -446,7 +444,7 @@ Wird duchgeführt durch: Franz
 |--|--|
 |ja|ZOOM, eventuell asynchron|
 
-Link noch nicht vorhanden, Hinweis: Ilias: https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2405419&client_id=pr02
+Link noch nicht vorhanden, Hinweis: Ilias: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2405419&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2405419&client_id=pr02)
 
 Bemerkungen der Dozierenden: Passwort wie in MStat 1, falls unklar bitte Email an Celine Wieders: http://www.ecogsci.cs.uni-tuebingen.de/team/celine-wieders
 
@@ -527,7 +525,7 @@ Wird duchgeführt durch: Hennig
 |--|--|
 |ja|asynchrone Videos, asymmetrische (aber synchrone) flipped classrooms, synchrone Tutorien|
 
-Link: [https://uni-tuebingen.de/de/134452 und https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2410947&client_id=pr02](https://uni-tuebingen.de/de/134452 und https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2410947&client_id=pr02)
+Link: [https://uni-tuebingen.de/de/134452](https://uni-tuebingen.de/de/134452) und [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2410947&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2410947&client_id=pr02)
 
 Bemerkungen der Dozierenden: Wir werden wöchentlich Videos der Vorlesungen auf youtube veröffentlichen. 1x wöchentlich flipped online classroom, 1x wöchentlich online Plenarübung. Das Format ist eng mit der Vorlesung von Ulrike von Luxburg (ML4201) abgestimmt.
 
@@ -552,7 +550,7 @@ Wird duchgeführt durch: Schlipf/Kaufmann/Pfister/Förster/Kuckuk
 
 Link: [https://moodle.zdv.uni-tuebingen.de/enrol/view.php?id=856](https://moodle.zdv.uni-tuebingen.de/enrol/view.php?id=856)
 
-Bemerkungen der Dozierenden: Informationen zur Anmeldung unter http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell
+Bemerkungen der Dozierenden: Informationen zur Anmeldung unter [http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell](http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell)
 
 
 ### S/P | Proseminar Informatik
@@ -676,7 +674,7 @@ Wird duchgeführt durch: Thiel
 |--|--|
 |ja|Online, asynchrone Videos, Übungsgruppe online|
 
-Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2313306&client_id=pr02, https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26630&periodId=223&navigationPosition=studiesOffered,searchCourses](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2313306&client_id=pr02, https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26630&periodId=223&navigationPosition=studiesOffered,searchCourses)
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2313306&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2313306&client_id=pr02) und [https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26630&periodId=223&navigationPosition=studiesOffered,searchCourses](https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26630&periodId=223&navigationPosition=studiesOffered,searchCourses)
 
 Bemerkungen der Dozierenden: Alle notwendigen Informationen finden Sie ab 15.04.2020 auf der ILIAS Kursseite. Eine Anmeldung zum Beitritt ist erforderlich.
 
@@ -788,7 +786,7 @@ Wird duchgeführt durch: Franz, Volker
 |--|--|
 |voraussichtlich|ZOOM, eventuell asynchron|
 
-Link noch nicht vorhanden, Hinweis: siehe WebSite der Abteilung: http://www.ecogsci.cs.uni-tuebingen.de/colloq/current.php
+Link noch nicht vorhanden, Hinweis: siehe WebSite der Abteilung: [http://www.ecogsci.cs.uni-tuebingen.de/colloq/current.php](http://www.ecogsci.cs.uni-tuebingen.de/colloq/current.php)
 
 Bemerkungen der Dozierenden: genaues Online-Format befindet sich noch im Aufbau, bitte WebSite beachten
 
