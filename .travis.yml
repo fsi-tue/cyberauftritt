@@ -18,5 +18,5 @@ env:
 script:
   - set -e # halt script on error
   - bundle exec jekyll build
-# ignore blablacar as they are blocking non browser clients
-  - bundle exec htmlproofer --url-ignore https://www.blablacar.de ./_site
+# ignore blablacar as they are blocking non browser clients and other links since they are working only under specific conditions (for example only inside the university network)
+  - bundle exec htmlproofer --url-ignore https://www.blablacar.de --url-ignore "https://alma.uni-tuebingen.de:443/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26630&periodId=223&navigationPosition=studiesOffered,searchCourses" --url-ignore https://dev03-u18.v029.wae76.uni-tuebingen.de --url-ignore https://useplaintext.email ./_site
