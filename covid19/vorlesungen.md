@@ -548,7 +548,7 @@ Wird duchgeführt durch: Schlipf/Kaufmann/Pfister/Förster/Kuckuk
 |--|--|
 |ja|wöchentliche Meetings in Zoom|
 
-Link: [https://moodle.zdv.uni-tuebingen.de/enrol/view.php?id=856](https://moodle.zdv.uni-tuebingen.de/enrol/view.php?id=856)
+Link: [https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=856](https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=856)
 
 Bemerkungen der Dozierenden: Informationen zur Anmeldung unter [http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell](http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell)
 
