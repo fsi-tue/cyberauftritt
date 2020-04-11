@@ -2,6 +2,8 @@
 
 ---
 ## &#9888; *Aktuelle Informationen* &#9888;
+### COVID-19 FAQ und Vorlesungen im SoSe 20
+Eine FAQ zum aktuellen Status findet ihr [hier](/covid19/faq) und eine Übersicht aller Vorlesungen, ob und wie sie stattfinden [hier](/covid19/vorlesungen).
 ### Für Studierende
 Der Fachbereich hat beschlossen, alle Prüfungen ab dem 16. März (schriftlich sowie mündlich) auf Anfang Mai 2020 zu verschieben. Weitere Informationen und Änderungen folgen per Mail.
 ### Für Erstsemester

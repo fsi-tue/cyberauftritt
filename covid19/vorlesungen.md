@@ -1,5 +1,7 @@
 ## Inoffizielles Lehrangebot des Fachbereichs mit Hinweisen auf Art der Durchführung
 
+Diese Auflistung wird aufgrund der aktuellen Lage zur Verfügung gestellt und wird lediglich im SoSe 20 angeboten.
+
 | Legende |            |
 |---|------------------|
 | V | Vorlesung        |
