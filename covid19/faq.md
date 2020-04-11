@@ -6,7 +6,7 @@ Wir als Fachschaft hoffen, dass hier die für dich Interessanten Informationen z
 
 ## Für Erst-/Zweitsemester
 **F: Was ist mit VL X? Wo bekomme ich Informationen?**  
-**A:** Gucke unter [Vorlesungen](/covid19/vorlesungen) oder in der [Liste](/covid19/faq/#Infos-zu-Vorlesungen-mit-Link) und suche dort. Ansonsten schaue auf [alma](https://alma.uni-tuebingen.de) im Vorlesungsverzeichnis und wenn du da nichts findest, schreib uns doch eine Mail, vielleicht können wir helfen.
+**A:** Gucke unter [Vorlesungen](/covid19/vorlesungen) oder in der Liste weiter unten und suche dort. Ansonsten schaue auf [alma](https://alma.uni-tuebingen.de) im Vorlesungsverzeichnis und wenn du da nichts findest, schreib uns doch eine Mail, vielleicht können wir helfen.
 
 **F: Wie sieht der Übungsbetrieb aus? Wo finde ich meine Tutorien?**  
 **A:** Das ist je VL unterschiedlich, sollte aber auf der jeweiligen Seite zur Vorlesung zu finden sein.
@@ -62,22 +62,10 @@ Die meisten Vorlesunden findest du [hier](/covid19/vorlesungen). Wir setzen alle
 **A:** JA, DU SCHMUTZFINK!!
 
 **F: Soll ich eine Maske tragen?**  
-**A:** Jedem sein Fetisch. Halte dich aber bitte an die Empfehlungen des Gesundheitsministeriums.
+**A:** Halte dich bitte an die Empfehlungen des Gesundheitsministeriums.
 
 **F: Wie kann ich im Hörsaal meinen Schlaf nachholen, wenn ich doch schon im Bett sitze und den Stream von der VL gucke?**  
 **A:** ... Wiederhole den 2. Teil deiner Frage.
-
-**F: Wie social-distance ich mich am Besten im Hörsaal?**  
-**A:** Viel Rauchen, viel Knoblauch oder zwei Wochen nicht duschen. Das regelt schon. (#informatikerStyle) Aber im Ernst, es wird vorerst keine Präsenzveranstaltungen geben.
-
-**F: COVID? Ist das sowas wie COBOL?**  
-**A:** Nein.
-
-**F: Wie lerne ich momentan am Besten Leute kennen?**  
-**A:** Poste deine ICQ Nummer öffentlich in Moodle. Wenn du diesen Tipp an 10 Leute weiterschickst, färbt sich deine ICQ-Blume blau!
-
-**F: Was ist dieses Clubhaus?**  
-**A:** Fast so legendär wie der Bierkeller. #RIP #neverForget
 
 **F: Denkt ihr, ihr seid mit den Fragen hier witzig?**  
 **A:** Am Anfang ja. Wir findens jetzt aber auch nervig.
