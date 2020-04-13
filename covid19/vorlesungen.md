@@ -10,7 +10,7 @@ Diese Auflistung wird aufgrund der aktuellen Lage zur Verfügung gestellt und wi
 | P | Proseminar       |
 | Prakt | Praktikum    |
 | T | Tutorium         |
-            
+
 ### V | Advanced SQL (INFO-4149)
 Wird duchgeführt durch: Grust
 
@@ -492,7 +492,7 @@ Wird duchgeführt durch: Dräger
 |--|--|
 |ja|Online Meeting|
 
-Link noch nicht vorhanden, Hinweis: Alma
+Link: [https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40604&periodId=223&navigationPosition=hisinoneLehrorganisation,examEventOverviewOwn](https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=40604&periodId=223&navigationPosition=hisinoneLehrorganisation,examEventOverviewOwn)
 
 
 
@@ -665,8 +665,7 @@ Wird duchgeführt durch: Kohlbacher, Dräger
 |--|--|
 |ja|Videos, Online-Übungen |
 
-Link noch nicht vorhanden, Hinweis: Ilias
-
+Link: [https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26632&periodId=223](https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=26632&periodId=223)
 
 
 ### V+Ü | Structure-Based Drug Design (BIO-4371)
@@ -688,8 +687,7 @@ Wird duchgeführt durch: Dräger
 |--|--|
 |ja|Vorlesung über Timms, Online-Übungen|
 
-Link noch nicht vorhanden, Hinweis: Ilias
-
+Links: [https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37957&periodId=223](https://alma.uni-tuebingen.de/alma/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=37957&periodId=223), [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2339705&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2339705&client_id=pr02)
 
 
 ### P | Team Project (AB) (INF2110)
@@ -721,12 +719,12 @@ Wird duchgeführt durch: Franz, Volker / Zerweck, Iris
 |--|--|
 |ja|ZOOM, eventuell asynchron|
 
-Link noch nicht vorhanden, Hinweis: Wird nach Zuordnung der Gruppen per Email bekanntgegeben. 
+Link noch nicht vorhanden, Hinweis: Wird nach Zuordnung der Gruppen per Email bekanntgegeben.
 
-Bemerkungen der Dozierenden: die praktischen Teile werden teilweise durch ausführlichere Analyse schon existierender EEG-Daten ersetzt. 
+Bemerkungen der Dozierenden: die praktischen Teile werden teilweise durch ausführlichere Analyse schon existierender EEG-Daten ersetzt.
 
 
-###  | Teamprojekt Kasneci 1: 
+###  | Teamprojekt Kasneci 1:
 Wird duchgeführt durch: Kasneci, E/Fuhl
 
 |Findet es statt?|Wenn ja, wie?|
@@ -812,6 +810,3 @@ Wird duchgeführt durch: Huson
 |ja|asynchrone Videos, online tutorials|
 
 Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2362884&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2362884&client_id=pr02)
-
-
-
