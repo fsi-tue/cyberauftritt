@@ -7,6 +7,9 @@ task :test do
   options = { # Documentation: https://github.com/gjtorikian/html-proofer#configuration
     :url_ignore => [/^https:\/\/www\.blablacar\.de/,/^https:\/\/useplaintext\.email/],
     :file_ignore => [/^_site\/covid19\/vorlesungen\/index\.html/],
+    # Specific documentation: https://github.com/gjtorikian/html-proofer#configuring-typhoeus-and-hydra
+    :typhoeus => { :connecttimeout => 60, :timeout => 90 },
+    :hydra => { :max_concurrency => 10 },
   }
   HTMLProofer.check_directory("_site", options).run
 end
