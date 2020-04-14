@@ -757,6 +757,16 @@ Link: [https://www.embedded.uni-tuebingen.de/teaching/ss20/programmierprojekt-sp
 
 Bemerkungen der Dozierenden: Teamprojekte werden um Online-Elemente angereichert
 
+### S | Causality and Probability: A Philosophical Introduction for Computer Scientists
+Wird duchgeführt durch: Spohn
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja| zunächst online|
+
+Link: [https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2347109&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui](https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2347109&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilrepositorygui)
+
+Bemerkungen der Dozierenden: weitere Information über ILIAS, detailiertere Informationen folgen
 
 ### S | The Ethics of Machine Learning
 Wird duchgeführt durch: Grote
