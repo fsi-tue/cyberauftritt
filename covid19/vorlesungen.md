@@ -1,6 +1,10 @@
 ## Inoffizielles Lehrangebot des Fachbereichs mit Hinweisen auf Art der Durchführung
 
-Diese Auflistung wird aufgrund der aktuellen Lage zur Verfügung gestellt und wird lediglich im SoSe 20 angeboten.
+**Hinweise**:
+- Diese Auflistung wird aufgrund der aktuellen Lage zur Verfügung gestellt und wird lediglich im SoSe 20 angeboten.
+- Diese Liste ersetzt nicht eure persönliche Semesterplanung über Alma, sondern dient lediglich als "weitere Stufe" in der Planung. (Deshalb sind auch bewusst Informationen wie WPF und LP nicht aufgeführt.)
+- Sollte eine Veranstaltung **fehlen**, haben wir zu dieser Veranstaltung lediglich keine Informationen erhalten. Wende dich bitte an die zuständige Lehrperson, um den Status zu erfragen.
+- Sie sind **Lehrperson** und möchten weitere Informationen hinzufügen? Gerne per Pull Request! Sie finden das GitHub-Repository [hier](https://github.com/fsi-tue/cyberauftritt).
 
 | Legende |            |
 |---|------------------|
