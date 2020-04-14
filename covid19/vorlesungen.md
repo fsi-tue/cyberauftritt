@@ -1,3 +1,7 @@
+---
+layout: page
+title: Inoffizielles Lehrangebot SoSe 2020
+---
 ## Inoffizielles Lehrangebot des Fachbereichs mit Hinweisen auf Art der Durchführung
 
 **Hinweise**:
