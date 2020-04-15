@@ -134,7 +134,7 @@ GEM
     jekyll-github-metadata (2.12.1)
       jekyll (~> 3.4)
       octokit (~> 4.0, != 4.4.0)
-    jekyll-ical-tag (1.2.0)
+    jekyll-ical-tag (1.2.1)
       activesupport
       api_cache
       icalendar
