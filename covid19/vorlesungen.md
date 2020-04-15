@@ -37,6 +37,19 @@ Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2359780&clien
 
 
 
+### V | Advanced Topics in Embedded Systems (INFO-4315)
+Wird duchgeführt durch: Bringmann, Oliver
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|Hörsaal (falls im Sept. möglich)|
+
+Link: [https://www.embedded.uni-tuebingen.de/teaching/ss20/advanced-topics-in-embedded-systems/](https://www.embedded.uni-tuebingen.de/teaching/ss20/advanced-topics-in-embedded-systems/)
+
+Bemerkungen der Dozierenden: Blockveranstaltung, Mitte September 2020
+
+
+
 ### S | Advanced Topics in Perception Engineering (INF4381)
 Wird duchgeführt durch: Kasneci, E
 
@@ -47,6 +60,20 @@ Wird duchgeführt durch: Kasneci, E
 Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2419494&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2419494&client_id=pr02)
 
 Bemerkungen der Dozierenden: Vorbesprechung am 21.04. um 10 Uhr.Details zum Online-Format werden in Ilias hinterlegt.
+
+
+
+### Vorlesung/Übung | Algorithmen und Komplexität (INF4412)
+Wird duchgeführt durch: Schlipf/Kaufmann/Pfister/Förster/Kuckuk
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|Vorlesung asynchrone Videos, Tutorien in Zoom|
+
+Link: [https://moodle.zdv.uni-tuebingen.de/enrol/view.php?id=685](https://moodle.zdv.uni-tuebingen.de/enrol/view.php?id=685)
+
+Bemerkungen der Dozierenden: Informationen zur Anmeldung unter [http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell](http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell)
+
 
 
 ### V+Ü | Angewandte Statistik II (INF4151)
@@ -66,10 +93,10 @@ Wird duchgeführt durch: Huber
 
 |Findet es statt?|Wenn ja, wie?|
 |--|--|
-|ja|obligatorische Vorbesprechung am Freitag 24.4. 17:00-19:00h (im Uni-Netz via VPN):
-[https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption](https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption)|
+|ja|obligatorische Vorbesprechung am Freitag 24.4. 17:00-19:00h:
+https://zoom.us/j/4604361328?pwd=ckxYb1pabG1UTzJDWHdPcWt1TG1HZz09 |
 
-Link: [https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption](https://dev03-u18.v029.wae76.uni-tuebingen.de/AIDisruption)
+Link: [https://zoom.us/j/4604361328?pwd=ckxYb1pabG1UTzJDWHdPcWt1TG1HZz09](https://zoom.us/j/4604361328?pwd=ckxYb1pabG1UTzJDWHdPcWt1TG1HZz09)
 
 
 
@@ -155,6 +182,17 @@ Link: [https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2405506&cmd=fram
 Bemerkungen der Dozierenden: es wird eine vollständig synchrone online Veranstaltung
 
 
+### S | Causality and Probability: A Phil. Introduction for Computer Scientists (-)
+Wird duchgeführt durch: Spohn
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|Online: Zoom|
+
+Bemerkungen der Dozierenden: ILIAS, Vorbesprechung am Freitag, den 24.4. um 13 Uhr 
+
+
+
 ### V | Cognitive Modeling (MKOGP3)
 Wird duchgeführt durch: Butz/Wichmann
 
@@ -202,6 +240,17 @@ Bemerkungen der Dozierenden: Das Seminar startet in der Woche
 vom 20.4. Das erste Meeting ist am 21.4. um 14:15.
 
 
+### S | Current Topics in Deep Neural Networks (INF….)
+Wird duchgeführt durch: Prof. Andreas Zell
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|online via Zoom & ILIAS|
+
+Link: [https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/current-topics-in-deep-neural-networks/](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/current-topics-in-deep-neural-networks/)
+
+
+
 ### V | Datenbanksysteme 2 (INF4141)
 Wird duchgeführt durch: Grust
 
@@ -210,6 +259,17 @@ Wird duchgeführt durch: Grust
 |ja|asynchrone Videos (YouTube)|
 
 Link: [https://db.inf.uni-tuebingen.de/teaching/DB2SS2020.html](https://db.inf.uni-tuebingen.de/teaching/DB2SS2020.html)
+
+
+
+### V | Einführung in Neuronale Netze (INF3154)
+Wird duchgeführt durch: Prof. Andreas Zell
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|online via Zoom & ILIAS|
+
+Link: [https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/einfuehrung-in-neuronale-netze/](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/einfuehrung-in-neuronale-netze/)
 
 
 
@@ -433,6 +493,18 @@ Link noch nicht vorhanden, Hinweis: Moodle: [https://moodle.zdv.uni-tuebingen.de
 Bemerkungen der Dozierenden:  Blockseminar in den Sommerferien
 
 
+### V | Linux für Fortgeschrittene (INF3614)
+Wird duchgeführt durch: Torsten Kockler
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|asynchrone Videos oder Präsenz (je nach Lage im September)|
+
+Link: [https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/informationsdienste/lehre/sommersemester-2020/linux-fuer-fortgeschrittene](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/informationsdienste/lehre/sommersemester-2020/linux-fuer-fortgeschrittene)
+
+Bemerkungen der Dozierenden: Blockveranstaltung vom 14.09.2020 bis zum 25.09.2020
+
+
 ### S | Machine Learning and Artificial Neural Networks in Biomedical Applications (INFO4192)
 Wird duchgeführt durch: Nagel
 
@@ -504,6 +576,25 @@ Bemerkungen der Dozierenden: Die Vorlesung startet in der Woche
 vom 20.4. Das erste Meeting ist am 23.4. um 14:15.
 
 
+### V | Mobile Roboter (INF4361)
+Wird duchgeführt durch: Prof. Andreas Zell
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|online via Zoom & ILIAS|
+
+Link: [https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/vorlesung-mobile-roboter/](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/vorlesung-mobile-roboter/)
+
+
+### Prakt | Mobile Roboter (INF4362)
+Wird duchgeführt durch: Prof. Andreas Zell
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|nein|findet nicht statt|
+
+
+
 ### V | Multimodale Mensch-Maschine-Interaktion (NN)
 Wird duchgeführt durch: Kasneci, E
 
@@ -561,6 +652,17 @@ Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2317637&clien
 Bemerkungen der Dozierenden: Vorbesprechung am Montag, 20.04.2020 um 11:00 Uhr. Details zum Online-Format werden zeitnah in Ilias hinterlegt.
 
 
+### V | Parallele Rechnerarchitekturen (INFO-4351)
+Wird duchgeführt durch: Bringmann, Oliver
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|Online und asynchrone Videos|
+
+Link: [https://www.embedded.uni-tuebingen.de/teaching/ss20/parallele-rechnerarchitekturen/](https://www.embedded.uni-tuebingen.de/teaching/ss20/parallele-rechnerarchitekturen/)
+
+Bemerkungen der Dozierenden: ILIAS und Zoom
+
 
 ### P | Praktikum Bildverarbeitung (INF3144)
 Wird duchgeführt durch: Schilling
@@ -570,6 +672,18 @@ Wird duchgeführt durch: Schilling
 |ja|Online: Zoom|
 
 Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&client_id=pr02)
+
+
+### Prakt | Praktikum Graphenzeichnen (INF4520)
+Wird duchgeführt durch: Schlipf/Kaufmann/Pfister/Förster/Kuckuk
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|wöchentliche Meetings in Zoom|
+
+Link: [https://moodle.zdv.uni-tuebingen.de/enrol/view.php?id=855](https://moodle.zdv.uni-tuebingen.de/enrol/view.php?id=855)
+
+Bemerkungen der Dozierenden: Informationen zur Anmeldung unter http://algo.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell
 
 
 ### P | Praktikum Integrative Bioinformatik (BIOINF 4220)
@@ -605,6 +719,18 @@ Wird duchgeführt durch: Ostermann, Jabs
 
 Link: [http://ps.informatik.uni-tuebingen.de/teaching/ss20/pl1/](http://ps.informatik.uni-tuebingen.de/teaching/ss20/pl1/)
 
+
+### Prakt | Programming Ultra Low Power Architectures (INFO-4316)
+Wird duchgeführt durch: Bringmann, Oliver
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|Laborversuche|
+
+Link: [https://www.embedded.uni-tuebingen.de/teaching/ss20/programming-ultra-low-power-architectures/](https://www.embedded.uni-tuebingen.de/teaching/ss20/programming-ultra-low-power-architectures/)
+
+Bemerkungen der Dozierenden: Blockveranstaltung, 21. September 2020 bis 2. Oktober 2020 (9:00 - 18:00 Uhr)
+(Master)
 
 
 ### P | Proseminar Concrete Mathematics (INF3653)
@@ -652,6 +778,17 @@ Wird durchgeführt durch: Abele
 
 Link: [https://moodle.zdv.uni-tuebingen.de/course/view.php?id=734](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=734)
 
+
+### V | Softwarequalität in Theorie und industrieller Praxis (INFO-4222)
+Wird duchgeführt durch: Kropf, Thomas
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|nein||
+
+Link: [https://www.embedded.uni-tuebingen.de/teaching/ss20/softwarequalitat-in-theorie-und-praxis/](https://www.embedded.uni-tuebingen.de/teaching/ss20/softwarequalitat-in-theorie-und-praxis/)
+
+Bemerkungen der Dozierenden: wird in das WS 2020/21 verschoben (parallel zum gleichnamigen Seminar)
 
 
 ### S | SQL is a Programming Language (INF3664)
