@@ -107,6 +107,19 @@ Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&clien
 
 
 
+### V | Bioinformatics for Life Scientists (BIOINF1910)
+Wird duchgeführt durch: Pfeifer
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|ZOOM|
+
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2370954&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2370954&client_id=pr02)
+
+Bemerkungen der Dozierenden: Die Vorlesung startet in der Woche
+vom 20.4. Das erste Meeting ist am 24.4. um 13:15.
+
+
 ### P | Bioinformatics Tools Praktikum (BIOINF4240)
 Wird duchgeführt durch: Huson
 
@@ -174,6 +187,19 @@ Wird duchgeführt durch: Lensch
 
 Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2359762&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2359762&client_id=pr02)
 
+
+
+### S | Computer Science Methods for Privacy Preservation and Personalized Medicine (MEDZ4521)
+Wird duchgeführt durch: Pfeifer
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|ZOOM|
+
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430290&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430290&client_id=pr02)
+
+Bemerkungen der Dozierenden: Das Seminar startet in der Woche
+vom 20.4. Das erste Meeting ist am 21.4. um 14:15.
 
 
 ### V | Datenbanksysteme 2 (INF4141)
@@ -453,6 +479,19 @@ Wird duchgeführt durch: Franz
 Link noch nicht vorhanden, Hinweis: Ilias: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2405419&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2405419&client_id=pr02)
 
 Bemerkungen der Dozierenden: Passwort wie in MStat 1, falls unklar bitte Email an Celine Wieders: http://www.ecogsci.cs.uni-tuebingen.de/team/celine-wieders
+
+
+### V | Medical Data Science (MEDZ4991)
+Wird duchgeführt durch: Pfeifer
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|ZOOM, eventuell asynchron|
+
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430253&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430253&client_id=pr02)
+
+Bemerkungen der Dozierenden: Die Vorlesung startet in der Woche
+vom 20.4. Das erste Meeting ist am 23.4. um 14:15.
 
 
 ### V | Multimodale Mensch-Maschine-Interaktion (NN)
