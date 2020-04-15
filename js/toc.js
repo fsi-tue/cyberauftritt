@@ -4,10 +4,10 @@
  */
 
 // TOC div
-var divTOC = document.getElementsByClassName("table-of-contents")[0]
+var divTOC = document.getElementsByClassName("table-of-contents")[0];
 
-let title = "Inhalt:" // Title for TOC
+let title = "Inhalt:"; // Title for TOC
 
 if (divTOC.getElementsByClassName("section-nav")[0] != null) {
-    divTOC.innerHTML = "<h4>" + title + "</h4>" + divTOC.innerHTML
+    divTOC.innerHTML = "<h4>" + title + "</h4>" + divTOC.innerHTML;
 }
