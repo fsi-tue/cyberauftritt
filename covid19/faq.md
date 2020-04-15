@@ -1,3 +1,9 @@
+---
+layout: page
+title: COVID-19 FAQ
+toc: true
+---
+
 # COVID-19 FAQ zu Vorlesungen und zum Studium
 
 Wir als Fachschaft hoffen, dass hier die für dich Interessanten Informationen zu finden sind. Falls dir etwas fehlt oder mehr Informationen hast schreib uns doch bitte eine [Mail](mailto:fsi@fsi.uni-tuebingen.de)
