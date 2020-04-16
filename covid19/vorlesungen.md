@@ -251,7 +251,7 @@ Wird duchgeführt durch: Prof. Andreas Zell
 |--|--|
 |ja|online via Zoom & ILIAS|
 
-Link: [https://alma.uni-tuebingen.de/alma/pages/cm/exa/coursemanagement/basicCourseData.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e1s11](https://alma.uni-tuebingen.de/alma/pages/cm/exa/coursemanagement/basicCourseData.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e1s11), [https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/current-topics-in-deep-neural-networks/](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/current-topics-in-deep-neural-networks/), [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430771&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430771&client_id=pr02)
+Links: [https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/current-topics-in-deep-neural-networks/](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/current-topics-in-deep-neural-networks/), [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430771&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430771&client_id=pr02)
 
 
 
@@ -273,7 +273,7 @@ Wird duchgeführt durch: Prof. Andreas Zell
 |--|--|
 |ja|online via Zoom & ILIAS|
 
-Links: [https://alma.uni-tuebingen.de/alma/pages/cm/exa/coursemanagement/basicCourseData.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e1s4](https://alma.uni-tuebingen.de/alma/pages/cm/exa/coursemanagement/basicCourseData.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e1s4), [https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/einfuehrung-in-neuronale-netze/](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/einfuehrung-in-neuronale-netze/), [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2427416&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2427416&client_id=pr02)
+Links: [https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/einfuehrung-in-neuronale-netze/](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/einfuehrung-in-neuronale-netze/), [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2427416&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2427416&client_id=pr02)
 
 
 
@@ -587,7 +587,7 @@ Wird duchgeführt durch: Prof. Andreas Zell
 |--|--|
 |ja|online via Zoom & ILIAS|
 
-Links: [https://alma.uni-tuebingen.de/alma/pages/cm/exa/coursemanagement/basicCourseData.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e1s10](https://alma.uni-tuebingen.de/alma/pages/cm/exa/coursemanagement/basicCourseData.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e1s10), [https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/vorlesung-mobile-roboter/](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/vorlesung-mobile-roboter/), [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430919&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430919&client_id=pr02)
+Links: [https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/vorlesung-mobile-roboter/](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/teaching/ss-20/vorlesung-mobile-roboter/), [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430919&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430919&client_id=pr02)
 
 
 ### Prakt | Mobile Roboter (INF4362)
