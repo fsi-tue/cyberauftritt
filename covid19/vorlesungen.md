@@ -611,7 +611,7 @@ Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2419497&clien
 Bemerkungen der Dozierenden: Erste VL findet am 20.04. um 10 Uhr statt, Details zum Online-Format werden in Ilias hinterlegt.
 
 
-### S | NLP: Lexikalische Semantik
+### P | NLP: Lexikalische Semantik
 Wird duchgeführt durch: Lichte
 
 |Findet es statt?|Wenn ja, wie?|
@@ -622,7 +622,7 @@ Link: [https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2409462&cmdClass
 
 
 
-### S | NLP: Tiefe Satzanalyse
+### P | NLP: Tiefe Satzanalyse
 Wird duchgeführt durch: Lichte
 
 |Findet es statt?|Wenn ja, wie?|
