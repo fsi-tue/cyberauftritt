@@ -45,11 +45,10 @@ Die meisten Vorlesunden findest du [hier](/covid19/vorlesungen). Wir setzen alle
 #### Info 2
 - Infos zur VL findet man auf der [Seite der Veranstaltung](https://uni-tuebingen.de/de/175110)
 - Zunächst nur online stattfindend
-- Live auf [Timms](https://timms.uni-tuebingen.de/) gestreamt
+- Live via TimmsCast auf [Moodle](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=885)
 
 #### Mathe 2
 - Infos zur VL findet man auf der [Seite des Lehrstuhls](http://www-pr.informatik.uni-tuebingen.de/?site=lehre/lehre_aktuell)
-- Live auf [Timms](https://timms.uni-tuebingen.de/) gestreamt
 
 #### Mathe IV: Stochastik
 - Verwaltung und Informationen komplett auf [Ilias](https://ilias.uni-tuebingen.de/ilias3/goto.php?target=crs_2382739&client_id=pr02)
