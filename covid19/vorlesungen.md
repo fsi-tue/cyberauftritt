@@ -113,7 +113,7 @@ Wird duchgeführt durch: Bringmann
 
 Link: [https://www.embedded.uni-tuebingen.de/teaching/ss20/basispraktikum-technische-informatik/](https://www.embedded.uni-tuebingen.de/teaching/ss20/basispraktikum-technische-informatik/)
 
-Bemerkungen der Dozierenden: Start am 22.05.2020 (falls möglich)
+Bemerkungen der Dozierenden: Vorbesprechung am 15. Mai 2020 um 9 Uhr s.t. online, Teilnahme nach Voranmeldung. Siehe Website
 
 
 ### V+Ü | Bildverarbeitung II (3D-Computer-Vision) (INFO4161)
