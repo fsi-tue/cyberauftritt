@@ -988,7 +988,7 @@ Wird duchgeführt durch: Lange
 
 |Findet es statt?|Wenn ja, wie?|
 |--|--|
-|ja|Vorlesung über Timms|
+|ja|Livestream zu Vorlesungszeiten unter https://timmscast.uni-tuebingen.de/static/N7.html|
 
 Link: [https://moodle.zdv.uni-tuebingen.de/course/view.php?id=645](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=645)
 
