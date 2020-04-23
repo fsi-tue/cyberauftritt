@@ -66,7 +66,7 @@ Wenn ihr in Vorlesungen mitgeschrieben habt (am Besten: mitgetext) oder ihr bei 
 ### Studienpläne
 "Was muss ich denn eigentlich nochmal alles hören?" Ihr seid bei den Wahlpflichtbereichen und den *überfachlichen berufsfeldorientierten Kompetenzen* (Übk) in eurem Studienverlauf recht freigestellt, allerdings solltet ihr Pflichtmodule sowie Orientierungsprüfung im Auge behalten. Zusätzlich sitzt euch, falls ihr BAföG bezieht, die Regelstudienzeit im Nacken. Eure wichtigsten Anlaufstellen um einen Überblick zu erhalten, was gehört werden muss, sind:
 
-- [Studienverlaufspläne](https://uni-tuebingen.de/de/74342)
+- [Studienverlaufspläne](https://uni-tuebingen.de/de/176487)
 - [Modulhandbücher](https://uni-tuebingen.de/de/74348)
 
 
