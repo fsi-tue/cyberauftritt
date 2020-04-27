@@ -64,7 +64,7 @@ Nun ist es erst mal ein ganz normaler Commit:
 ## Änderungen zum Original überführen
 Nun musst du eine Anfrage stellen, dass die Änderungen in deiner Kopie in das Original überführt werden. GitHub nennt das einen *Pull Request*.
 Rufe deine Kopie auf GitHub auf, du siehst direkt über der Auflistung der Dateien eine Zeile wie `This branch is X commits ahead of fsi-tue:master.`. Klick in dieser Zeile auf "Pull request".
-![](https://pad.fsi.uni-tuebingen.de/uploads/upload_740bfa24802528347f4f7de17685dd96.png)
+!["Pull Request"-Button auf GitHub](https://raw.githubusercontent.com/fsi-tue/cyberauftritt/master/img/button_pr.png)
 
 Auf der erscheinden Seite sollte hoffentlich "Able to merge. These branches can be automatically merged." stehen. Wenn das nicht der Fall ist, wende dich bitte an die Admins.
 - Klick auf "Create Pull request". Im Feld "Leave a comment" eintragen, welche Veränderungen dieser Pull Request mit sich bringt. z.B.:
