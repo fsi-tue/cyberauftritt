@@ -23,7 +23,7 @@ eine E-Mail.
 Falls du bereits mit Git vertraut bist, befolge die folgenden Schritte:
 
 1. Forke dieses Repository! Im folgenden gehen wir davon aus, dass du das
-   Repository erfolgreich nach https://github.com/yourname/cyberauftritt geforkt hast.
+   Repository erfolgreich nach https://github.com/yourname/cyberauftritt geforkt hast. Wenn du noch keine Erfahrung mit Forks hast, schaue dir die Datei [FORKING](FORKING.md) an.
 2. Hol dir eine lokale Kopie deines Forks auf deinen Rechner mit:
    ```
    git clone git@github.com:yourname/cyberauftritt.git

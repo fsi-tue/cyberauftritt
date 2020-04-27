@@ -4,6 +4,9 @@
 [![License](https://img.shields.io/github/license/fsi-tue/cyberauftritt.svg)](https://github.com/fsi-tue/cyberauftritt/blob/master/LICENSE.txt)
 [![Depfu](https://img.shields.io/depfu/fsi-tue/cyberauftritt.svg)](https://depfu.com/github/fsi-tue/cyberauftritt)
 
+### Forken und Klonen
+Um an der Webseite arbeiten zu können, musst du dir zunächst einen "Fork" erstellen, in dem du dann deine Änderungen vornimmst. Wenn du damit noch keine Erfahrung hast, schau dir erst die Datei [FORKING](FORKING.md) und danach die Datei [CONTRIBUTING](CONTRIBUTING.md) an.
+
 ### Installation
 
 Um diese Seite nutzen zu können, musst du [Ruby](https://www.ruby-lang.org/de/) und [Jekyll](https://jekyllrb.com/) installiert haben.
