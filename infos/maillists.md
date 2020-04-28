@@ -27,6 +27,13 @@ Medieninformatiker sowie Kognitionswissenschaftler gemeint.
 </tr>
 </thead>
 <tbody>
+<tr class="even">
+<td>info-announce</td>
+<td>Über info-studium bzw. kogwiss</td>
+<td>Infos von Professoren</td>
+<td>Studiumsrelevante Informationen von Professoren. Diese Mails bekommt man
+automatisch nach der Anmeldung auf info-studium und/oder kogwiss.</td>
+</tr>
 <tr class="odd">
 <td>info-studium</td>
 <td><a href="https://www.fsi.uni-tuebingen.de/mailman/listinfo/info-studium">web</a>/<a href="mailto:info-studium-subscribe@fsi.uni-tuebingen.de">mail</a></td>
@@ -68,8 +75,9 @@ Medieninformatiker sowie Kognitionswissenschaftler gemeint.
 <td>kogwiss</td>
 <td><a href="https://www.fsi.uni-tuebingen.de/mailman/listinfo/kogwiss">web</a>/<a href="mailto:kogwiss-subscribe@fsi.uni-tuebingen.de">mail</a></td>
 <td>Kognitionswissenschaft</td>
-<td>Themen, die <strong>nur</strong> Kognitionswissenschaftler betreffen<br />
-Versuchsausschreibungen bitte in Zukunft an versuche@fsi.uni-tuebingen.de</td>
+<td>- Themen, die <strong>nur</strong> Kognitionswissenschaftler betreffen<br />
+- Versuchsausschreibungen bitte in Zukunft an versuche@fsi.uni-tuebingen.de<br />
+- Mails von Professoren an info-announce gehen ebenfalls an diese Liste</td>
 </tr>
 <tr class="even">
 <td>kogni-fachschaft</td>
