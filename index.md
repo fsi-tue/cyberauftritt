@@ -2,16 +2,12 @@
 
 ---
 ## *Aktuelle Informationen*
-## Wanderung für Erst- & Zweitsemester &#9968;
-Wir bieten am Freitag, den 10.07., eine Wanderung speziell für alle Erst- & Zweitsemester an.
-Hier lernst du deine Kommilitonen besser kennen und wirst Lernbuddies für die kommenden Klausuren finden!
-Weitere Informationen zur Wanderung und eine obligatorische Anmeldung findest du [hier](https://sandbox.fsi.uni-tuebingen.de/~jules/anfi-wanderung/).
-
-## Anfibrief für Erstsemester
-Aktuelle Informationen & den Anfibrief findest du [hier](/anfiveranstaltungen).
-
 ### COVID-19 FAQ und Vorlesungen im SoSe 20
 Eine FAQ zum aktuellen Status findest du [hier](/covid19/faq) und eine Übersicht aller Vorlesungen, ob und wie sie stattfinden [hier](/covid19/vorlesungen).
+
+### Anfibrief für Erstsemester
+Aktuelle Informationen & den Anfibrief findest du [hier](/anfiveranstaltungen).
+
 
 ---
 
