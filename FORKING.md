@@ -53,7 +53,8 @@ Benutzernamen und Passwort eingeben.
 > :warning: Obacht! Prüfe mit `git status`, ob du Änderungen hast, die noch nicht committed wurden. Diese Schritte gehen davon aus, dass du einen "sauberen" Fork hast, also nichts das geändert, aber noch nicht gepusht wurde.
 
 - Änderungen vom Original holen: `git fetch upstream`
-- Eigene Kopie auf gleichen Stand bringen: `git merge upstream/master`
+- Zu deinem lokalen Haupt-Branch wechseln: `git checkout master`
+- Lokalen Haupt-Branch auf gleichen Stand wie das Original bringen: `git merge upstream/master`
 
 Nun ist es erst mal ein ganz normaler Commit:
 
