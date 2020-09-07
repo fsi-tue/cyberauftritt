@@ -1,6 +1,10 @@
 ## Inoffizielles Lehrangebot des Fachbereichs mit Hinweisen auf Art der Durchführung
 
-Diese Auflistung wird aufgrund der aktuellen Lage zur Verfügung gestellt und wird lediglich im SoSe 20 angeboten.
+**Hinweise**:
+- Diese Auflistung wird aufgrund der aktuellen Lage zur Verfügung gestellt und wird lediglich im SoSe 20 angeboten.
+- Diese Liste ersetzt nicht eure persönliche Semesterplanung über Alma, sondern dient lediglich als "weitere Stufe" in der Planung. (Deshalb sind auch bewusst Informationen wie WPF und LP nicht aufgeführt.)
+- Sollte eine Veranstaltung **fehlen**, haben wir zu dieser Veranstaltung lediglich keine Informationen erhalten. Wende dich bitte an die zuständige Lehrperson, um den Status zu erfragen.
+- Sie sind **Lehrperson** und möchten weitere Informationen hinzufügen? Gerne per Pull Request! Sie finden das GitHub-Repository [hier](https://github.com/fsi-tue/cyberauftritt).
 
 | Legende |            |
 |---|------------------|
@@ -103,6 +107,19 @@ Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&clien
 
 
 
+### V | Bioinformatics for Life Scientists (BIOINF1910)
+Wird duchgeführt durch: Pfeifer
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|ZOOM|
+
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2370954&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2370954&client_id=pr02)
+
+Bemerkungen der Dozierenden: Die Vorlesung startet in der Woche
+vom 20.4. Das erste Meeting ist am 24.4. um 13:15.
+
+
 ### P | Bioinformatics Tools Praktikum (BIOINF4240)
 Wird duchgeführt durch: Huson
 
@@ -170,6 +187,19 @@ Wird duchgeführt durch: Lensch
 
 Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2359762&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2359762&client_id=pr02)
 
+
+
+### S | Computer Science Methods for Privacy Preservation and Personalized Medicine (MEDZ4521)
+Wird duchgeführt durch: Pfeifer
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|ZOOM|
+
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430290&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430290&client_id=pr02)
+
+Bemerkungen der Dozierenden: Das Seminar startet in der Woche
+vom 20.4. Das erste Meeting ist am 21.4. um 14:15.
 
 
 ### V | Datenbanksysteme 2 (INF4141)
@@ -315,6 +345,16 @@ Wird duchgeführt durch: Menth
 Link: [https://moodle.zdv.uni-tuebingen.de/course/view.php?id=698](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=698)
 
 
+### V+Ü | Grundlagen des Maschinellen Lernens (INF3151)
+Wird duchgeführt durch: Schilling
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|Online: Zoom|
+
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&client_id=pr02)
+
+
 
 ### P | Implementierung von Programmiersprachen  (INF3213)
 Wird duchgeführt durch: Ostermann, Binder, Schuster
@@ -451,6 +491,19 @@ Link noch nicht vorhanden, Hinweis: Ilias: [https://ovidius.uni-tuebingen.de/ili
 Bemerkungen der Dozierenden: Passwort wie in MStat 1, falls unklar bitte Email an Celine Wieders: http://www.ecogsci.cs.uni-tuebingen.de/team/celine-wieders
 
 
+### V | Medical Data Science (MEDZ4991)
+Wird duchgeführt durch: Pfeifer
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|ZOOM, eventuell asynchron|
+
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430253&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=crs_2430253&client_id=pr02)
+
+Bemerkungen der Dozierenden: Die Vorlesung startet in der Woche
+vom 20.4. Das erste Meeting ist am 23.4. um 14:15.
+
+
 ### V | Multimodale Mensch-Maschine-Interaktion (NN)
 Wird duchgeführt durch: Kasneci, E
 
@@ -506,6 +559,17 @@ Wird duchgeführt durch: Kasneci, G
 Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2317637&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2317637&client_id=pr02)
 
 Bemerkungen der Dozierenden: Vorbesprechung am Montag, 20.04.2020 um 11:00 Uhr. Details zum Online-Format werden zeitnah in Ilias hinterlegt.
+
+
+
+### P | Praktikum Bildverarbeitung (INF3144)
+Wird duchgeführt durch: Schilling
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|Online: Zoom|
+
+Link: [https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&client_id=pr02](https://ovidius.uni-tuebingen.de/ilias3/goto.php?target=cat_2257931&client_id=pr02)
 
 
 ### P | Praktikum Integrative Bioinformatik (BIOINF 4220)
@@ -577,6 +641,17 @@ Wird duchgeführt durch: Wichmann
 Link: [https://www.neuroschool-tuebingen.de/courses/summer-term/master-neural-inf-process/?tx_neuroscience_pi1%5Bcourse%5D=15&tx_neuroscience_pi1%5Baction%5D=show&tx_neuroscience_pi1%5Bcontroller%5D=Course&cHash=2fbc5ba3ec33e685bae98afabfb13feb](https://www.neuroschool-tuebingen.de/courses/summer-term/master-neural-inf-process/?tx_neuroscience_pi1%5Bcourse%5D=15&tx_neuroscience_pi1%5Baction%5D=show&tx_neuroscience_pi1%5Bcontroller%5D=Course&cHash=2fbc5ba3ec33e685bae98afabfb13feb)
 
 Bemerkungen der Dozierenden: Pflicht-V an der GTC für MSc Neural Information Processing
+
+
+### V | Realtime und on demand Mediendienste im Internet (INF3179)
+Wird durchgeführt durch: Abele
+
+|Findet es statt?|Wenn ja, wie?|
+|--|--|
+|ja|live stream via  timmscast, backchannel chat|
+
+Link: [https://moodle.zdv.uni-tuebingen.de/course/view.php?id=734](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=734)
+
 
 
 ### S | SQL is a Programming Language (INF3664)
