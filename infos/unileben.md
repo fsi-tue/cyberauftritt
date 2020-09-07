@@ -202,15 +202,6 @@ arbeitet nach dem Solidarprinzip: Alle zahlen einen Sockelbetrag und wer
 das Semesterticket tatsächlich nutzen will, zahlt zusätzlich noch [~100
 EUR](https://www.naldo.de/tickets-und-preise/alle-fahrscheine/semesterticket/).
 
-## Telefon, Internet
-
-Wer BAFöG bekommt oder von den [Rundfunkgebühren](infos/unileben/#gez) befreit ist,
-kann bei der Telekom den sogenannten Sozialtarif beantragen. Näheres auf
-der entsprechenden
-[Info-Seite](https://hilfe.telekom.de/hsp/cms/content/HSP/de/3378/theme-45859561/theme-45859560/theme-45859559/theme-45859558/faq-1003865)
-der Telekom. Ansonsten empfiehlt es sich, nach anderen Anbietern (Arcor,
-O2, etc.) Ausschau zu halten.
-
 ## Verwaltungskostenbeitrag
 
 Der Verwaltungskostenbeitrag in Höhe von 60 EUR pro Semester, der
