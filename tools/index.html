@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #dddddd;
+        }
+        
+        #header {
+            margin-left: 0px;
+        }
+        
+        #footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+            background-color: #333333;
+            color: #ffffff;
+        }
+        
+        table {
+            width: 100%;
+        }
+        
+        .left {
+            width: 90%;
+        }
+        
+        .right {
+            width: 10%;
+            text-align: center;
+        }
+        
+        .flexwrapper {
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-left: 10px;
+            margin-right: 10px;
+            margin-bottom: 20px;
+            max-width: 100%;
+            max-height: 100%;
+        }
+        
+        .item {
+            margin: 10px;
+            text-align: left;
+            min-width: 400px;
+            min-height: 100px;
+            max-width: 400px;
+            max-height: 500px;
+            padding: 5px 15px 20px 20px;
+            vertical-align: middle;
+            background-color: #ffffff;
+            box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
+        }
+        
+        .item:hover {
+            box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+        }
+        
+        .item p {
+            font-weight: bold;
+        }
+        
+        .item span {
+            max-width: 100%;
+            font-size: 0.8em;
+            color: #333333;
+        }
+        
+        .icon {
+            font-size: 2em;
+            color: #000000;
+        }
+        
+        .type {
+            font-size: 1.2em;
+            color: #000000;
+        }
+        
+        .flexwrapper a {
+            text-decoration: none;
+            color: black;
+        }
+    </style>
+    <title>Fachschaftstools - Linksammlung</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="https://www.fsi.uni-tuebingen.de/img/favicon-32x32.png">
+</head>
+
+<body>
+    <div id="header">
+        <div style="top: 0px; left: 0px; padding: 0px; margin: 0px; width: 100%; height: 60px; background-color: #000080;">
+        </div>
+        <div style="position: absolute; top: 18px; left: calc(460px + ((100% - 900px) / 2)); text-align: left; height: 40px; color: white; font-size: 20px;">
+            Fachschaftstools
+        </div>
+        <div style="position: absolute; top: 15px; left: 20px;">
+            <img src="https://www.fsi.uni-tuebingen.de//img/logo.png" style="height: 30px;" alt="fsi-icon">
+        </div>
+    </div> <!-- /header -->
+    
+    <br>
+
+    <div style="text-align:center">
+	<span class="type">🔒</span>: nur mit fsi-Account nutzbar &nbsp; &nbsp; &nbsp; <span class="type">👥</span>: ohne fsi-Account nutzbar
+    </div>
+
+    <!-- UTF-8 Emojis from here: https://emojipedia.org -->
+    <div class="flexwrapper">
+        <a target="_blank" rel="noopener noreferrer" href="https://wiki.fsi.uni-tuebingen.de/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>Wiki</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">💡</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Internes Wiki zur Dokumentation von Know-How & How-Tos</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">🔒</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://cloud.fsi.uni-tuebingen.de/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>Cloud</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">🌥️</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Nextcloud</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">🔒</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://cloud.fsi.uni-tuebingen.de/index.php/apps/calendar/p/e8wPTX4TBpCNpb7W/FSI">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>Öffentlicher Kalender</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">📅</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Kalender, in dem u. a. Ersti-Veranstaltungen eingetragen werden</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">👥</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://cloud.fsi.uni-tuebingen.de/apps/files/?dir=/fsi-drop&fileid=16649">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>FSI-Drop</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">🕳️</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Dateien allen Fachschaftlern zur Verfügung stellen (z. B. Fotos von Feiern)</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">🔒</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://pad.fsi.uni-tuebingen.de/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>Pad (CodiMD)</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">📝</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Kollaborativ z.B. Protokolle im Markdown-Format erstellen</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">🔒</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+	<a target="_blank" rel="noopener noreferrer" href="https://notes.fsi.uni-tuebingen.de/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>Notes (CodiMD)</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">🚀</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Kollaborativ z.B. Protokolle im Markdown-Format erstellen</span>
+                        </td>
+                        <td class="right">
+                            <div class="icon">🚀</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://chat.fsi.uni-tuebingen.de/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>Rocket.Chat</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">🚀</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Internes, primäres Kommunikationsmedium (neben e-Mail)</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">🔒</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+	<a target="_blank" rel="noopener noreferrer" href="https://github.com/fsi-tue">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>GitHub</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">🔀</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>FSI GitHub Repo (enthält u. a. Code für Webauftritt und Anfiheft)</span>
+                        </td>
+                        <td class="right">
+			    <div class="type">🔒</div>
+                            <div class="type">👥</div>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://bbb.fsi.uni-tuebingen.de/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>BigBlueButton</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">🔵</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Webkonferenzserver</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">🔒</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://meet.fsi.uni-tuebingen.de/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>Jitsi</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">🧞‍♂️</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Webkonferenz- und Instant Messaging-Server</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">👥</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://ppi.fsi.uni-tuebingen.de/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>PPI</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">📜</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Prüfungsprotokolle-Interface</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">👥</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://kki.fsi.uni-tuebingen.de/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>KKI</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">🍺</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Kneipen- und Kulturinterface (Datenbasis fürs Anfiheft!)</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">👥</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://sandbox.fsi.uni-tuebingen.de/~timb/wegweiser/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>Schilder-Generator</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">📋</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Wegweiser für FSI-Veranstaltungen generieren</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">👥</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://projects.fsi.uni-tuebingen.de/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>Redmine</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">🚧</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Projektmanagement-Werkzeug und altes SVN-Repo (läuft hauptsächlich noch als Archiv)</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">🔒</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://www.fsi.uni-tuebingen.de/mailman/listinfo">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>Mailman</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">📮</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Registrar für Mailinglisten</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">👥</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+	<a target="_blank" rel="noopener noreferrer" href="https://git.fsi.uni-tuebingen.de/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>Gitea</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">🍵</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Git-Versionierungssystem mit GitHub-ähnlicher Oberfläche</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">🔒</div>
+                            <div class="type">👥</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+
+        <a target="_blank" rel="noopener noreferrer" href="https://wiki.fsi.uni-tuebingen.de/ldap-password-change/">
+            <div class="item">
+                <table>
+                    <tr>
+                        <td class="left">
+                            <p>Passwort ändern</p>
+                        </td>
+                        <td class="right">
+                            <div class="icon">🔑</div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <span>Site zum Ändern des fsi-LDAP Passworts</span>
+                        </td>
+                        <td class="right">
+                            <div class="type">🔒</div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </a>
+    </div> <!-- /flexwrapper -->
+    <br><br>
+    <div id="footer">
+        <p>Fehlt etwas? Bitte bei den Admins melden ♥</p>
+    </div>
+</body>
+
+</html>
+
