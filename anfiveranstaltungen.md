@@ -1,23 +1,23 @@
-# Anfiveranstaltungen Sommersemester 2020
+# Anfiveranstaltungen Wintersemester 2020/21
 
 *Bitte schaut immer wieder hier vorbei, um auf dem aktuellsten Stand zu sein.*
 
 ### Semesterbeginn
-Nach aktueller Lage beginnt das Semester - eine Woche später als geplant - am 20. April 2020.
+Nach aktueller Lage beginnt das Semester - größtenteils digital - am 02. November 2020.
 
 ### Anfibrief
 Den [Erstsemesterbrief](https://teri.fsi.uni-tuebingen.de/anfibrief/) solltet ihr einige Wochen vor dem Beginn eures Studiums erhalten haben. Er enthält wichtige Informationen und Tipps über euer Studium und unsere Erstsemesterveranstaltungen. Es gibt für jeden Studiengang einen eigenen Brief.
 
-### 30.03. - 08.04.2020: Mathematischer Vorbereitungskurs
+### 19.10. - 30.10.2020: Mathematischer Vorbereitungskurs
 Der Vorkurs bietet Euch eine Wiederholung des Schulstoffs und führt Euch in die Terminologie ein, die Ihr in euren Mathe-Vorlesungen wiederfinden werdet. Es ist nicht Pflicht daran teilzunehmen, aber sehr empfehlenswert. Nicht zuletzt lernt Ihr hier erste Freunde kennen!
-Aufgrund aktueller Ereignisse wird der Vorkurs online abgehalten.
-Um eine Anmeldung wird bis zum 26.03.2020 gebeten. Diese erfolgt über ein [Anmeldeformular](https://uni-tuebingen.de/de/91877) (auf dieser Seite findet ihr auch noch weitere Informationen). Nachdem ihr euch angemeldet habt bekommt ihr weitere Details wie genau das Ganze abläuft.
+Der Vorkurs wird voraussichtlich vor Ort auf der Morgenstelle und auf dem Sand stattfinden.
+Falls ihr teilnehmen wollt, meldet euch unbedingt bis zum bis zum 14.10.2020 an. Die Anmeldung erfolgt über ein [Anmeldeformular](https://uni-tuebingen.de/de/91877) (auf dieser Seite findet ihr auch noch weitere Informationen). Nachdem ihr euch angemeldet habt bekommt ihr weitere Details, wie genau das Ganze abläuft.
 
 ### Veranstaltungen der Fachschaft
 Mit Ausnahme des Mathematik-Vorkurses richten sich die Veranstaltungen auch an Masterstudenten, die neu nach Tübingen kommen. Ebenso sind auch alle Nebenfächler, Kognitionswissenschaftler und Informatik-Studiengänge ausdrücklich zu den genannten Veranstaltungen eingeladen!
 
 
-Um zum Sand 1/14 zu gelangen, fahrt Ihr mit der Linie 2 oder 6 bis zur Haltestelle "Sand Drosselweg", von dort ist der Weg zu den Veranstaltungen ausgeschildert.
+<!-- Um zum Sand 1/14 zu gelangen, fahrt Ihr mit der Linie 2 oder 6 bis zur Haltestelle "Sand Drosselweg", von dort ist der Weg zu den Veranstaltungen ausgeschildert. -->
 
 
 {% assign pin = '<img src="img/icons8-marker-24.png" style="max-height: 1em;" alt="location icon"/> ' %}
