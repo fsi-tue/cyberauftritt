@@ -1,6 +1,6 @@
 # Anfiveranstaltungen Wintersemester 2020/21
 
-> Liebe Erstis, <br>wir sitzen momentan noch an der Aktualisierung von Anfibrief, -heft, sowie Corona FAQ. Bitte noch nichts als in Stein gemeißelt sehen.<br>Eure FSI
+> Liebe Erstis, <br>wir sitzen momentan noch an der Aktualisierung von Anfibrief, -heft, sowie Corona FAQ.<br>Vorallem die Termine stehen noch nicht endgültig fest. Bitte also noch nichts als in Stein gemeißelt sehen.<br>Eure FSI
 
 *Bitte schaut immer wieder hier vorbei, um auf dem aktuellsten Stand zu sein.*
 
