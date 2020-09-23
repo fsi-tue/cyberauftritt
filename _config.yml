@@ -23,9 +23,7 @@ description: Website der Fachschaft Informatik Tuebingen
 
 # List of links in the navigation bar
 navbar-links:
-  COVID-19:
-    - Allgemeines: "covid19/faq"
-    - Vorlesungen: "covid19/vorlesungen"
+  COVID-19: "covid19/faq"
   Über uns: "ueber-uns"
   Gremien:
     - Studienkommission: "gremien/studienkommission"
