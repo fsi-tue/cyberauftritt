@@ -17,13 +17,16 @@ Wir als Fachschaft hoffen, dass hier die für dich Interessanten Informationen z
 **F: Wie sieht der Übungsbetrieb aus? Wo finde ich meine Tutorien?**  
 **A:** Das ist je VL unterschiedlich, sollte aber auf der jeweiligen Seite zur Vorlesung zu finden sein.
 Es gibt versch. online-Kurs-Plattformen:
-   * Mathe 1: [Moodle](https://moodle.zdv.uni-tuebingen.de)
-   * Info 1: [DB Forum](https://forum-db.informatik.uni-tuebingen.de/)
-   * eine andere ist auch noch [Ilias](https://ovidius.uni-tuebingen.de)
+   * Mathe 1: momentan noch nicht bekannt <!--[Moodle](https://moodle.zdv.uni-tuebingen.de)-->
+   * Info 1: wahrscheinlich gibt es einen Discord Server<!--[DB Forum](https://forum-db.informatik.uni-tuebingen.de/)-->
+   * Andere Lernplattformen der Uni sind bspw. [Ilias](https://ovidius.uni-tuebingen.de) und [Moodle](https://moodle.zdv.uni-tuebingen.de)
 
 **F: Was ist dieses ALMA?**  
 **A:** Alma ist die online Plattform, auf der du nahezu alles findest. *Studienbescheinigung, Vorlesungsverzeichnis, Klausurnoten, etc.*
 Ab und zu findest du aber auch Hinweise auf **Campus**, das ist aber seit letztem Semester nicht mehr relevant.
+
+**F: Macht ihr trotz Corona Erstiveranstaltungen?**<br>
+**A:** Schön, dass du fragst! Ja, machen wir. Wir haben online und in-vivo Programm. Die In-Vivo Veranstaltungen sind jedoch Personenanzahl begrenzt. Aber gucke doch auf unserer [Seite für Erstsemester](/anfiveranstaltungen) nach.
 
 Darüber hinaus ist für dich das [Anfiheft](https://teri.fsi.uni-tuebingen.de/anfiheft/anfiheft-info.pdf) interessant, da dort einige Informationen über das Leben in Tübingen zu finden sind. Obwohl das gerade eingeschränkt ist.
 
@@ -37,24 +40,26 @@ Und da wiegt wahrscheinlich letzteres schwerer. Aber hier gilt wie bei allem: *I
 **A:** Das hängt auch wieder vom Prof ab. Auch hier gilt informiere dich auf der Seite der Veranstaltung.
 
 ## Infos zu Vorlesungen mit Link
+> Du hast Informationen zu anderen Vorlesungen? Oder möchtest hier eine VL sehen? Schreibe uns doch bitte eine Mail!
+
 #### Info 1
 - Infos zur VL findet man auf der [Seite der Veranstaltung](https://db.inf.uni-tuebingen.de/teaching/Informatik1WS2020-2021.html)
-- [DB Forum](https://forum-db.informatik.uni-tuebingen.de/)
-- Zunächst nur online stattfindend
-- Live via TimmsCast auf [Moodle](https://moodle.zdv.uni-tuebingen.de/course/view.php?id=885)
+<!--- [DB Forum](https://forum-db.informatik.uni-tuebingen.de/)-->
+- Vorlesung nur online stattfindend
+    - Videoplattform wird wahrscheinlich [YouTube](https://www.youtube.com/channel/UCDIJAkbAr53I4fggNsbzdrA)
+- Tutorien in Präsenz- und Onlinegruppen
 
 #### Mathe 1
-- TODO 
+- bisher noch keine Informationen. Wird geupdatet sobald Informationen verfügbar sind.
 
-#### Einführung in die Technische Informatik
-- TODO
+<!--#### Einführung in die Technische Informatik
+- TODO-->
 
 #### Mathe 3
 - Verwaltung in [Moodle](https://moodle.zdv.uni-tuebingen.de)
 
 #### Experimentalphysik 2
 - wöchentlichen Online Fragerunde begleitend zum [Buch](https://rds-tue.ibs-bw.de/opac/RDSIndex/Search?lookfor=Slama&TYPE=AllFields)
-- Physics-Hour wird auch online sein
 - Einschreibung via [Ilias](https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2376626&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilRepositoryGUI)
 
 ## Sonstiges
