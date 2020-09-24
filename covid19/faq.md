@@ -12,7 +12,7 @@ Wir als Fachschaft hoffen, dass hier die für dich Interessanten Informationen z
 
 ## Für Erst-/Zweitsemester
 **F: Was ist mit VL X? Wo bekomme ich Informationen?**  
-**A:** Zu den größeren VLs sind in der nächsten Informationen. Darüber hinaus gilt, das du im Vorlesungsverzeichnis auf [alma](https://alma.uni-tuebingen.de) in der Regel Informationen zu der von dir gesuchten Veranstaltung findest und wenn du da nichts findest, schreib uns doch eine Mail, vielleicht können wir helfen.
+**A:** Zu den größeren VLs sind in den nächsten Abschnitten Informationen. Darüber hinaus gilt, dass du im Vorlesungsverzeichnis auf [alma](https://alma.uni-tuebingen.de) in der Regel Informationen zu der von dir gesuchten Veranstaltung findest und wenn du da nichts findest, schreib uns doch eine Mail, vielleicht können wir helfen.
 
 **F: Wie sieht der Übungsbetrieb aus? Wo finde ich meine Tutorien?**  
 **A:** Das ist je VL unterschiedlich, sollte aber auf der jeweiligen Seite zur Vorlesung zu finden sein.
@@ -52,15 +52,11 @@ Und da wiegt wahrscheinlich letzteres schwerer. Aber hier gilt wie bei allem: *I
 #### Mathe 1
 - bisher noch keine Informationen. Wird geupdatet sobald Informationen verfügbar sind.
 
-<!--#### Einführung in die Technische Informatik
-- TODO-->
+#### Einführung in die Technische Informatik
+- bisher noch keine Informationen. Wird geupdatet sobald Informationen verfügbar sind.
 
 #### Mathe 3
 - Verwaltung in [Moodle](https://moodle.zdv.uni-tuebingen.de)
-
-#### Experimentalphysik 2
-- wöchentlichen Online Fragerunde begleitend zum [Buch](https://rds-tue.ibs-bw.de/opac/RDSIndex/Search?lookfor=Slama&TYPE=AllFields)
-- Einschreibung via [Ilias](https://ovidius.uni-tuebingen.de/ilias3/ilias.php?ref_id=2376626&cmd=frameset&cmdClass=ilrepositorygui&cmdNode=w1&baseClass=ilRepositoryGUI)
 
 ## Sonstiges
 
