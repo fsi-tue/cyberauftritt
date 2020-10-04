@@ -1,7 +1,5 @@
 # Anfiveranstaltungen Wintersemester 2020/21
 
-> Liebe Erstis, <br>wir sitzen momentan noch an der Aktualisierung von Anfibrief, -heft, sowie Corona FAQ.<br>Vorallem die Termine stehen noch nicht endgültig fest. Bitte also noch nichts als in Stein gemeißelt sehen.<br>Eure FSI
-
 *Bitte schaut immer wieder hier vorbei, um auf dem aktuellsten Stand zu sein.*
 
 ### Semesterbeginn
@@ -18,6 +16,7 @@ Falls ihr teilnehmen wollt, meldet euch unbedingt bis zum bis zum 14.10.2020 an.
 ### Veranstaltungen der Fachschaft
 Mit Ausnahme des Mathematik-Vorkurses richten sich die Veranstaltungen auch an Masterstudenten, die neu nach Tübingen kommen. Ebenso sind auch alle Nebenfächler, Kognitionswissenschaftler und Informatik-Studiengänge ausdrücklich zu den genannten Veranstaltungen eingeladen!
 
+Die Anmeldung zu den Veranstaltungen wird ab dem 09. Oktober möglich sein.
 
 <!-- Um zum Sand 1/14 zu gelangen, fahrt Ihr mit der Linie 2 oder 6 bis zur Haltestelle "Sand Drosselweg", von dort ist der Weg zu den Veranstaltungen ausgeschildert. -->
 
