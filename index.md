@@ -2,8 +2,8 @@
 
 ---
 ## *Aktuelle Informationen*
-### COVID-19 FAQ und Vorlesungen im SoSe 20
-Eine FAQ zum aktuellen Status findest du [hier](/covid19/faq) und eine Übersicht aller Vorlesungen, ob und wie sie stattfinden [hier](/covid19/vorlesungen).
+### COVID-19 FAQ
+Eine FAQ zum aktuellen Status findest du [hier](/covid19/faq).
 
 ### Anfibrief für Erstsemester
 Aktuelle Informationen & den Anfibrief findest du [hier](/anfiveranstaltungen).
