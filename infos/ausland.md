@@ -46,7 +46,7 @@ zugeordnet. In der Informatik gibt es folgende Kooperationen:
   - Prof. Kaufmann: Madrid, Rom, Montpellier, Ljubljana
   - Prof. Butz: Aix-Marseille, Oslo, Montpellier, Besançon, Pilsen,
     Uppsala, Istanbul ([weitere
-    Informationen](https://www.wsi.uni-tuebingen.de/lehrstuehle/cognitive-modeling/erasmus/erasmus-informationen.html)
+    Informationen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/erasmus/faqs/)
     und Erfahrungsberichte)
 
 Theoretisch sind auch Austausche in jede andere Uni innerhalb der EU
