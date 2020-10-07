@@ -13,6 +13,9 @@ Der Vorkurs bietet Euch eine Wiederholung des Schulstoffs und führt Euch in die
 Der Vorkurs wird voraussichtlich vor Ort auf der Morgenstelle und auf dem Sand stattfinden.
 Falls ihr teilnehmen wollt, meldet euch unbedingt bis zum bis zum 14.10.2020 an. Die Anmeldung erfolgt über ein [Anmeldeformular](https://uni-tuebingen.de/de/91877) (auf dieser Seite findet ihr auch noch weitere Informationen). Nachdem ihr euch angemeldet habt bekommt ihr weitere Details, wie genau das Ganze abläuft.
 
+#### Vorkurs auch als voraufgenommene Videos
+Falls ihr nicht am Präsenzkurs teilnehmen könnt, gibt es auch bereits aufgenommene Videos zu allen behandelten Themen [hier](https://timms.uni-tuebingen.de/tp/UT_20180911_001_infmatvk_0001). Weitere Videos könnt ihr in der Seitenleiste finden. Der Präsenzkurs ist nicht nur angenehmer, ihr könnt ihr hier auch besser Kontakte knüpfen!
+
 ### Veranstaltungen der Fachschaft
 Mit Ausnahme des Mathematik-Vorkurses richten sich die Veranstaltungen auch an Masterstudenten, die neu nach Tübingen kommen. Ebenso sind auch alle Nebenfächler, Kognitionswissenschaftler und Informatik-Studiengänge ausdrücklich zu den genannten Veranstaltungen eingeladen!
 
