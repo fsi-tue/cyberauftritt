@@ -19,7 +19,7 @@ Falls ihr nicht am Präsenzkurs teilnehmen könnt, gibt es auch bereits aufgenom
 ### Veranstaltungen der Fachschaft
 Mit Ausnahme des Mathematik-Vorkurses richten sich die Veranstaltungen auch an Masterstudenten, die neu nach Tübingen kommen. Ebenso sind auch alle Nebenfächler, Kognitionswissenschaftler und Informatik-Studiengänge ausdrücklich zu den genannten Veranstaltungen eingeladen!
 
-Die Anmeldung zu den Veranstaltungen wird ab dem 12. Oktober möglich sein.
+Die Anmeldung zu den Veranstaltungen wird ab dem 13. Oktober möglich sein.
 
 <!-- Um zum Sand 1/14 zu gelangen, fahrt Ihr mit der Linie 2 oder 6 bis zur Haltestelle "Sand Drosselweg", von dort ist der Weg zu den Veranstaltungen ausgeschildert. -->
 
