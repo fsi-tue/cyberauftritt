@@ -6,7 +6,7 @@
 Eine FAQ zum aktuellen Status findest du [hier](/covid19/faq).
 
 ### Informationen für Erstsemester
-Aktuelle Informationen & den Anfibrief findest du [hier](/anfiveranstaltungen).
+Aktuelle Informationen, den Anfibrief und die Anmeldung zu den Veranstaltungen findest du [hier](/anfiveranstaltungen).
 
 
 ---
