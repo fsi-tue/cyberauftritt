@@ -4,6 +4,7 @@
 
 ### Semesterbeginn
 Nach aktueller Lage beginnt das Semester - größtenteils digital - am 02. November 2020.
+Informationen zu einigen Vorlesungen findet man auf unser [Corona Info Seite](covid19/faq/).
 
 ### Anfibrief
 Den [Erstsemesterbrief](https://teri.fsi.uni-tuebingen.de/anfibrief/) solltet ihr einige Wochen vor dem Beginn eures Studiums erhalten haben. Er enthält wichtige Informationen und Tipps über euer Studium und unsere Erstsemesterveranstaltungen. Es gibt für jeden Studiengang einen eigenen Brief.

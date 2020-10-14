@@ -17,7 +17,7 @@ Wir als Fachschaft hoffen, dass hier die für dich Interessanten Informationen z
 **F: Wie sieht der Übungsbetrieb aus? Wo finde ich meine Tutorien?**  
 **A:** Das ist je VL unterschiedlich, sollte aber auf der jeweiligen Seite zur Vorlesung zu finden sein.
 Es gibt versch. online-Kurs-Plattformen:
-   * Mathe 1: momentan noch nicht bekannt <!--[Moodle](https://moodle.zdv.uni-tuebingen.de)-->
+   * Mathe 1: [Moodle](https://moodle.zdv.uni-tuebingen.de)
    * Info 1: wahrscheinlich gibt es einen Discord Server<!--[DB Forum](https://forum-db.informatik.uni-tuebingen.de/)-->
    * Andere Lernplattformen der Uni sind bspw. [Ilias](https://ovidius.uni-tuebingen.de) und [Moodle](https://moodle.zdv.uni-tuebingen.de)
 
@@ -50,10 +50,15 @@ Und da wiegt wahrscheinlich letzteres schwerer. Aber hier gilt wie bei allem: *I
 - Tutorien in Präsenz- und Onlinegruppen
 
 #### Mathe 1
-- bisher noch keine Informationen. Wird geupdatet sobald Informationen verfügbar sind.
+- Infos zur VL findet man auf der [Seite der Veranstaltung](https://www.math.uni-tuebingen.de/user/ochs/teaching/MFI1/index.shtml)
+- Die Vorlesung wird Live gestreamt
+- Übungsverwaltung über Moodle
+- Tutorienanmeldung auf URM
 
 #### Einführung in die Technische Informatik
-- bisher noch keine Informationen. Wird geupdatet sobald Informationen verfügbar sind.
+- Infos zur VL findet man auf der [Seite der Veranstaltung](https://uni-tuebingen.de/de/184117)
+- Vorlesung in Zoom
+- Kursverwaltung Ilias
 
 #### Mathe 3
 - Verwaltung in [Moodle](https://moodle.zdv.uni-tuebingen.de)
