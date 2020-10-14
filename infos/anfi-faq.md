@@ -344,7 +344,7 @@ komplette Stadtbild; die paar Einheimischen fallen kaum auf.
 
   - Habt Ihr irgendwo Eure Studienordnung im Netz ?
 
-hier: <https://www.mnf.uni-tuebingen.de/studium/spo.html>
+[hier](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/downloads/pruefungsordnungen/)
 
   - Wie ist das mit dem Wechsel von der FH an die Uni?
 
@@ -470,7 +470,7 @@ letzten zwei Jahre je 60-70 Studierende angefangen.
 Bioinformatiker arbeiten an der Schnittstelle zwischen der Biologie und
 der Informatik. Ihr studiert quasi Informatik mit zwei Nebenfächern,
 Biologie und Chemie. Unter folgender Adresse bekommst du den
-[Studienplan](https://www.wsi.uni-tuebingen.de/studium/downloads/studienpläne.html),
+[Studienplan](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/downloads/studienplaene/).
 in dem die genaueren Daten zu finden sind.
 
 #### Wo liegt der Schwerpunkt, in der Biologie oder in der Informatik?
