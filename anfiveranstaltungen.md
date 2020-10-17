@@ -20,6 +20,8 @@ Falls ihr nicht am Präsenzkurs teilnehmen könnt, gibt es auch bereits aufgenom
 ### Veranstaltungen der Fachschaft
 Mit Ausnahme des Mathematik-Vorkurses richten sich die Veranstaltungen auch an Masterstudenten, die neu nach Tübingen kommen. Ebenso sind auch alle Nebenfächler, Kognitionswissenschaftler und Informatik-Studiengänge ausdrücklich zu den genannten Veranstaltungen eingeladen!
 
+Bitte beachtet, dass aufgrund der erhöhten Inzidenz die Veranstaltungen mit weniger Menschen durchgeführt werden müssen. Aufgrund der hohen Nachfrage bitten wir euch, dass ihr euch nur für eine Veranstaltung anmeldet. 
+(Darüber hinaus behalten wir es uns vor Personen von Veranstaltungen auszuschließen, die bereits an einer anderen Präsenzveranstaltung teilgenommen haben.)
 _Die Anmeldung zu den Veranstaltungen ist ab sofort [hier](https://eei.fsi.uni-tuebingen.de/) möglich._
 
 <!-- Um zum Sand 1/14 zu gelangen, fahrt Ihr mit der Linie 2 oder 6 bis zur Haltestelle "Sand Drosselweg", von dort ist der Weg zu den Veranstaltungen ausgeschildert. -->
