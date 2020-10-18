@@ -7,6 +7,7 @@ Eine FAQ zum aktuellen Status findest du [hier](/covid19/faq).
 
 ### Informationen für Erstsemester
 Aktuelle Informationen, den Anfibrief und die Anmeldung zu den Veranstaltungen findest du [hier](/anfiveranstaltungen).
+Die Vorkursvideos findest du [hier](https://timms.uni-tuebingen.de/tp/UT_20180911_001_infmatvk_0001), das dazugehörige aktuelle Skript zum Mathevorkurs [hier](https://www.fsi.uni-tuebingen.de/attachments/20201018141504.3720.50142/part-1/Skript_Vorkurs-Mathematik_1bis6.pdf).
 
 
 ---

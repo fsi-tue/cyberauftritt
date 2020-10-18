@@ -19,6 +19,8 @@ Der Vorkurs ist außerdem eine hervorragende Gelegenheit schonmal eure
 Kommilitonen kennenzulernen. Nicht wenige über das gesamte Studium und noch
 länger andauerende Freundschaften sind hier enstanden.
 
+Das Skript könnt ihr auch [hier](https://www.fsi.uni-tuebingen.de/attachments/20201018141504.3720.50142/part-1/Skript_Vorkurs-Mathematik_1bis6.pdf) finden. Die Videos zum Vorkurs sind auch [hier zu finden](https://timms.uni-tuebingen.de/tp/UT_20180911_001_infmatvk_0001) zu finden.
+
 ## Die Erstiwoche(n)
 Neben dem Vorkurs organisieren wir jedes Semester eine Reihe an Veranstaltungen,
 bei denen ihr euch gegenseitig und uns als Fachschaft kennen lernen könnt. Eine

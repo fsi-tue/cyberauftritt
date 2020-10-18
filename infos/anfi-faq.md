@@ -25,6 +25,8 @@ Studiengängen](infos/studieninteressierte) beantwortet.
 Für Einwände oder Verbesserungsvorschläge inhaltlicher oder
 rechtschreiblicher Art einfach eine Mail an uns oder direkt per Pull Request auf [Github](https://github.com/fsi-tue/cyberauftritt).
 
+Das Skript zum Vorkurs könnt ihr [hier](https://www.fsi.uni-tuebingen.de/attachments/20201018141504.3720.50142/part-1/Skript_Vorkurs-Mathematik_1bis6.pdf) finden. Die Videos sind auch [hier zu finden](https://timms.uni-tuebingen.de/tp/UT_20180911_001_infmatvk_0001) verfügbar.
+
 ## Allgemein
 
 ### Prüfungsanmeldung
