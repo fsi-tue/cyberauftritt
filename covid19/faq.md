@@ -6,6 +6,8 @@ toc: true
 
 # COVID-19 FAQ zu Vorlesungen und zum Studium
 
+**Der Fachbereich hat jetzt eine [Übersichtsseite für alle im Wintersemester stattfindenden Veranstaltungen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/ansprechpartner-und-organisation/lehrveranstaltungen-ws202021/). (Die Liste kann aber auch noch unvollständig sein)**
+
 Wir als Fachschaft hoffen, dass hier die für dich Interessanten Informationen zu finden sind. Falls dir etwas fehlt oder mehr Informationen hast schreib uns doch bitte eine [Mail](mailto:fsi@fsi.uni-tuebingen.de)
 
 ***DISCLAIMER:*** Alle von uns zu Verfügung gestellten Informationen können ihre Korrektheit verlieren. Die Informationen vom Dozenten sind die einzig korrekten.
@@ -40,6 +42,10 @@ Und da wiegt wahrscheinlich letzteres schwerer. Aber hier gilt wie bei allem: *I
 **A:** Das hängt auch wieder vom Prof ab. Auch hier gilt informiere dich auf der Seite der Veranstaltung.
 
 ## Infos zu Vorlesungen mit Link
+
+
+**Der Fachbereich hat jetzt eine [Übersichtsseite für alle im Wintersemester stattfindenden Veranstaltungen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/ansprechpartner-und-organisation/lehrveranstaltungen-ws202021/). (Die Liste kann aber auch noch unvollständig sein)**
+
 > Du hast Informationen zu anderen Vorlesungen? Oder möchtest hier eine VL sehen? Schreibe uns doch bitte eine Mail!
 
 #### Info 1
