@@ -27,13 +27,6 @@ Teilnehmer. Dazu und falls ansonsten noch Fragen bestehen, kann man uns
 unter toefl-team\<ät\>fsi.uni-tuebingen.de erreichen. Einige Fragen
 haben wir auch bereits [hier](/infos/toefel-faq) beantwortet.
 
-Außerdem gibt es ein zweites Test Center mit der ID STN10131A im
-[Fremdsprachenzentrum](https://uni-tuebingen.de/fsz) (FSZ) der
-Universität Tübingen. Jeder Teilnehmer sollte sich verdeutlichen, für
-welches Test-Center mit welcher ID er sich angemeldet hat - teilweise
-finden am selben Tag an beiden Orten Tests statt\! Die Adresse wird euch
-nach erfolgter Anmeldung mitgeteilt.
-
 Aus rechtlichen Gründen ist es für Test-Center-Betreiber schwierig
 Vorbereitungskurse anzubieten. Das
 [Deutsch-Amerikanische-Institut](https://www.dai-tuebingen.de/) bietet
