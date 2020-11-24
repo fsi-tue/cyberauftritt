@@ -6,7 +6,7 @@
 Eine FAQ zum aktuellen Status findest du [hier](/covid19/faq).
 
 ### Begrüßung der Erstsemester
-Unter der [Seite vom Fachbereich](https://uni-tuebingen.de/de/197597) findet ihr Informationen zur Erstsemesterbegrüßung.
+Unter der [Seite vom Fachbereich](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studienbeginn/) findet ihr Informationen zur Erstsemesterbegrüßung.
 Diese wird im übrigen am 30.10.2020 vollkommen online stattfinden. Zoom-Links etc. findet ihr auch auf der Seite.
 
 ### Informationen für Erstsemester

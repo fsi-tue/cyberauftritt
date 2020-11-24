@@ -3,7 +3,7 @@
 *Bitte schaut immer wieder hier vorbei, um auf dem aktuellsten Stand zu sein.*
 
 ### Erstsemesterbegrüßung
-Der Fachbereich begrüßt euch Erstis am 30.10.2020 komplett online. *Wo? Wann? Wer?* Steht alles auf der [Seite vom Fachbereich](https://uni-tuebingen.de/de/197597). Zoom-links etc. sind da auch zu finden.
+Der Fachbereich begrüßt euch Erstis am 30.10.2020 komplett online. *Wo? Wann? Wer?* Steht alles auf der [Seite vom Fachbereich](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studienbeginn/). Zoom-links etc. sind da auch zu finden.
 **Es ist empfohlen, dass ihr da teilnehmt.**
 
 ### Semesterbeginn
