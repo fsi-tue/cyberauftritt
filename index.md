@@ -25,7 +25,7 @@ Du hast Interesse daran, in Tübingen dein Studium der
 - [Kognitionswissenschaft](infos/courses/kogni) (BSc/MSc)
 - [Machine Learning](https://uni-tuebingen.de/de/140323) (MSc)
 
-zu beginnen? Dann können für dich vor allem die [Informationen der Universität](https://uni-tuebingen.de/de/74390) relevant sein. Hier kannst du dich über Studieninhalte, Bewerbungsfristen etc. informieren. Wir als Fachschaft sind auch jedes Jahr auf dem [Studieninformationstag](https://uni-tuebingen.de/studium/studieninteresse/angebote-fuer-studieninteressierte/studientag/) im November vertreten, auf dem ihr uns mit euren Fragen löchern könnt. 
+zu beginnen? Dann können für dich vor allem die [Informationen der Universität](https://uni-tuebingen.de/de/74390) relevant sein. Hier kannst du dich über Studieninhalte, Bewerbungsfristen etc. informieren. Wir als Fachschaft sind auch jedes Jahr auf dem [Studieninformationstag](https://uni-tuebingen.de/studium/studieninteresse/angebote-fuer-studieninteressierte/studieninfotag/) im November vertreten, auf dem ihr uns mit euren Fragen löchern könnt. 
 Beginnst du dein Studium in Tübingen im Master, kann es je nach deinem vorherigen Studiengang sein, dass du bestimmte Auflagen erfüllen musst. Wir als Fachschaft haben hierüber keine Informationen, dein Ansprechpartner hierfür ist der [Prüfungsausschuss](https://uni-tuebingen.de/de/74378).
 Bei allen weiteren Fragen oder Unklarheiten kannst du uns gerne [per Mail schreiben](kontakt).
 
