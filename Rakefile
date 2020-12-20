@@ -5,7 +5,7 @@ task default: %w[test]
 desc "Test the HTML files"
 task :test do
   options = { # Documentation: https://github.com/gjtorikian/html-proofer#configuration
-    :url_ignore => [/^https:\/\/www\.blablacar\.de/,/^https:\/\/useplaintext\.email/,/^https:\/\/www\.hih-tuebingen\.de/,/^https:\/\/www\.vhs-tuebingen\.de/,/^https:\/\/ppi\.fsi\.uni-tuebingen\.de/],
+    :url_ignore => [/^https:\/\/www\.blablacar\.de/,/^https:\/\/useplaintext\.email/,/^https:\/\/www\.hih-tuebingen\.de/,/^https:\/\/www\.vhs-tuebingen\.de/,/^https:\/\/ppi\.fsi\.uni-tuebingen\.de/,/^https:\/\/twitter\.com/],
     :file_ignore => [/^_site\/covid19\/vorlesungen\/index\.html/,/^_site\/covid19\/faq\/index\.html/],
     # Specific documentation: https://github.com/gjtorikian/html-proofer#configuring-typhoeus-and-hydra
     :typhoeus => { :connecttimeout => 60, :timeout => 90 },
@@ -20,3 +20,4 @@ end
 #   - The content may change too quickly, a lot of links are complicated, and
 #     some links might not be online yet or only available internally.
 # - https://useplaintext.email: Temporary exception (curl fails due to a missing intermediate certificate)
+# - https://twitter.com: Travis Getting '400 No error' codes when trying to access Twitter URLs
