@@ -42,7 +42,7 @@ Pro Studiengang bieten wir euch eine dedizierte studentische Studienberatung an,
 
 |Studiengang|Studienberater|
 |-----------|--------------|
-|Informatik, Bioinformatik| Thomas Sachs (studienberatung[ät]informatik.uni-tuebingen.de)|
+|Informatik, Bioinformatik| Elisabeth Fritze (studienberatung[ät]informatik.uni-tuebingen.de)|
 |Medieninformatik|Vanessa Kirchner (medieninformatik[ät]uni-tuebingen.de)|
 |Medizininformatik|Felix Sieghörtner (medizininformatik[ät]uni-tuebingen.de)|
 
