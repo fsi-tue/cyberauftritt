@@ -1,0 +1,23 @@
+name: Jekyll site CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the site
+      run: |
+        mkdir _site && chmod o+w _site Gemfile.lock # jekyll in the container has UID/GID 1000
+        docker run -v "${{ github.workspace }}:/srv/jekyll" jekyll/jekyll:3 \
+          jekyll build
+    - name: Check the hyperlinks via html-proofer
+      run: |
+        docker run -v "${{ github.workspace }}:/srv/jekyll" jekyll/jekyll:3 \
+          rake
+    - name: Upload the result (_site)
+      uses: actions/upload-artifact@v2
+      with:
+        name: site
+        path: _site/
