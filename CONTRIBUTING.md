@@ -56,7 +56,8 @@ bundle exec jekyll build && bundle exec htmlproofer --url-ignore https://www.bla
 
 #### Continous Integration
 
-Um kontinuierlich zu überprüfen, dass alle Verlinkungen zumindest existieren, nutzten wir [Travis](https://travis-ci.org/). Travis ist ein Online Dienst, der die oben genannten Befehle nach jedem push und für jeden Pull Request durchführt. Dies gibt uns die Sicherheit, dass Änderungen nichts kaputt machen. Die aktuelle Konfiguration findest du
-[hier](https://github.com/fsi-tue/cyberauftritt/blob/master/.travis.yml) und eine Übersicht der letzten Builds [hier](https://travis-ci.org/fsi-tue/cyberauftritt/).
+Um kontinuierlich zu überprüfen, dass alle Verlinkungen zumindest existieren, nutzten wir [GitHub Actions](https://github.com/features/actions). GitHub Actions ist ein Online Dienst, der die oben genannten Befehle nach jedem push und für jeden Pull Request durchführt. Dies gibt uns die Sicherheit, dass Änderungen nichts kaputt machen. Die aktuelle Konfiguration findest du
+[hier](https://github.com/fsi-tue/cyberauftritt/blob/master/.github/workflows/jekyll.yml) und eine Übersicht der letzten Builds [hier](https://github.com/fsi-tue/cyberauftritt/actions).
 
-Falls du das Repository geforkt hast, macht es unter Umständen Sinn, Travis auch für dein Repository zu aktivieren.
+GitHub Actions sollte nach dem Forken automatisch aktiv sein und kann somit
+bereits vor einem Pull Request genutzt werden um die Änderungen zu prüfen.

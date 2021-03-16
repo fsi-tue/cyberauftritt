@@ -20,4 +20,4 @@ end
 #   - The content may change too quickly, a lot of links are complicated, and
 #     some links might not be online yet or only available internally.
 # - https://useplaintext.email: Temporary exception (curl fails due to a missing intermediate certificate)
-# - https://twitter.com: Travis Getting '400 No error' codes when trying to access Twitter URLs
+# - https://twitter.com: CI (Travis) getting '400 No error' codes when trying to access Twitter URLs
