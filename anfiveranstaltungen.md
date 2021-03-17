@@ -7,22 +7,24 @@ Der Fachbereich begrüßt euch Erstis am 30.10.2020 komplett online. *Wo? Wann? 
 **Es ist empfohlen, dass ihr da teilnehmt.**
 
 ### Semesterbeginn
-Nach aktueller Lage beginnt das Semester - größtenteils digital - am 02. November 2020.
+Nach aktueller Lage beginnt das Semester - größtenteils digital - am 19. April 2021.
 Informationen zu einigen Vorlesungen findet man auf unser [Corona Info Seite](covid19/faq/).
 
 ### Anfibrief
 Den [Erstsemesterbrief](https://teri.fsi.uni-tuebingen.de/anfibrief/) solltet ihr einige Wochen vor dem Beginn eures Studiums erhalten haben. Er enthält wichtige Informationen und Tipps über euer Studium und unsere Erstsemesterveranstaltungen. Es gibt für jeden Studiengang einen eigenen Brief.
 
-### 19.10. - 30.10.2020: Mathematischer Vorbereitungskurs
+### 06.04. - 15.04.2021: Mathematischer Vorbereitungskurs
 Der Vorkurs bietet Euch eine Wiederholung des Schulstoffs und führt Euch in die Terminologie ein, die Ihr in euren Mathe-Vorlesungen wiederfinden werdet. Es ist nicht Pflicht daran teilzunehmen, aber sehr empfehlenswert. Nicht zuletzt lernt Ihr hier erste Freunde kennen!
 Der Vorkurs wird voraussichtlich vor Ort auf der Morgenstelle und auf dem Sand stattfinden.
-Falls ihr teilnehmen wollt, meldet euch unbedingt bis zum bis zum 14.10.2020 an. Die Anmeldung erfolgt über ein [Anmeldeformular](https://uni-tuebingen.de/de/91877) (auf dieser Seite findet ihr auch noch weitere Informationen). Nachdem ihr euch angemeldet habt bekommt ihr weitere Details, wie genau das Ganze abläuft.
+Falls ihr teilnehmen wollt, meldet euch unbedingt bis zum bis zum 31. März an. Die Anmeldung erfolgt über ein [Anmeldeformular](https://uni-tuebingen.de/de/91877) (auf dieser Seite findet ihr auch noch weitere Informationen). Nachdem ihr euch angemeldet habt bekommt ihr weitere Details, wie genau das Ganze abläuft.
 
 #### Vorkurs auch als voraufgenommene Videos
 Falls ihr nicht am Präsenzkurs teilnehmen könnt, gibt es auch bereits aufgenommene Videos zu allen behandelten Themen [hier](https://timms.uni-tuebingen.de/tp/UT_20180911_001_infmatvk_0001). Weitere Videos könnt ihr in der Seitenleiste finden. Der Präsenzkurs ist nicht nur angenehmer, ihr könnt ihr hier auch besser Kontakte knüpfen!
 
 ### Veranstaltungen der Fachschaft
 Mit Ausnahme des Mathematik-Vorkurses richten sich die Veranstaltungen auch an Masterstudenten, die neu nach Tübingen kommen. Ebenso sind auch alle Nebenfächler, Kognitionswissenschaftler und Informatik-Studiengänge ausdrücklich zu den genannten Veranstaltungen eingeladen!
+
+_Die Anmeldung zu den Veranstaltungen wird ab dem 20. März möglich sein._
 
 Bitte beachtet, dass aufgrund der erhöhten Inzidenz die Veranstaltungen mit weniger Menschen durchgeführt werden müssen. Aufgrund der hohen Nachfrage bitten wir euch, dass ihr euch nur für eine Veranstaltung anmeldet. 
 (Darüber hinaus behalten wir es uns vor Personen von Veranstaltungen auszuschließen, die bereits an einer anderen Präsenzveranstaltung teilgenommen haben.)
