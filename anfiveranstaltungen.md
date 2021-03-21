@@ -1,4 +1,4 @@
-# Anfiveranstaltungen Wintersemester 2020/21
+# Anfiveranstaltungen Sommersemester 2021
 
 *Bitte schaut immer wieder hier vorbei, um auf dem aktuellsten Stand zu sein.*
 
@@ -8,7 +8,7 @@ Der Fachbereich begrüßt euch Erstis am 30.10.2020 komplett online. *Wo? Wann? 
 
 ### Semesterbeginn
 Nach aktueller Lage beginnt das Semester - größtenteils digital - am 19. April 2021.
-Informationen zu einigen Vorlesungen findet man auf unser [Corona Info Seite](covid19/faq/).
+Informationen zum Online Semester findet man auf unser [Corona Info Seite](covid19/faq/).
 
 ### Anfibrief
 Den [Erstsemesterbrief](https://teri.fsi.uni-tuebingen.de/anfibrief/) solltet ihr einige Wochen vor dem Beginn eures Studiums erhalten haben. Er enthält wichtige Informationen und Tipps über euer Studium und unsere Erstsemesterveranstaltungen. Es gibt für jeden Studiengang einen eigenen Brief.
