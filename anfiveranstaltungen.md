@@ -1,9 +1,14 @@
+---
+toc: true
+
+---
+
 # Anfiveranstaltungen Sommersemester 2021
 
 *Bitte schaut immer wieder hier vorbei, um auf dem aktuellsten Stand zu sein.*
 
 ### Erstsemesterbegrüßung
-Der Fachbereich begrüßt euch Erstis am 30.10.2020 komplett online. *Wo? Wann? Wer?* Steht alles auf der [Seite vom Fachbereich](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studienbeginn/). Zoom-links etc. sind da auch zu finden.
+Der Fachbereich begrüßt euch Erstis am 16.04.2021 komplett online. *Wo? Wann? Wer?* Steht alles auf der [Seite vom Fachbereich](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studienbeginn/). Zoom-links etc. sind da auch zu finden.
 **Es ist empfohlen, dass ihr da teilnehmt.**
 
 ### Semesterbeginn
@@ -19,7 +24,7 @@ Der Vorkurs wird voraussichtlich vor Ort auf der Morgenstelle und auf dem Sand s
 Falls ihr teilnehmen wollt, meldet euch unbedingt bis zum bis zum 31. März an. Die Anmeldung erfolgt über ein [Anmeldeformular](https://uni-tuebingen.de/de/91877) (auf dieser Seite findet ihr auch noch weitere Informationen). Nachdem ihr euch angemeldet habt bekommt ihr weitere Details, wie genau das Ganze abläuft.
 
 #### Vorkurs auch als voraufgenommene Videos
-Falls ihr nicht am Präsenzkurs teilnehmen könnt, gibt es auch bereits aufgenommene Videos zu allen behandelten Themen [hier](https://timms.uni-tuebingen.de/tp/UT_20180911_001_infmatvk_0001). Weitere Videos könnt ihr in der Seitenleiste finden. Der Präsenzkurs ist nicht nur angenehmer, ihr könnt ihr hier auch besser Kontakte knüpfen!
+Falls ihr nicht am Präsenzkurs teilnehmen könnt, gibt es auch bereits aufgenommene [Videos zu allen behandelten Themen](https://timms.uni-tuebingen.de/tp/UT_20180911_001_infmatvk_0001). Weitere Videos könnt ihr in der Seitenleiste finden. Der Präsenzkurs ist nicht nur angenehmer, ihr könnt ihr hier auch besser Kontakte knüpfen!
 
 ### Veranstaltungen der Fachschaft
 Mit Ausnahme des Mathematik-Vorkurses richten sich die Veranstaltungen auch an Masterstudenten, die neu nach Tübingen kommen. Ebenso sind auch alle Nebenfächler, Kognitionswissenschaftler und Informatik-Studiengänge ausdrücklich zu den genannten Veranstaltungen eingeladen!
@@ -27,8 +32,8 @@ Mit Ausnahme des Mathematik-Vorkurses richten sich die Veranstaltungen auch an M
 _Die Anmeldung zu den Veranstaltungen wird ab dem 20. März möglich sein._
 
 Bitte beachtet, dass aufgrund der erhöhten Inzidenz die Veranstaltungen mit weniger Menschen durchgeführt werden müssen. Aufgrund der hohen Nachfrage bitten wir euch, dass ihr euch nur für eine Veranstaltung anmeldet. 
-(Darüber hinaus behalten wir es uns vor Personen von Veranstaltungen auszuschließen, die bereits an einer anderen Präsenzveranstaltung teilgenommen haben.)
-_Die Anmeldung zu den Veranstaltungen ist ab sofort [hier](https://eei.fsi.uni-tuebingen.de/) möglich._
+(Darüber hinaus behalten wir es uns vor Personen von Veranstaltungen auszuschließen, die bereits an einer anderen Präsenzveranstaltung teilgenommen haben.)<br>
+_Die [Anmeldung zu den Veranstaltungen ist im EEI](https://eei.fsi.uni-tuebingen.de/) ab sofort möglich._
 
 <!-- Um zum Sand 1/14 zu gelangen, fahrt Ihr mit der Linie 2 oder 6 bis zur Haltestelle "Sand Drosselweg", von dort ist der Weg zu den Veranstaltungen ausgeschildert. -->
 

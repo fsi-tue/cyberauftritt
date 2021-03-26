@@ -12,7 +12,7 @@ Hast du eine Frage, die hier nicht aufgelistet ist oder weitergehende Fragen? Sc
 
 ## Für 1. und 2. Semester
 
-Für Erstsemester haben wir ein [generelles Erstsemester-FAQ](https://www.fsi.uni-tuebingen.de//infos/anfi-faq) und die [Seite für Studienanfänger](https://www.fsi.uni-tuebingen.de/infos/studienanfaenger), welche interessant sein sollten. Außerdem eine Übersicht über die [Anfiveranstaltungen](https://www.fsi.uni-tuebingen.de/anfiveranstaltungen)
+Für Erstsemester haben wir ein [generelles Erstsemester-FAQ](https://www.fsi.uni-tuebingen.de//infos/anfi-faq) und die [Seite für Studienanfänger](https://www.fsi.uni-tuebingen.de/infos/studienanfaenger), welche interessant sein sollten. Außerdem eine Übersicht über die [Anfiveranstaltungen](https://www.fsi.uni-tuebingen.de/anfiveranstaltungen).
 
 **F: Was ist die Fachschaft?**<br>
 **A:** Kurz gefasst: *Wir sind eure ehrenamtliche Studierendenvertretung; sitzen in Gremien; organisieren Feste und was sonst so anfällt.* Dazu findet ihr auch unsere [Vorstellungspräsentation](https://sandbox.fsi.uni-tuebingen.de/~gilgamensch/FSI-Anfipraesentation.pdf).<br>

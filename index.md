@@ -6,13 +6,15 @@
 Eine FAQ zum aktuellen Status findest du [hier](/covid19/faq).
 
 ### Begrüßung der Erstsemester
-Unter der [Seite vom Fachbereich](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studienbeginn/) findet ihr Informationen zur Erstsemesterbegrüßung.
-Diese wird im übrigen am 30.10.2020 vollkommen online stattfinden. Zoom-Links etc. findet ihr auch auf der Seite.
+Unter der [Seite vom Fachbereich](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studienbeginn/) findet ihr zu gegebener Zeit Informationen zur Erstsemesterbegrüßung.
+Diese wird im übrigen am 16.04.2021 vollkommen online stattfinden. Zoom-Links etc. findet ihr auch auf der Seite.
 
 ### Informationen für Erstsemester
-Aktuelle Informationen, den Anfibrief und die Anmeldung zu den Veranstaltungen findest du [hier](/anfiveranstaltungen).
-Die Vorkursvideos findest du [hier](https://timms.uni-tuebingen.de/tp/UT_20180911_001_infmatvk_0001), das dazugehörige aktuelle Skript zum Mathevorkurs [hier](https://www.fsi.uni-tuebingen.de/attachments/20201018141504.3720.50142/part-1/Skript_Vorkurs-Mathematik_1bis6.pdf).
+Aktuelle Informationen, den Anfibrief und die Anmeldung zu den Veranstaltungen findet ihr auf der Unterseite [Anfiveranstaltungen](/anfiveranstaltungen).
 
+Videos zum mathematischen Vorkurs findet ihr auf der Uni-eigenen Streaming-Plattform [*timmscast*](https://timms.uni-tuebingen.de/tp/UT_20180911_001_infmatvk_0001), das dazugehörige aktuelle Skript zum Mathevorkurs könnt ihr euch [hier herunterladen](https://www.fsi.uni-tuebingen.de/attachments/20201018141504.3720.50142/part-1/Skript_Vorkurs-Mathematik_1bis6.pdf).
+
+Außerdem solltet ihr euch das [Corona FAQ](/covid19/faq) angucken.
 
 ---
 
