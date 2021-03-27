@@ -1,8 +1,3 @@
----
-toc: true
-
----
-
 # Anfiveranstaltungen Sommersemester 2021
 
 *Bitte schaut immer wieder hier vorbei, um auf dem aktuellsten Stand zu sein.*
