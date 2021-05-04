@@ -5,7 +5,7 @@ task default: %w[test]
 desc "Test the HTML files"
 task :test do
   options = { # Documentation: https://github.com/gjtorikian/html-proofer#configuration
-    :url_ignore => [/^https:\/\/www\.blablacar\.de/,/^https:\/\/useplaintext\.email/,/^https:\/\/www\.hih-tuebingen\.de/,/^https:\/\/www\.vhs-tuebingen\.de/,/^https:\/\/ppi\.fsi\.uni-tuebingen\.de/,/^https:\/\/twitter\.com/],
+    :url_ignore => [/^https:\/\/www\.blablacar\.de/,/^https:\/\/useplaintext\.email/,/^https:\/\/www\.hih-tuebingen\.de/,/^https:\/\/www\.vhs-tuebingen\.de/,/^https:\/\/ppi\.fsi\.uni-tuebingen\.de/,/^https:\/\/twitter\.com/,/^https:\/\/www\.kyb\.tuebingen\.mpg\.de/],
     :file_ignore => [/^_site\/covid19\/vorlesungen\/index\.html/,/^_site\/covid19\/faq\/index\.html/],
     # Specific documentation: https://github.com/gjtorikian/html-proofer#configuring-typhoeus-and-hydra
     :typhoeus => { :connecttimeout => 60, :timeout => 90 },
