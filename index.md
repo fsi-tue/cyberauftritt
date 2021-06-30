@@ -2,6 +2,9 @@
 
 ---
 ## *Aktuelle Informationen*
+## Impfung gegen COVID-19 für alle Studierenden
+Seit dieser Woche können sich *alle* Studierenden der Universität Tübingen direkt in der Universität impfen lassen. Termine gibt es innerhalb weniger Tage! Alle weiteren Informationen und den Link zur Buchung eines Termins findet ihr [hier](https://uni-tuebingen.de/universitaet/infos-zum-coronavirus/newsfullview-coronavirus/article/covid-impfungen-jetzt-in-der-universitaet/).
+
 ### COVID-19 FAQ
 Eine FAQ zum aktuellen Status findest du [hier](/covid19/faq).
 
