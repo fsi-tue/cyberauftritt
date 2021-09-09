@@ -2,6 +2,9 @@
 
 ---
 ## *Aktuelle Informationen*
+## Impfung gegen COVID-19 für alle Studierenden
+Seit dieser Woche können sich *alle* Studierenden der Universität Tübingen direkt in der Universität impfen lassen. Termine gibt es innerhalb weniger Tage! Alle weiteren Informationen und den Link zur Buchung eines Termins findet ihr [hier](https://uni-tuebingen.de/universitaet/infos-zum-coronavirus/newsfullview-coronavirus/article/covid-impfungen-jetzt-in-der-universitaet/).
+
 ### COVID-19 FAQ
 Eine FAQ zum aktuellen Status findest du [hier](/covid19/faq).
 
@@ -92,7 +95,7 @@ Ihr habt ein Anliegen, das sich durch Informationen der Uni und der Fachschaft n
 - [Zentrale Studienberatung](https://uni-tuebingen.de/de/8930)
 - [Psychologische Beratungsstelle des Studierendenwerks](https://www.my-stuwe.de/beratung-soziales/psychotherapeutische-beratung/)
 
-Weitere Informationen findet ihr auch auf den offiziellen Seiten der Uni zum Thema [Beratung bei Schwierigkeiten im Studienverlauf](https://uni-tuebingen.de/studium/beratung-und-info/zentrale-studienberatung/themen-der-beratung/schwierigkeiten-im-studienverlauf/).
+Weitere Informationen findet ihr auch auf den offiziellen Seiten der Uni zum Thema [Beratung bei Schwierigkeiten im Studienverlauf](https://uni-tuebingen.de/studium/beratung-und-info/zentrale-studienberatung/angebote-fuer-studierende/individuelle-beratung/schwierigkeiten-im-studienverlauf/).
 
 ## Kontakt für Firmen
 Sie möchten im Namen Ihres Unternehmens Stellenanzeigen über unsere Verteiler senden? Bitte verwenden sie **nicht** unsere offizielle E-Mail-Adresse, Ihr Stellenangebot kann sonst nicht bearbeitet werden. Sie finden alle relevanten Informationen unter [Kontakt für Unternehmen](infos/unternehmen).
