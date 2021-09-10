@@ -88,7 +88,7 @@ In der Regel solltet ihr eure Prüfungsanmeldung über CAMPUS bzw. alma erledige
 Wenn dies der Fall ist, müsst ihr euch auf den alten, analogen Weg mit einem Formular bei eurem Prüfungssekretariat anmelden. Hierfür braucht ihr die Modulnummer (INFxxx/MEINFxxx etc.), den Modulnamen und den Prüfer. Falls es um Wahlpflichtbereiche geht, müsst ihr zusätzlich angeben in welchem Bereich die Veranstaltung angerechnet werden soll.
 
 - [Formulare des Fachbereichs](https://uni-tuebingen.de/de/74351)
-- [Prüfungssekretariate](https://uni-tuebingen.de/de/74384) - alle Sekretariate haben Briefkästen, je nach Sekretariat sehr zu empfehlen.
+- [Prüfungssekretariate](https://uni-tuebingen.de/de/214849) - alle Sekretariate haben Briefkästen, je nach Sekretariat sehr zu empfehlen.
 
 **Achtung!** Die Prüfungsanmeldung beim Prüfungssekretariat ist vollkommen unabhängig von der Anmeldung der Veranstaltung, die Ihr über moodle/ILIAS/etc. am Anfang des Semesters macht. Nur weil ihr für den Übungsbetrieb einer Veranstaltung angemeldet seid, seid ihr nicht automatisch für die Prüfung angemeldet!
 

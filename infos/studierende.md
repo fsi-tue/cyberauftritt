@@ -10,7 +10,7 @@ Euer Studium wird durch das Modulhandbuch und die darin abgebildeten Studienplä
 # Prüfungsanmeldung
 In der Informatik wird unter "Anmeldung" einer Veranstaltung allgemein die Anmeldung zur jeweiligen Klausur bzw. Abschlussprüfung verstanden. In diversen Tal-Studiengängen müssen Veranstaltungen u.U. bereits vor Semesterbeginn "belegt" werden, diese Regelung existiert in der Info nicht. Geht in die erste Vorlesung, dort wird der organisatorische Teil mit ILIAS, moodle und Co. erklärt. Wenn ihr die Prüfung in der Veranstaltung ablegen wollt, müsst ihr euch zur Prüfung anmelden.
 
-Die Anmeldung zu Prüfungen ist thematisch ein Dauerbrenner, daher hier die wichtigsten Infos in Kurzform. Im Zweifelsfall hilft euch euer [Prüfungssekretariat](https://uni-tuebingen.de/de/74384) weiter.
+Die Anmeldung zu Prüfungen ist thematisch ein Dauerbrenner, daher hier die wichtigsten Infos in Kurzform. Im Zweifelsfall hilft euch euer [Prüfungssekretariat](https://uni-tuebingen.de/de/214849) weiter.
 
 ## Prüfungsprotokolle
 Altklausuren und Prüfungsprotokolle lassen sich im [Prüfungsprotokolleinterface](https://ppi.fsi.uni-tuebingen.de/), kurz PPI, finden. Hier sammelt die Fachschaft Informatik seit vielen Jahren Gedächtnisprotokolle von Klausuren. Inzwischen kommen wir in unserem Protokollearchiv auf etwa 2100 Klausuren und decken damit mehr als 250 verschiedene Vorlesungen ab. Selbstverständlich darf jeder Student diese Protokolle bei uns ausleihen! Das PPI findet ihr [hier](https://ppi.fsi.uni-tuebingen.de/) und gesondertes FAQ [hier](https://ppi.fsi.uni-tuebingen.de/?id=hilfe)
@@ -72,6 +72,6 @@ Als Student der Informatik erhaltet ihr einiges an Software kostenlos. Wir möch
 
 * Office 365 ProPlus (inklusive Windows 10 Education) bei [Bildung365](https://bildung365.de)
 * SAS JMP und MATLAB sind über das [Campus Software-Portal](https://campussoftware.zdv.uni-tuebingen.de/) des ZDV erhältlich
-* Sämtliche Produkte von Autodesk (EAGLE, Fusion 360, 3D Studio Max etc.) sind für [Studenten kostenlos](https://www.autodesk.de/education/free-educational-software).
+* Sämtliche Produkte von Autodesk (EAGLE, Fusion 360, 3D Studio Max etc.) sind für [Studenten kostenlos](https://www.autodesk.de/education/home).
 * Bei GitHub erhaltet ihr als Student alle Premium-Features kostenlos und erhaltet weitere Software. [GitHub Education](https://education.github.com/pack)
 * JetBrains-Produkte (IntelliJ, PyCharm etc.) sind in der Professional-Version für Studenten kostenlos (Anmeldung mit der studentischen Mailadresse, Account muss jedes Jahr verlängert werden). [JetBrains Student](https://www.jetbrains.com/student/)
