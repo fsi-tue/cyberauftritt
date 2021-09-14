@@ -2,15 +2,17 @@
 
 ---
 ## *Aktuelle Informationen*
-## Impfung gegen COVID-19 für alle Studierenden
-Seit dieser Woche können sich *alle* Studierenden der Universität Tübingen direkt in der Universität impfen lassen. Termine gibt es innerhalb weniger Tage! Alle weiteren Informationen und den Link zur Buchung eines Termins findet ihr [hier](https://uni-tuebingen.de/universitaet/infos-zum-coronavirus/newsfullview-coronavirus/article/covid-impfungen-jetzt-in-der-universitaet/).
+
+### Neue Prüfungsordnung ab dem Wintersemester 2021
+Ab dem WS21/22 ist für Studienanfänger eine neue Prüfungsordnung in Kraft. Für Studierende die vor dem 
+WS21 mit dem Studium begonnen haben ist vielleicht [diese Informationsseite](infos/po-ws21) interessant.
 
 ### COVID-19 FAQ
 Eine FAQ zum aktuellen Status findest du [hier](/covid19/faq).
 
 ### Begrüßung der Erstsemester
 Unter der [Seite vom Fachbereich](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studienbeginn/) findet ihr zu gegebener Zeit Informationen zur Erstsemesterbegrüßung.
-Diese wird im übrigen am 16.04.2021 vollkommen online stattfinden. Zoom-Links etc. findet ihr auch auf der Seite.
+<!--Diese wird im übrigen am 16.04.2021 vollkommen online stattfinden. Zoom-Links etc. findet ihr auch auf der Seite.-->
 
 ### Informationen für Erstsemester
 Aktuelle Informationen, den Anfibrief und die Anmeldung zu den Veranstaltungen findet ihr auf der Unterseite [Anfiveranstaltungen](/anfiveranstaltungen).
@@ -86,7 +88,7 @@ In der Regel solltet ihr eure Prüfungsanmeldung über CAMPUS bzw. alma erledige
 Wenn dies der Fall ist, müsst ihr euch auf den alten, analogen Weg mit einem Formular bei eurem Prüfungssekretariat anmelden. Hierfür braucht ihr die Modulnummer (INFxxx/MEINFxxx etc.), den Modulnamen und den Prüfer. Falls es um Wahlpflichtbereiche geht, müsst ihr zusätzlich angeben in welchem Bereich die Veranstaltung angerechnet werden soll.
 
 - [Formulare des Fachbereichs](https://uni-tuebingen.de/de/74351)
-- [Prüfungssekretariate](https://uni-tuebingen.de/de/74384) - alle Sekretariate haben Briefkästen, je nach Sekretariat sehr zu empfehlen.
+- [Prüfungssekretariate](https://uni-tuebingen.de/de/214849) - alle Sekretariate haben Briefkästen, je nach Sekretariat sehr zu empfehlen.
 
 **Achtung!** Die Prüfungsanmeldung beim Prüfungssekretariat ist vollkommen unabhängig von der Anmeldung der Veranstaltung, die Ihr über moodle/ILIAS/etc. am Anfang des Semesters macht. Nur weil ihr für den Übungsbetrieb einer Veranstaltung angemeldet seid, seid ihr nicht automatisch für die Prüfung angemeldet!
 

@@ -6,7 +6,7 @@ toc: true
 
 # Covid-19 FAQ
 
-Die Corona-Pandemie hält weiter an und damit sind mittlerweile drei Online-Semester ins Land gezogen, deshalb hier eine Seite mit den Erfahrungen die wir gemacht haben.
+Die Corona-Pandemie hält weiter an und damit sind mittlerweile vier Online-Semester ins Land gezogen (verdammt viel Zeit...), deshalb hier eine Seite mit den Erfahrungen die wir gemacht haben.
 
 Hast du eine Frage, die hier nicht aufgelistet ist oder weitergehende Fragen? Schreib' uns doch ne [Mail](mailto:fsi@fsi.uni-tuebingen.de)!
 
@@ -21,24 +21,28 @@ Die lange Version findet ihr auf der Seite [Über Uns](https://www.fsi.uni-tuebi
 **F: Welche Vorlesungen muss ich hören?**<br>
 **A:** Das hängt von deinem Studiengang ab. Schau am besten im passenden [Beispielstudienplan](https://uni-tuebingen.de/de/176487) was dran wäre.<br>
 Studienanfänger aus dem Sommersemester beginnen in den Plänen bei *Semester 2*. Springen dann zu *1*. Dann *3*. Und ab hier kann extrapoliert werden.<br>
-Alle Studiengänge sollten aber im SoSe 21 folgenden Vorlesungen hören:
-* [**Informatik 2** bei Prof. Grust](https://db.inf.uni-tuebingen.de/teaching/Informatik2SS2021.html)
-    - Inhalt der VL ist imperative Programmierung mit der Lehrsprache C0
-    - Die Vorlesung wird als Video auf YouTube hochgeladen
-    - Wöchentliche Codeabgaben passieren auf der Plattform Infomark
-    - Es gibt ein Diskussionsforum UND einen Discord Server
-    - Übungsgruppen und Fragestunden finden per Videokonferenz statt
-* [**Mathematik für Informatiker 2** bei Prof. Ochs](https://mop.math.uni-tuebingen.de/teaching/MFI2/index.shtml)
+<span style="color:red">Ab diesem Wintersemester gibt es eine neue Prüfungsordnung für
+Erstsemester. Informationen dazu findet ihr in den neuen
+[Prüfungsordnungen](https://uni-tuebingen.de/de/176499).</span><br>
+Alle Studienanfänger zum Wintersemester 21 sollten folgenden Vorlesungen hören:
+* [**Praktische Informatik 1: Deklarative Programmierung** bei Prof. Ostermann](http://ps.informatik.uni-tuebingen.de/teaching/ws21/info1/)
+    - Auch oft umgangssprachlich: Info 1, Informatik 1
+    - Inhalt der VL ist funktionale Programmierung mit der Lehrsprache Racket
+    - Es gibt wöchentliche Codeabgaben 
+    <!--- Es gibt ein Diskussionsforum UND einen Discord Server-->
+    <!--- Übungsgruppen und Fragestunden finden per Videokonferenz statt -->
+* [**Mathematik für Informatik 1: Analysis** bei Prof. Ochs](https://mop.math.uni-tuebingen.de/teaching.shtml)
+    - Auch oft: Mathe 1, Mathematik 1 für die Informatik, MfI1
 
 Weitere Grundvorlesungen die in einigen Studiengängen gehört werden sollen:
-* [**Informatik der Systeme** bei Prof. Menth](https://uni-tuebingen.de/de/204885)
+* **Technische Informatik 1: Digitaltechnik** bei Prof. Bringmann
+    - Ehemals **Einführung in die Technische Informatik**, ETI
 
-Allgemein gilt jedoch: Niemand zwingt euch, diesen Plan genau zu befolgen! Wichtig ist nur, dass ihr sämtliche Pflichtveranstaltungen gehört habt und eure Wahlpflichtbereiche mit passenden [Modulen](https://uni-tuebingen.de/de/74348) befüllt.
+Allgemein gilt jedoch: Niemand zwingt euch, diesen Plan genau zu befolgen! Wichtig ist nur, dass ihr sämtliche Pflichtveranstaltungen gehört habt und eure Wahlpflichtbereiche mit passenden [Modulen](https://uni-tuebingen.de/de/74348) (die neue PO ist auf der Seite noch nicht umgesetzt) befüllt.
 
 **F: Wie stelle ich Kontakt mit anderen Studenten her?**<br>
 **A:** Das gestaltet sich in einem Corona-Semester als relativ schwierig. Aber ein guter Anfang ist bei unserern [Anfiveranstaltungen](https://www.fsi.uni-tuebingen.de/anfiveranstaltungen) vorbei zu schauen und sich auf dem studentischen [Discord-Server](https://discord.gg/d4X2WjHWmQ) anzumelden.<br>
-Am Besten schreibt im Channel `#bot-talk` direkt `?rank <Erstsemester|Zweitsemester>` und `?rank <Bachelor|Master>` `?rank <Studiengang>`
-<!--Ansonsten findet auf diesem Discord in den ersten zwei Wochen Mittwochs (?) ein Übungspartner/-gruppen Speed-Dating statt. (?)-->
+Am Besten wählt ihr im Kanal `#rollenzuweisung` euren Studiengang und euer Semester.
 
 **F: Gibt es Informationsquellen für das Studentendasein in Tübingen?**<br>
 **A:** Gute Frage. Wir haben jedenfalls einen [Anfibrief](https://teri.fsi.uni-tuebingen.de/anfibrief/), der jedem Erstsemester zugeschickt worden sein sollte und euch über die erste Woche hinweg hilft. Zusätzlich haben wir das [Anfiheft](https://teri.fsi.uni-tuebingen.de/anfiheft/anfiheft-info.pdf), das die wichtigsten Dinge für das Leben als Student in Tübingen auffasst. In diesem findet sich auch das [Kneipen- und Kultur-Interface](https://kki.fsi.uni-tuebingen.de) abgedruckt, in dem wir versuchen alle Kneipen und Lokale zu katalogisieren.
@@ -59,12 +63,13 @@ Darunter befindet sich die **`info-studium`**-Mailingliste. <br>
 * [Moodle](https://moodle.zdv.uni-tuebingen.de) und [Ilias](https://ovidius.uni-tuebingen.de) sind *Kursplattformen*. Auf ihnen liegen unter dem Semester Materialien zur jeweiligen Veranstaltung. Von Vorlesungsfolien, zu Übungsblättern und Foren zum Austausch findet ihr dort alles was der jeweilige Prof dort ablegen will.
     * Eine Anmeldung auf einer *Kursplattform* und die Anmeldung der *Prüfung* über Alma sind zwei verschiedene Dinge! I.d.R. müsst ihr euch am Anfang der jeweiligen Veranstaltung auf der Kursplattform anmelden. Die Prüfung meldet ihr erst an, wenn ihr sicher seid, dass ihr die Klausur mitschreiben wollt.
 * Die letzten beiden sind nur für Erst-/Zweitsemester interessant.
-    * Infomark ist die Plattform, auf der die Code-Abgaben hochgeladen werden und eure Tutoren eure Abgaben bewerten.
-    * Das Forum ist ein *Messageboard* des durchführenden Lehrstuhls, um Informationen zur Vorlesung Informatik 2 auszutauschen.
+    <!--* Infomark ist die Plattform, auf der die Code-Abgaben hochgeladen werden und eure Tutoren eure Abgaben bewerten.-->
+    * Das Forum ist ein *Messageboard* des durchführenden Lehrstuhls, um Informationen zur Vorlesung Informatik 1 auszutauschen.
 
 **F: Was ist Vorlesung XY? Wo bekomme ich Informationen?**<br>
 **A:** Die drei Stufen der Informationsgewinnung:
 1. Schaue im [Beispielstudienplan](https://uni-tuebingen.de/de/176487) oder dem [Anfiheft](https://teri.fsi.uni-tuebingen.de/anfiheft/anfiheft-info.pdf), welche Veranstaltung du in deinem momentanen Fachsemester belegen könntest.
+   <span style="color:red">Für die Prüfungsordnung WS 21 unterscheidet sich an einigen Stellen etwas zur früheren PO.</span>
 2. Finde auf [Alma](https://alma.uni-tuebingen.de) unter `"Mein Studium" -> "Studienplaner mit Modulplan"` die Veranstaltung und gehe auf ihre Seite.
 3. a) *ENTWEDER* steht auf dieser Seite alles im Infokasten *ODER* (wahrscheinlicher) ein Link zu einem Moodle/Ilias-Kurs oder der Veranstaltungsseite.<br>
    b) *FALLS NICHT* steht da der verantworliche Professor. *DANN* auf dessen [Lehrstuhl-Seite](https://uni-tuebingen.de/de/14097) den Reiter `Lehre/Teaching` ausfindig machen und dort die Informationen suchen.
@@ -73,7 +78,7 @@ Darunter befindet sich die **`info-studium`**-Mailingliste. <br>
 **A:** Das hängt vollkommen vom Prof. ab. Ob asynchron per Video auf YouTube/[Timms](https://timms.uni-tuebingen.de)/sonstwo oder synchron live auf *timmscast*/Zoom/BigBlueButton/etc. liegt allein in der Hand des Dozenten. Auch ob eine Vorlesung aufgezeichnet wird oder nicht liegt allein in der Hand des Dozenten. Wir haben hierauf keinen Einfluss.
 
 **F: Wie sieht das mit Tutorien/Übungsgruppen aus?**<br>
-**A:** Übungsgruppen finden weiterhin statt. Meist per Videokonferenz über Zoom oder BigBlueButton. Vielleicht gibt es Präsenztutorien. Ob diese stattfinden, hängt aber von den Infektionszahlen, der erwarteten Gruppengröße und den verfügbaren Räumen ab.
+**A:** Übungsgruppen finden weiterhin statt. Meist per Videokonferenz über Zoom oder BigBlueButton. Vielleicht gibt es Präsenztutorien. Ob diese stattfinden, hängt aber von den Infektionszahlen, der erwarteten Gruppengröße und den verfügbaren Räumen ab. In jeden Fall werden dort Veranstaltungen für Erst-/Zweitsemester bevorzugt.
 
 **F: Was ist notwendiges Equipment für ein Online-Semester?**<br>
 **A:** Unserer Erfahrung nach ist es wichtig folgende Dinge für Videokonferenzen zu haben:
@@ -84,12 +89,12 @@ Darunter befindet sich die **`info-studium`**-Mailingliste. <br>
     * Die Uni Dresden hat ein gutes [Handbuch für Webkonferenzen](https://tu-dresden.de/studium/vor-dem-studium/uni-testen/uni-live/hinweise-zu-den-video-chats#section-1)
 
 **F: Gibt es dieses Semester Veranstaltungen von der Fachschaft?**<br>
-**A:** Ja! Jedenfalls haben wir jeden Donnerstag um 18:30 unsere Sitzung [hier](https://bbb.fsi.uni-tuebingen.de/b/luk-v3t-dvk) und danach ein gemütliches Beisammensitzen in unserem [virtuellen Fachschaftszimmer](https://bbb.fsi.uni-tuebingen.de/b/ale-add-dne-tyr).<br>
-Darüber hinaus planen wir Online-Spieleabende auf dem [studentischen Discord](https://discord.gg/d4X2WjHWmQ). Die genauen Termine entnehmt ihr dem Kalender in der Seitenleiste <!-- Seeeitenleiste! Leeecker lecker lecker! --> oder [hier](https://cloud.fsi.uni-tuebingen.de/index.php/apps/calendar/p/e8wPTX4TBpCNpb7W/FSI).
+**A:** Ja! Jedenfalls haben wir jeden Donnerstag um 18:30 unsere Sitzung [digital](https://bbb.fsi.uni-tuebingen.de/b/luk-v3t-dvk) oder in Präsenz (Sand 14, C125). Sollte aber ggf. im Kalender stehen. Danach gibt es meist ein gemütliches Beisammensitzen in unserem [virtuellen Fachschaftszimmer](https://bbb.fsi.uni-tuebingen.de/b/ale-add-dne-tyr) oder im echten FSI Zimmer (Sand 14, C125).<br>
+Darüber hinaus planen wir Online-Spieleabende auf dem [studentischen Discord](https://discord.gg/d4X2WjHWmQ). Die genauen Termine entnehmt ihr dem Kalender in der Seitenleiste <!-- Seeeitenleiste! Leeecker lecker lecker! --> oder [hier](https://cloud.fsi.uni-tuebingen.de/index.php/apps/calendar/p/e8wPTX4TBpCNpb7W/FSI). Mit etwas Glück gibt es sogar ein Clubhausfest.
 <!--Auch gibt es ein ...-->
 
 **F: Wie kann ich mich mit meinen Kommilitonen austauschen**<br>
-Wir betreiben zusammen mit einem eurer Kommilitonen einen [Discord Server](https://discord.gg/d4X2WjHWmQ), auf dem Ihr euch treffen könnt. Besonders bei den Spieleabenden (da können auch problemlos ein/zwei/viele Bier daneben stehen).
+Wir betreiben zusammen mit einem eurer Kommilitonen einen [Discord Server](https://discord.gg/d4X2WjHWmQ), auf dem Ihr euch treffen könnt. Besonders bei den Spieleabenden (da können auch problemlos ein/zwei/viele Bier daneben stehen), kann auch in Präsenz stattfinden.
 
 **F: Wie geht man bei einem gesamten Tag Online-Vorlesung nicht ein?**<br>
 **A:** So blöd es klingt: Gewöhnt euch dran. Ihr seid Informatiker, das wird nach dem Studium nicht anders sein. <br>

@@ -99,7 +99,7 @@ Gut und preiswert Frühstücken kann man im Stern (Lange Gasse). Von ca. 9 - 13 
 ### Mittagessen
 
 
-  * [Mensen des Studentenwerk Tübingen](https://www.my-stuwe.de/cms/23/1/1/cat/Speiseplaene.html)
+  * [Mensen des Studentenwerk Tübingen](https://www.my-stuwe.de/mensa/)
     Besonders empfehlenswert ist die Prinz Karl Mensa, die zwar auch das Stammessen der Mensa bekommt, sonst wird aber selbst gekocht. Die allermeisten werden trotzdem in der Mensa Morgenstelle essen gehen.
   * Ist man bereit etwas mehr als 4 Euro auszugeben, so zeigt sich Tübingen als Mittagessenparadies. Fast jedes Lokal bietet einen Mittagstisch.
 
@@ -124,7 +124,7 @@ eigener Erfahrung):
 
 Ganz Tübingen ist übersät mit Wohnheimen; welches das richtige für euch
 ist, hängt von euch ab. Es gibt alle Varianten - alte, neue,
-alternative, konservative, günstige, teure, etc. [Übersicht über die Wohnheime des Studentenwerk](https://www.my-stuwe.de/cms/front_content.php?idart=37)
+alternative, konservative, günstige, teure, etc. [Übersicht über die Wohnheime des Studentenwerk](https://www.my-stuwe.de/wohnen/wohnheime-tuebingen/)
 
   - **Fichtenweg im WHO (Waldhäuser Ost)** liegt genau zwischen
     Morgenstelle und Sand. Da wohnen \~ 1500 Leute. Sehr positiv sind
@@ -157,7 +157,7 @@ alternative, konservative, günstige, teure, etc. [Übersicht über die Wohnheim
 
 Die Anmeldung für einen Wartelistenplatz beim Studentenwerk sollte bis
 zum 15.7. für das WS stattfinden. Weitere Infos findest du
-[hier](https://www.my-stuwe.de/cms/front_content.php?idart=37) (auch eine
+[hier](https://www.my-stuwe.de/wohnen/online-bewerbung/) (auch eine
 Liste der Lage der Häuser, uvm.). Sollten alle Stränge reißen, bleiben
 immer noch Verbindungen: Auch hier gibt es mehr und weniger schlagende,
 krasse, konservative, etc.. Schau einfach mal in
@@ -174,7 +174,7 @@ anderen kurzfristigen Wohnmöglichkeit einzumieten und zu suchen.
 
 ## BAFöG
 
-[Info-Broschüre](https://www.bmbf.de/upload_filestore/pub/Ich_BafoeG_meine_Zukunft.pdf) des
+[Info-Webseite](https://www.bafög.de) des
 [Bundesministerium für Bildung und Forschung](https://www.bmbf.de/).
 
 ## Kindergeld
