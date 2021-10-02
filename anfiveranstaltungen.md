@@ -3,7 +3,7 @@
 *Bitte schaut immer wieder hier vorbei, um auf dem aktuellsten Stand zu sein.*
 
 ### Erstsemesterbegrüßung
-Der Fachbereich begrüßt euch Erstis am **TBA**<!--16.04.2021 komplett online-->. *Wo? Wann? Wer?* Steht alles auf der [Seite vom Fachbereich](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studienbeginn/). Zoom-links etc. sollten bei Zeiten dort zu finden sein.
+Der Fachbereich begrüßt euch Erstis am *Freitag 15.10.2021* komplett online. *Wo? Wann? Wer?* Steht alles auf der [Seite vom Fachbereich](https://uni-tuebingen.de/de/197639). Zoom-links etc. sollten bei Zeiten dort zu finden sein.
 **Es ist empfohlen, dass ihr da teilnehmt.**
 
 ### Semesterbeginn
@@ -24,11 +24,11 @@ Falls ihr nicht am Präsenzkurs teilnehmen könnt, gibt es auch bereits aufgenom
 ### Veranstaltungen der Fachschaft
 Mit Ausnahme des Mathematik-Vorkurses richten sich die Veranstaltungen auch an Masterstudenten, die neu nach Tübingen kommen. Ebenso sind auch alle Nebenfächler, Kognitionswissenschaftler und Informatik-Studiengänge ausdrücklich zu den genannten Veranstaltungen eingeladen!
 
-_Die Anmeldung zu den Veranstaltungen wird demnächst möglich sein._
+_Die Anmeldung zu den Veranstaltungen ist bereits möglich, bzw. wird demnächst möglich sein._
 
 Bitte beachtet, dass aufgrund der Corona Pandemie die Veranstaltungen mit weniger Menschen durchgeführt werden müssen. Aufgrund der hohen Nachfrage bitten wir euch, dass ihr euch nach Möglichkeit nur für eine Veranstaltung anmeldet. 
 (Darüber hinaus behalten wir es uns vor Personen von Veranstaltungen auszuschließen, die bereits an einer anderen Präsenzveranstaltung teilgenommen haben.)<br>
-<!--_Die [Anmeldung zu den Veranstaltungen ist im EEI](https://eei.fsi.uni-tuebingen.de/) ab sofort möglich._-->
+_Die [Anmeldung zu den Veranstaltungen ist im EEI](https://eei.fsi.uni-tuebingen.de/) ab sofort möglich._
 
 <!-- Um zum Sand 1/14 zu gelangen, fahrt Ihr mit der Linie 2 oder 6 bis zur Haltestelle "Sand Drosselweg", von dort ist der Weg zu den Veranstaltungen ausgeschildert. -->
 
