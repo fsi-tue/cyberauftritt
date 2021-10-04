@@ -32,10 +32,12 @@ Alle Studienanfänger zum Wintersemester 21 sollten folgenden Vorlesungen hören
     <!--- Es gibt ein Diskussionsforum UND einen Discord Server-->
     <!--- Übungsgruppen und Fragestunden finden per Videokonferenz statt -->
 * [**Mathematik für Informatik 1: Analysis** bei Prof. Ochs](https://mop.math.uni-tuebingen.de/teaching.shtml)
+    - [Moodle Kurs](https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=2078)
+    - Themen sind unter anderem Logik, Boolsche Algebra, Beweisen, ...
     - Auch oft: Mathe 1, Mathematik 1 für die Informatik, MfI1
 
 Weitere Grundvorlesungen die in einigen Studiengängen gehört werden sollen:
-* **Technische Informatik 1: Digitaltechnik** bei Prof. Bringmann
+* [**Technische Informatik 1: Digitaltechnik** bei Prof. Bringmann](https://embedded.uni-tuebingen.de/teaching/ws21/technische-informatik-1-digitaltechnik/)
     - Ehemals **Einführung in die Technische Informatik**, ETI
 
 Allgemein gilt jedoch: Niemand zwingt euch, den Beispielstudienplan genau zu befolgen! Wichtig ist nur, dass ihr sämtliche Pflichtveranstaltungen gehört habt und eure Wahlpflichtbereiche mit passenden Modulen ([PO 2015](https://uni-tuebingen.de/de/135397), [PO 2021](https://uni-tuebingen.de/de/216966)) befüllt.
