@@ -42,6 +42,14 @@ Weitere Grundvorlesungen die in einigen Studiengängen gehört werden sollen:
 
 Allgemein gilt jedoch: Niemand zwingt euch, den Beispielstudienplan genau zu befolgen! Wichtig ist nur, dass ihr sämtliche Pflichtveranstaltungen gehört habt und eure Wahlpflichtbereiche mit passenden Modulen ([PO 2015](https://uni-tuebingen.de/de/135397), [PO 2021](https://uni-tuebingen.de/de/216966)) befüllt.
 
+**F: Wie melde ich mich für eine Veranstaltung an?**
+**A:** Gar nicht. Beziehungsweise nicht so richtig. Bei uns meldet man sich nicht auf Alma
+für eine Veranstaltung an. Alma wird erst für die Prüfung am Ende des Semesters relevant.
+Erst dann muss man sich dort für die Klausur anmelden.<br>
+Ansonsten ist es deine Aufgabe einen Ilias/Moodle Kurs zu finden und dich dort anzumelden.
+Für mehr, siehe die Frage *Was ist Vorlesung XY? Wo bekomme ich Informationen?* weiter
+unten.
+
 **F: Wie stelle ich Kontakt mit anderen Studenten her?**<br>
 **A:** Das gestaltet sich in einem Corona-Semester als relativ schwierig. Aber ein guter Anfang ist bei unserern [Anfiveranstaltungen](https://www.fsi.uni-tuebingen.de/anfiveranstaltungen) vorbei zu schauen und sich auf dem studentischen [Discord-Server](https://discord.gg/d4X2WjHWmQ) anzumelden.<br>
 Am Besten wählt ihr im Kanal `#rollenzuweisung` euren Studiengang und euer Semester.
