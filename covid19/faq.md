@@ -84,12 +84,12 @@ Darunter befindet sich die **`info-studium`**-Mailingliste. <br>
 3. a) *ENTWEDER* steht auf dieser Seite alles im Infokasten *ODER* (wahrscheinlicher) ein Link zu einem Moodle/Ilias-Kurs oder der Veranstaltungsseite.<br>
    b) *FALLS NICHT* steht da der verantworliche Professor. *DANN* auf dessen [Lehrstuhl-Seite](https://uni-tuebingen.de/de/14097) den Reiter `Lehre/Teaching` ausfindig machen und dort die Informationen suchen.
 
-**F: Welches Format (Live(Hybrid/Zoom/Videos/...) haben die Veranstaltungen**<br>
+<!--**F: Welches Format (Live(Hybrid/Zoom/Videos/...) haben die Veranstaltungen**<br>
 **A:** Das hängt vollkommen vom Prof. ab. Falls es einen Live-Anteil gibt, herzlichen Glückwunsch. Nehmt den wahr!<br>
-Für alle anderen. Ob asynchron per Video auf YouTube/[Timms](https://timms.uni-tuebingen.de)/sonstwo oder synchron live auf *timmscast*/Zoom/BigBlueButton/etc. liegt allein in der Hand des Dozenten. Auch ob eine Vorlesung aufgezeichnet wird oder nicht liegt allein in der Hand des Dozenten. Wir haben hierauf keinen Einfluss.
+Für alle anderen. Ob asynchron per Video auf YouTube/[Timms](https://timms.uni-tuebingen.de)/sonstwo oder synchron live auf *timmscast*/Zoom/BigBlueButton/etc. liegt allein in der Hand des Dozenten. Auch ob eine Vorlesung aufgezeichnet wird oder nicht liegt allein in der Hand des Dozenten. Wir haben hierauf keinen Einfluss.-->
 
 **F: Wie sieht das mit Tutorien/Übungsgruppen aus?**<br>
-**A:** Übungsgruppen finden statt. Meist per Videokonferenz über Zoom oder BigBlueButton. Vielleicht gibt es Präsenztutorien. Wie diese stattfinden, hängt aber von den Infektionszahlen, der erwarteten Gruppengröße und den verfügbaren Räumen ab. In jeden Fall werden dort Veranstaltungen für Erst-/Zweitsemester bevorzugt.
+**A:** Übungsgruppen finden statt. Wie diese stattfinden, hängt aber von den Infektionszahlen, der erwarteten Gruppengröße und den verfügbaren Räumen ab. In jeden Fall werden dort Veranstaltungen für Erst-/Zweitsemester bevorzugt.
 
 **F: Was ist notwendiges Equipment für ein Online-Semester?**<br>
 **A:** Unserer Erfahrung nach ist es wichtig folgende Dinge für Videokonferenzen zu haben:
@@ -113,8 +113,9 @@ Ansonsten: Einen Ausgleich finden und währenddessen Pausen machen und lüften. 
 Und: Besorgt euch einen bequemen, anständigen Schreibtischstuhl! Euer Rücken wird es euch danken.
 
 **F: Wie sehen Klausuren in einem Corona-Semester aus?**<br>
-**A:** Wir haben mittlerweile verschiedene Konzepte erlebt. Klausuren wurden "normal" im Hörsaal geschrieben, die ganze Zeit mit Maske auf und genügend Abstand. Oder Online als Quiz auf einer der Lernplattformen. Ebenfalls schon da gewesen: Online als *Open Book* Klausur (Man darf alles an Hilfsmitteln verwenden was nur da ist). Andere haben die Klausur gegen die Übungsleistung unter dem Semester getauscht, sodass die Punkte der Übungsblätter in die Endnote umgerechnet wurden.<br>
-Das ganze wird jedoch vom Prof. bestimmt und kann (bzw. wird) pro Veranstaltung unterschiedlich sein.
+**A:** Die Klausuren sollen wieder normal geschrieben werden.<br>
+~~Wir haben mittlerweile verschiedene Konzepte erlebt. Klausuren wurden "normal" im Hörsaal geschrieben, die ganze Zeit mit Maske auf und genügend Abstand. Oder Online als Quiz auf einer der Lernplattformen. Ebenfalls schon da gewesen: Online als *Open Book* Klausur (Man darf alles an Hilfsmitteln verwenden was nur da ist). Andere haben die Klausur gegen die Übungsleistung unter dem Semester getauscht, sodass die Punkte der Übungsblätter in die Endnote umgerechnet wurden.<br>
+Das ganze wird jedoch vom Prof. bestimmt und kann (bzw. wird) pro Veranstaltung unterschiedlich sein.~~
 
 ## Für höhere Semester
 
