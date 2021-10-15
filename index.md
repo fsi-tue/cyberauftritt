@@ -2,17 +2,24 @@
 
 ---
 ## *Aktuelle Informationen*
+
+### Neue Prüfungsordnung ab dem Wintersemester 2021
+Ab dem WS21/22 ist für Studienanfänger eine neue Prüfungsordnung in Kraft. Für Studierende die vor dem 
+WS21 mit dem Studium begonnen haben ist vielleicht [diese Informationsseite](infos/po-ws21) interessant.
+
 ### COVID-19 FAQ
 Eine FAQ zum aktuellen Status findest du [hier](/covid19/faq).
 
 ### Begrüßung der Erstsemester
-Unter der [Seite vom Fachbereich](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studienbeginn/) findet ihr Informationen zur Erstsemesterbegrüßung.
-Diese wird im übrigen am 30.10.2020 vollkommen online stattfinden. Zoom-Links etc. findet ihr auch auf der Seite.
+Unter der [Seite vom Fachbereich](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studienbeginn/) findet ihr zu gegebener Zeit Informationen zur Erstsemesterbegrüßung.
+<!--Diese wird im übrigen am 16.04.2021 vollkommen online stattfinden. Zoom-Links etc. findet ihr auch auf der Seite.-->
 
 ### Informationen für Erstsemester
-Aktuelle Informationen, den Anfibrief und die Anmeldung zu den Veranstaltungen findest du [hier](/anfiveranstaltungen).
-Die Vorkursvideos findest du [hier](https://timms.uni-tuebingen.de/tp/UT_20180911_001_infmatvk_0001), das dazugehörige aktuelle Skript zum Mathevorkurs [hier](https://www.fsi.uni-tuebingen.de/attachments/20201018141504.3720.50142/part-1/Skript_Vorkurs-Mathematik_1bis6.pdf).
+Aktuelle Informationen, den Anfibrief und die Anmeldung zu den Veranstaltungen findet ihr auf der Unterseite [Anfiveranstaltungen](/anfiveranstaltungen).
 
+Videos zum mathematischen Vorkurs findet ihr auf der Uni-eigenen Streaming-Plattform [*timmscast*](https://timms.uni-tuebingen.de/tp/UT_20180911_001_infmatvk_0001), das dazugehörige aktuelle Skript zum Mathevorkurs könnt ihr euch [hier herunterladen](https://www.fsi.uni-tuebingen.de/attachments/20201018141504.3720.50142/part-1/Skript_Vorkurs-Mathematik_1bis6.pdf).
+
+Außerdem solltet ihr euch das [Corona FAQ](/covid19/faq) angucken.
 
 ---
 
@@ -81,7 +88,7 @@ In der Regel solltet ihr eure Prüfungsanmeldung über CAMPUS bzw. alma erledige
 Wenn dies der Fall ist, müsst ihr euch auf den alten, analogen Weg mit einem Formular bei eurem Prüfungssekretariat anmelden. Hierfür braucht ihr die Modulnummer (INFxxx/MEINFxxx etc.), den Modulnamen und den Prüfer. Falls es um Wahlpflichtbereiche geht, müsst ihr zusätzlich angeben in welchem Bereich die Veranstaltung angerechnet werden soll.
 
 - [Formulare des Fachbereichs](https://uni-tuebingen.de/de/74351)
-- [Prüfungssekretariate](https://uni-tuebingen.de/de/74384) - alle Sekretariate haben Briefkästen, je nach Sekretariat sehr zu empfehlen.
+- [Prüfungssekretariate](https://uni-tuebingen.de/de/214849) - alle Sekretariate haben Briefkästen, je nach Sekretariat sehr zu empfehlen.
 
 **Achtung!** Die Prüfungsanmeldung beim Prüfungssekretariat ist vollkommen unabhängig von der Anmeldung der Veranstaltung, die Ihr über moodle/ILIAS/etc. am Anfang des Semesters macht. Nur weil ihr für den Übungsbetrieb einer Veranstaltung angemeldet seid, seid ihr nicht automatisch für die Prüfung angemeldet!
 
@@ -90,7 +97,7 @@ Ihr habt ein Anliegen, das sich durch Informationen der Uni und der Fachschaft n
 - [Zentrale Studienberatung](https://uni-tuebingen.de/de/8930)
 - [Psychologische Beratungsstelle des Studierendenwerks](https://www.my-stuwe.de/beratung-soziales/psychotherapeutische-beratung/)
 
-Weitere Informationen findet ihr auch auf den offiziellen Seiten der Uni zum Thema [Beratung bei Schwierigkeiten im Studienverlauf](https://uni-tuebingen.de/studium/beratung-und-info/zentrale-studienberatung/themen-der-beratung/schwierigkeiten-im-studienverlauf/).
+Weitere Informationen findet ihr auch auf den offiziellen Seiten der Uni zum Thema [Beratung bei Schwierigkeiten im Studienverlauf](https://uni-tuebingen.de/studium/beratung-und-info/zentrale-studienberatung/angebote-fuer-studierende/individuelle-beratung/schwierigkeiten-im-studienverlauf/).
 
 ## Kontakt für Firmen
 Sie möchten im Namen Ihres Unternehmens Stellenanzeigen über unsere Verteiler senden? Bitte verwenden sie **nicht** unsere offizielle E-Mail-Adresse, Ihr Stellenangebot kann sonst nicht bearbeitet werden. Sie finden alle relevanten Informationen unter [Kontakt für Unternehmen](infos/unternehmen).
