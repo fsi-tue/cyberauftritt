@@ -12,4 +12,4 @@ Wir sind hier nur mit beratender Stimme vetreten. Es schadet dennoch nichts, wen
 Der Prüfungsausschuss besteht aus dem Vorsitzenden, mehreren Professoren und wissenschaftlichen Mitarbeitern sowie zwei Studierenden. Eine komplette Übersicht über alle Mitglieder der verschiedenen Prüfungsausschüsse findet man auf der [Website der Universität](https://uni-tuebingen.de/de/74378). Unsere studentischen Vertreter sind im Moment Hannah Kessel und Oliver Bause, im Lehramt Saskia Honeck und Anja Mau.
 
 # Wie erreiche ich meine studentischen Vertreter?
-Bei Fragen rund um den Prüfungsausschuss reicht es, eine Mail an die [Fachschaft](mailto:fsi@fsi.uni-tuebingen.de) zu schreiben.
+Bei Fragen rund um den Prüfungsausschuss reicht es, eine Mail an die "fsi-pa [ät] fsi.uni-tuebingen.de" zu schreiben.
