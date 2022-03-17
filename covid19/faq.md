@@ -32,7 +32,7 @@ Alle Studienanfänger zum Wintersemester 21 sollten folgenden Vorlesungen hören
     <!--- Es gibt ein Diskussionsforum UND einen Discord Server-->
     <!--- Übungsgruppen und Fragestunden finden per Videokonferenz statt -->
 * [**Mathematik für Informatik 2: Lineare Algebra** bei Prof. Ochs](https://mop.math.uni-tuebingen.de/teaching.shtml)
-    - Auch oft: Mathe 1, Mathematik 2 für die Informatik, MfI2
+    - Auch oft: Mathe 2, Mathematik 2 für die Informatik, MfI2
 
 Weitere Grundvorlesungen die in einigen Studiengängen gehört werden sollen:
 * [**Technische Informatik 2: Informatik der Systeme** bei Prof. Menth](https://uni-tuebingen.de/de/223683)
@@ -49,7 +49,7 @@ Für mehr, siehe die Frage *Was ist Vorlesung XY? Wo bekomme ich Informationen?*
 unten.
 
 **F: Wie stelle ich Kontakt mit anderen Studenten her?**<br>
-**A:** Ein guter Anfang ist bei unserern [Anfiveranstaltungen](https://www.fsi.uni-tuebingen.de/anfiveranstaltungen) vorbei zu schauen und sich auf dem studentischen [Discord-Server](https://discord.gg/d4X2WjHWmQ) anzumelden.<br>
+**A:** Ein guter Anfang ist bei unseren [Anfiveranstaltungen](https://www.fsi.uni-tuebingen.de/anfiveranstaltungen) vorbei zu schauen und sich auf dem studentischen [Discord-Server](https://discord.gg/d4X2WjHWmQ) anzumelden.<br>
 Am Besten wählt ihr im Kanal `#rollenzuweisung` euren Studiengang und euer Semester.<br>
 Oder ihr geht in den Hörsaal und quatscht mit anderen Leuten während der VL... Also der Pause in der VL ;). Ihr bildet Übungsgruppen und geht abends mal gemeinsam in die Stadt. Auch Clubhausfeste sind zu empfehlen. 
 
