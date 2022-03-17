@@ -25,20 +25,18 @@ Studienanfänger aus dem Sommersemester beginnen in den Plänen bei *Semester 2*
 Erstsemester. Informationen dazu findet ihr in den neuen
 [Prüfungsordnungen](https://uni-tuebingen.de/de/176499).</span><br>
 Alle Studienanfänger zum Wintersemester 21 sollten folgenden Vorlesungen hören:
-* [**Praktische Informatik 1: Deklarative Programmierung** bei Prof. Ostermann](http://ps.informatik.uni-tuebingen.de/teaching/ws21/info1/)
-    - Auch oft umgangssprachlich: Info 1, Informatik 1
-    - Inhalt der VL ist funktionale Programmierung mit der Lehrsprache Racket
+* [**Praktische Informatik 2: Objektorientierte Programmierung** bei Prof. Lensch](https://uni-tuebingen.de/de/226194)
+    - Auch oft umgangssprachlich: Info 2, Informatik 2
+    - Inhalt der VL ist objektorientierte Programmierung mit Java
     - Es gibt wöchentliche Codeabgaben 
     <!--- Es gibt ein Diskussionsforum UND einen Discord Server-->
     <!--- Übungsgruppen und Fragestunden finden per Videokonferenz statt -->
-* [**Mathematik für Informatik 1: Analysis** bei Prof. Ochs](https://mop.math.uni-tuebingen.de/teaching.shtml)
-    - [Moodle Kurs](https://moodle.zdv.uni-tuebingen.de/enrol/index.php?id=2078)
-    - Themen sind unter anderem Logik, Boolsche Algebra, Beweisen, ...
-    - Auch oft: Mathe 1, Mathematik 1 für die Informatik, MfI1
+* [**Mathematik für Informatik 2: Lineare Algebra** bei Prof. Ochs](https://mop.math.uni-tuebingen.de/teaching.shtml)
+    - Auch oft: Mathe 1, Mathematik 2 für die Informatik, MfI2
 
 Weitere Grundvorlesungen die in einigen Studiengängen gehört werden sollen:
-* [**Technische Informatik 1: Digitaltechnik** bei Prof. Bringmann](https://embedded.uni-tuebingen.de/teaching/ws21/technische-informatik-1-digitaltechnik/)
-    - Ehemals **Einführung in die Technische Informatik**, ETI
+* [**Technische Informatik 2: Informatik der Systeme** bei Prof. Menth](https://uni-tuebingen.de/de/223683)
+    - Auch oft: IdS
 
 Allgemein gilt jedoch: Niemand zwingt euch, den Beispielstudienplan genau zu befolgen! Wichtig ist nur, dass ihr sämtliche Pflichtveranstaltungen gehört habt und eure Wahlpflichtbereiche mit passenden Modulen ([PO 2015](https://uni-tuebingen.de/de/135397), [PO 2021](https://uni-tuebingen.de/de/216966)) befüllt.
 
@@ -51,8 +49,9 @@ Für mehr, siehe die Frage *Was ist Vorlesung XY? Wo bekomme ich Informationen?*
 unten.
 
 **F: Wie stelle ich Kontakt mit anderen Studenten her?**<br>
-**A:** Das gestaltet sich in einem Corona-Semester als relativ schwierig. Aber ein guter Anfang ist bei unserern [Anfiveranstaltungen](https://www.fsi.uni-tuebingen.de/anfiveranstaltungen) vorbei zu schauen und sich auf dem studentischen [Discord-Server](https://discord.gg/d4X2WjHWmQ) anzumelden.<br>
-Am Besten wählt ihr im Kanal `#rollenzuweisung` euren Studiengang und euer Semester.
+**A:** Ein guter Anfang ist bei unserern [Anfiveranstaltungen](https://www.fsi.uni-tuebingen.de/anfiveranstaltungen) vorbei zu schauen und sich auf dem studentischen [Discord-Server](https://discord.gg/d4X2WjHWmQ) anzumelden.<br>
+Am Besten wählt ihr im Kanal `#rollenzuweisung` euren Studiengang und euer Semester.<br>
+Oder ihr geht in den Hörsaal und quatscht mit anderen Leuten während der VL... Also der Pause in der VL ;). Ihr bildet Übungsgruppen und geht abends mal gemeinsam in die Stadt. Auch Clubhausfeste sind zu empfehlen. 
 
 **F: Gibt es Informationsquellen für das Studentendasein in Tübingen?**<br>
 **A:** Gute Frage. Wir haben jedenfalls einen [Anfibrief](https://teri.fsi.uni-tuebingen.de/anfibrief/), der jedem Erstsemester zugeschickt worden sein sollte und euch über die erste Woche hinweg hilft. Zusätzlich haben wir das [Anfiheft](https://teri.fsi.uni-tuebingen.de/anfiheft/anfiheft-info.pdf), das die wichtigsten Dinge für das Leben als Student in Tübingen auffasst. In diesem findet sich auch das [Kneipen- und Kultur-Interface](https://kki.fsi.uni-tuebingen.de) abgedruckt, in dem wir versuchen alle Kneipen und Lokale zu katalogisieren.
