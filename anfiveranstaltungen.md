@@ -1,6 +1,7 @@
-# Anfiveranstaltungen Sommersemester 2022
+# Erstiveranstaltungen Sommersemester 2022
 
-*Bitte schaut immer wieder hier vorbei, um auf dem aktuellsten Stand zu sein.*
+*Bitte schaut immer wieder hier vorbei, um auf dem aktuellsten Stand zu sein.*<br>
+_Die [Anmeldung zu den Veranstaltungen ist im EEI](https://eei.fsi.uni-tuebingen.de/) ab sofort möglich._
 
 ### Erstsemesterbegrüßung
 Der Fachbereich begrüßt euch Erstis am *Donnerstag 14.04.2022*. *Wo? Wann? Wer?* Steht alles auf der [Seite vom Fachbereich](https://uni-tuebingen.de/de/90354). Informationen sollten bei Zeiten dort zu finden sein.
@@ -12,7 +13,7 @@ Schwerpunkt auf Präsenzveranstaltugen liegen.
 Sollte trotzdem etwas online stattfinden lest euch unsere Informationen zu Online-/Hybrid
 Semestern findet man auf unser [Corona Info Seite](covid19/faq/).
 
-### Anfibrief
+### Erstibrief
 Den [Erstsemesterbrief](https://teri.fsi.uni-tuebingen.de/anfibrief/) solltet ihr einige Wochen vor dem Beginn eures Studiums erhalten haben. Er enthält wichtige Informationen und Tipps über euer Studium und unsere Erstsemesterveranstaltungen. Es gibt für jeden Studiengang einen eigenen Brief.
 
 ### 04.04. - 14.04.2022: Mathematischer Vorbereitungskurs
@@ -26,8 +27,6 @@ Falls ihr nicht am Präsenzkurs teilnehmen könnt, gibt es auch bereits aufgenom
 
 ### Veranstaltungen der Fachschaft
 Mit Ausnahme des Mathematik-Vorkurses richten sich die Veranstaltungen auch an Masterstudenten, die neu nach Tübingen kommen. Ebenso sind auch alle Nebenfächler, Kognitionswissenschaftler und Informatik-Studiengänge ausdrücklich zu den genannten Veranstaltungen eingeladen!
-
-_Die Anmeldung zu den Veranstaltungen ist bereits möglich, bzw. wird demnächst möglich sein._
 
 Bitte beachtet, dass aufgrund der Corona Pandemie die Veranstaltungen mit weniger Menschen durchgeführt werden müssen. Aufgrund der hohen Nachfrage bitten wir euch, dass ihr euch nach Möglichkeit nur für eine Veranstaltung anmeldet. 
 (Darüber hinaus behalten wir es uns vor Personen von Veranstaltungen auszuschließen, die bereits an einer anderen Präsenzveranstaltung teilgenommen haben.)<br>
