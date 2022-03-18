@@ -19,24 +19,24 @@ Für Erstsemester haben wir ein [generelles Erstsemester-FAQ](https://www.fsi.un
 Die lange Version findet ihr auf der Seite [Über Uns](https://www.fsi.uni-tuebingen.de/ueber-uns).
 
 **F: Welche Vorlesungen muss ich hören?**<br>
-**A:** Das hängt von deinem Studiengang ab. Schau am besten im passenden Beispielstudienplan in eueren Modulhandbuch ([PO 2015](https://uni-tuebingen.de/de/135397), [PO 2021](https://uni-tuebingen.de/de/216966)) was dran wäre.<br>
-Studienanfänger aus dem Sommersemester beginnen in den Plänen bei *Semester 2*. Springen dann zu *1*. Dann *3*. Und ab hier kann extrapoliert werden.<br>
-<span style="color:red">Ab diesem Wintersemester gibt es eine neue Prüfungsordnung für
-Erstsemester. Informationen dazu findet ihr in den neuen
-[Prüfungsordnungen](https://uni-tuebingen.de/de/176499).</span><br>
+**A:** Das hängt von deinem Studiengang ab. Schau am besten den Beispielstudienplan in deinem Modulhandbuch ([PO 2015](https://uni-tuebingen.de/de/135397), [PO 2021](https://uni-tuebingen.de/de/216966)) an.<br> Erstis können zusätzlich im [Erstibrief](https://teri.fsi.uni-tuebingen.de/anfibrief/) nachschauen.
+Erstis aus dem Sommersemester beginnen in den Plänen bei *Semester 2*. Springen dann zu *1*. Dann *3*, *4* ...<br>
+
+<!--
 Alle Studienanfänger zum Wintersemester 21 sollten folgenden Vorlesungen hören:
 * [**Praktische Informatik 2: Objektorientierte Programmierung** bei Prof. Lensch](https://uni-tuebingen.de/de/226194)
     - Auch oft umgangssprachlich: Info 2, Informatik 2
     - Inhalt der VL ist objektorientierte Programmierung mit Java
     - Es gibt wöchentliche Codeabgaben 
-    <!--- Es gibt ein Diskussionsforum UND einen Discord Server-->
-    <!--- Übungsgruppen und Fragestunden finden per Videokonferenz statt -->
+    Es gibt ein Diskussionsforum UND einen Discord Server 
+     Übungsgruppen und Fragestunden finden per Videokonferenz statt
 * [**Mathematik für Informatik 2: Lineare Algebra** bei Prof. Ochs](https://mop.math.uni-tuebingen.de/teaching.shtml)
     - Auch oft: Mathe 2, Mathematik 2 für die Informatik, MfI2
 
 Weitere Grundvorlesungen die in einigen Studiengängen gehört werden sollen:
 * [**Technische Informatik 2: Informatik der Systeme** bei Prof. Menth](https://uni-tuebingen.de/de/223683)
     - Auch oft: IdS
+-->
 
 Allgemein gilt jedoch: Niemand zwingt euch, den Beispielstudienplan genau zu befolgen! Wichtig ist nur, dass ihr sämtliche Pflichtveranstaltungen gehört habt und eure Wahlpflichtbereiche mit passenden Modulen ([PO 2015](https://uni-tuebingen.de/de/135397), [PO 2021](https://uni-tuebingen.de/de/216966)) befüllt.
 
@@ -100,7 +100,8 @@ Für alle anderen. Ob asynchron per Video auf YouTube/[Timms](https://timms.uni-
 
 **F: Gibt es dieses Semester Veranstaltungen von der Fachschaft?**<br>
 **A:** Ja! Jedenfalls haben wir jeden Donnerstag um 18:30 unsere Sitzung in Präsenz (Sand 14, C125) oder [digital](https://bbb.fsi.uni-tuebingen.de/b/luk-v3t-dvk). Sollte aber ggf. im Kalender stehen. Danach gibt es meist ein gemütliches Beisammensitzen im Fachschaftszimmer oder eben unserem virtuellen Fachschaftszimmer auf Discord.<br>
-Darüber hinaus planen wir Online-Spieleabende auf dem [studentischen Discord](https://discord.gg/d4X2WjHWmQ). Die genauen Termine entnehmt ihr dem Kalender in der Seitenleiste <!-- Seeeitenleiste! Leeecker lecker lecker! --> oder [hier](https://cloud.fsi.uni-tuebingen.de/index.php/apps/calendar/p/e8wPTX4TBpCNpb7W/FSI). ~~Mit etwas Glück gibt es sogar ein Clubhausfest.~~ Leider nicht...
+Darüber hinaus planen wir Online-Spieleabende auf dem [studentischen Discord](https://discord.gg/d4X2WjHWmQ). Die genauen Termine entnehmt ihr dem Kalender in der Seitenleiste <!-- Seeeitenleiste! Leeecker lecker lecker! --> oder [hier](https://cloud.fsi.uni-tuebingen.de/index.php/apps/calendar/p/e8wPTX4TBpCNpb7W/FSI). 
+Mit etwas Glück gibt es sogar ein Clubhausfest.
 <!--Auch gibt es ein ...-->
 
 **F: Wie kann ich mich mit meinen Kommilitonen austauschen**<br>
@@ -129,10 +130,5 @@ Ein Verzeichnis über alle angebotenen Arbeiten am Fachbereich gibt es nicht, je
 **F: Soll ich in der Videokonferenz eine Maske tragen?**<br>
 **A:** Bisher sind keine Viren bekannt, die von PC zu Mensch übertragen wurden. Deshalb nein, nicht notwendig.
 
-**F: Muss ich mir immer noch die Hände waschen?**<br>
-**A:** JA, DU SCHMUTZFINK!! Körperpflege sollte nicht vernachlässigt werden!
-
 **F: Denkt ihr, ihr seid mit den Fragen hier witzig?**<br>
 **A:** Am Anfang ja. Jetzt mussten wir aber kürzen. Es waren zu viele Brüller.
-
-
