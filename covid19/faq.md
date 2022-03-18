@@ -12,7 +12,7 @@ Hast du eine Frage, die hier nicht aufgelistet ist oder weitergehende Fragen? Sc
 
 ## Für 1. und 2. Semester
 
-Für Erstsemester haben wir ein [generelles Erstsemester-FAQ](https://www.fsi.uni-tuebingen.de//infos/anfi-faq) und die [Seite für Studienanfänger](https://www.fsi.uni-tuebingen.de/infos/studienanfaenger), welche interessant sein sollten. Außerdem eine Übersicht über die [Anfiveranstaltungen](https://www.fsi.uni-tuebingen.de/anfiveranstaltungen).
+Für Erstsemester haben wir ein [generelles Erstsemester-FAQ](https://www.fsi.uni-tuebingen.de/infos/anfi-faq) und die [Seite für Studienanfänger](https://www.fsi.uni-tuebingen.de/infos/studienanfaenger), welche interessant sein sollten. Außerdem eine Übersicht über die [Erstiveranstaltungen](https://www.fsi.uni-tuebingen.de/anfiveranstaltungen).
 
 **F: Was ist die Fachschaft?**<br>
 **A:** Kurz gefasst: *Wir sind eure ehrenamtliche Studierendenvertretung; sitzen in Gremien; organisieren Feste und was sonst so anfällt.* Dazu findet ihr auch unsere [Vorstellungspräsentation](https://www.fsi.uni-tuebingen.de/anfip).<br>
@@ -49,12 +49,12 @@ Für mehr, siehe die Frage *Was ist Vorlesung XY? Wo bekomme ich Informationen?*
 unten.
 
 **F: Wie stelle ich Kontakt mit anderen Studenten her?**<br>
-**A:** Ein guter Anfang ist bei unseren [Anfiveranstaltungen](https://www.fsi.uni-tuebingen.de/anfiveranstaltungen) vorbei zu schauen und sich auf dem studentischen [Discord-Server](https://discord.gg/d4X2WjHWmQ) anzumelden.<br>
+**A:** Ein guter Anfang ist bei unseren [Erstiveranstaltungen](https://www.fsi.uni-tuebingen.de/anfiveranstaltungen) vorbei zu schauen und sich auf dem studentischen [Discord-Server](https://discord.gg/d4X2WjHWmQ) anzumelden.<br>
 Am Besten wählt ihr im Kanal `#rollenzuweisung` euren Studiengang und euer Semester.<br>
 Oder ihr geht in den Hörsaal und quatscht mit anderen Leuten während der VL... Also der Pause in der VL ;). Ihr bildet Übungsgruppen und geht abends mal gemeinsam in die Stadt. Auch Clubhausfeste sind zu empfehlen. 
 
 **F: Gibt es Informationsquellen für das Studentendasein in Tübingen?**<br>
-**A:** Gute Frage. Wir haben jedenfalls einen [Anfibrief](https://teri.fsi.uni-tuebingen.de/anfibrief/), der jedem Erstsemester zugeschickt worden sein sollte und euch über die erste Woche hinweg hilft. Zusätzlich haben wir das [Anfiheft](https://teri.fsi.uni-tuebingen.de/anfiheft/anfiheft-info.pdf), das die wichtigsten Dinge für das Leben als Student in Tübingen auffasst. In diesem findet sich auch das [Kneipen- und Kultur-Interface](https://kki.fsi.uni-tuebingen.de) abgedruckt, in dem wir versuchen alle Kneipen und Lokale zu katalogisieren.
+**A:** Gute Frage. Wir haben jedenfalls einen [Erstibrief](https://teri.fsi.uni-tuebingen.de/anfibrief/), der jedem Erstsemester zugeschickt worden sein sollte und euch über die erste Woche hinweg hilft. Zusätzlich haben wir das [Anfiheft](https://teri.fsi.uni-tuebingen.de/anfiheft/anfiheft-info.pdf), das die wichtigsten Dinge für das Leben als Student in Tübingen auffasst. In diesem findet sich auch das [Kneipen- und Kultur-Interface](https://kki.fsi.uni-tuebingen.de) abgedruckt, in dem wir versuchen alle Kneipen und Lokale zu katalogisieren.
 Das Nachtleben ist ein strukturell wichtiger Teil des Tübinger Studentendaseins, deshalb helft dabei mit das KKI aktuell zu halten!
 
 Und jetzt bitte noch den nächsten Abschnitt lesen.
@@ -77,7 +77,7 @@ Darunter befindet sich die **`info-studium`**-Mailingliste. <br>
 
 **F: Was ist Vorlesung XY? Wo bekomme ich Informationen?**<br>
 **A:** Die drei Stufen der Informationsgewinnung:
-1. Schaue im Beispielstudienplan ([PO 2015](https://uni-tuebingen.de/de/135397), [PO 2021](https://uni-tuebingen.de/de/216966)) oder dem [Anfiheft](https://teri.fsi.uni-tuebingen.de/anfiheft/anfiheft-info.pdf), welche Veranstaltung du in deinem momentanen Fachsemester belegen könntest.
+1. Schaue im Beispielstudienplan ([PO 2015](https://uni-tuebingen.de/de/135397), [PO 2021](https://uni-tuebingen.de/de/216966)) oder dem [Erstiheft](https://teri.fsi.uni-tuebingen.de/anfiheft/anfiheft-info.pdf), welche Veranstaltung du in deinem momentanen Fachsemester belegen könntest.
    <span style="color:red">Für die Prüfungsordnung WS 21 unterscheidet sich an einigen Stellen etwas zur früheren PO.</span>
 2. Finde auf [Alma](https://alma.uni-tuebingen.de) unter `"Mein Studium" -> "Studienplaner mit Modulplan"` die Veranstaltung und gehe auf ihre Seite.
 3. a) *ENTWEDER* steht auf dieser Seite alles im Infokasten *ODER* (wahrscheinlicher) ein Link zu einem Moodle/Ilias-Kurs oder der Veranstaltungsseite.<br>
