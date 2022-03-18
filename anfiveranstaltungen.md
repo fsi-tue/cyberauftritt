@@ -1,4 +1,4 @@
-# Anfiveranstaltungen Sommersemester 2022
+# Erstiveranstaltungen Sommersemester 2022
 
 *Bitte schaut immer wieder hier vorbei, um auf dem aktuellsten Stand zu sein.*
 
@@ -12,7 +12,7 @@ Schwerpunkt auf Präsenzveranstaltugen liegen.
 Sollte trotzdem etwas online stattfinden lest euch unsere Informationen zu Online-/Hybrid
 Semestern findet man auf unser [Corona Info Seite](covid19/faq/).
 
-### Anfibrief
+### Erstibrief
 Den [Erstsemesterbrief](https://teri.fsi.uni-tuebingen.de/anfibrief/) solltet ihr einige Wochen vor dem Beginn eures Studiums erhalten haben. Er enthält wichtige Informationen und Tipps über euer Studium und unsere Erstsemesterveranstaltungen. Es gibt für jeden Studiengang einen eigenen Brief.
 
 ### 04.04. - 14.04.2022: Mathematischer Vorbereitungskurs
