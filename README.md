@@ -1,5 +1,8 @@
 # Website der Fachschaft Informatik Tübingen
 
+# Dieses Repository wird archiviert, da die FSI eine neue Website basierend auf Wordpress nutzt.
+## Bitte trotz Archivierung nie löschen, höchstens das Repository umbenennen.
+
 [![Build Status](https://github.com/fsi-tue/cyberauftritt/actions/workflows/jekyll.yml/badge.svg?branch=master)](https://github.com/fsi-tue/cyberauftritt/actions?query=branch%3Amaster)
 [![License](https://img.shields.io/github/license/fsi-tue/cyberauftritt.svg)](https://github.com/fsi-tue/cyberauftritt/blob/master/LICENSE.txt)
 [![Depfu](https://img.shields.io/depfu/fsi-tue/cyberauftritt.svg)](https://depfu.com/github/fsi-tue/cyberauftritt)
